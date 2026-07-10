@@ -5,6 +5,24 @@ Washington Gas (210, drafted) and Events DC (224, drafted). Each item
 below was checked for geographic/entity fit before spending drafting
 time, per the playbook's qualify-first step.
 
+## Row 229 — International Paper Grants: likely NO-GO, URGENT (already "Started" by NM+DD, due July 13)
+
+International Paper's own eligibility rule: "If your organization does
+not have an International Paper location in the community, you are not
+eligible for grant funding." Their US grant activity is tied to mill and
+plant towns (Columbus/Brunswick, NC and similar), not urban centers like
+DC. This looks like the same facility-proximity dealbreaker as Corning
+(row 200) and Entergy (row 232). The row is already marked "Started" with
+a note "Prepped, focus on education," jointly owned by Neo and Dumi, and
+due July 13 at 3:00 pm, three days from today.
+
+**Recommendation:** confirm with Neo immediately whether GOODProjects has
+any confirmed IP facility connection before investing more prep time.
+Given the required documentation (W-9, audited financials, itemized
+program budget, current funder list, board list), this is a substantial
+application to complete in three days for an opportunity that looks
+likely to fail eligibility screening regardless.
+
 ## Row 200 — Corning Incorporated Foundation: likely NO-GO
 
 Corning's Community Impact grants are restricted to organizations within
