@@ -52,6 +52,9 @@ year, not a full-year total).
 | NY Life Foundation | Aug26 - Aug'27 ( Part 2) | Restricted | — | — | $50,000.00 |
 | Greater Washington Community Foundation | — | — | — | — | $100,000.00 |
 
+The Humanities DC / BJF award above has a full funded budget and narrative
+on file at `../budgets/bjf_community_engagement_budget_narrative.md`.
+
 ## 2025 (23 awards, $2,153,106.00)
 
 | Funder | Program | Restricted/Unrestricted | Start | End | Amount |

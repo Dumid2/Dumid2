@@ -4,6 +4,11 @@
 > `06-strategic-brief-2026.pdf`, same folder). Marketing/donor-facing
 > document — cross-check any figure against `04-impact-data.md` or audited
 > source documents before citing in a compliance-sensitive submission.
+>
+> An earlier three-phase draft of this same brief (no JUMPSTART phase,
+> flat "$1,800,000 operating budget" framing) also exists in
+> `superseded/2026-strategic-plan-3phase-draft.md` — that version is
+> outdated; this file is the canonical one to draw from.
 
 ## Framing
 
