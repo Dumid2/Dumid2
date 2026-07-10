@@ -59,6 +59,35 @@ reconciling with Darius/Neo rather than picking one silently.
 - **FY2024 audit:** Desai Company, unmodified ("clean") opinion, dated
   September 7, 2025. Matches the "unmodified opinion" claim already in the
   templates.
+- **Certificate of Good Standing (DC):** issued 05/26/2026 by DC's
+  Department of Licensing and Consumer Protection, Corporations Division
+  (tracking # C2026CT0085377). Confirms "Good Projects, Inc." is a domestic
+  nonprofit corporation, formed under DC law **01/14/2016**, all fees/biennial
+  reports current, not dissolved. **Note the minor discrepancy**: this filing
+  date (Jan 14, 2016) is the legal incorporation date; `01-org-identity.md`
+  and the strategic brief both say "Founded 2016" without a specific month —
+  no conflict, just don't state a founding month more precise than the org
+  itself does without checking with Darius/Neo first.
+- **Certificate of Liability Insurance (ACORD 25):** issued 05/26/2026,
+  certificate # CL25121221902, insured as "GOOD Projects," 996 Maine Ave SW
+  #208. Coverage in force 12/06/2025–12/06/2026 (cyber policy separately
+  08/09/2025–08/09/2026):
+  - Commercial General Liability: $1M each occurrence / $3M general
+    aggregate / $3M products-completed operations aggregate, plus
+    Professional Liability $1M/2M and Sexual Abuse/Molestation Liability
+    $1M/3M endorsements on the same policy.
+  - Umbrella/Excess Liability: $5M each occurrence / $5M aggregate.
+  - Cyber Liability: $2M limit.
+  - **The Government of the District of Columbia is a named additional
+    insured**, with a waiver of subrogation in DC's favor, coverage
+    primary and non-contributory, and 30-day cancellation notice — this is
+    the exact language DC government RFPs typically require. Certificate
+    holder of record is DC government (1350 Pennsylvania Ave NW).
+  - This satisfies the insurance-certificate attachment requirement in the
+    DC government template as-is; for a federal or foundation submission,
+    confirm whether they need the certificate holder re-addressed to them
+    specifically (ask the broker, Cooley and Darling Insurance Agency,
+    Andy Cooley, (703) 881-0113, for a re-issued certificate if so).
 
 ## FY2024 audited financials (year ended Dec 31, 2024)
 
@@ -109,12 +138,17 @@ runway.
 | Attachment | Status |
 |---|---|
 | 501(c)(3) Determination Letter | Not yet provided |
-| Certificate of Good Standing (DC) | Not yet provided |
+| Certificate of Good Standing (DC) | **On file** — `certificate_of_good_standing_2026.pdf` (issued 5/26/2026) |
 | Business License | Not yet provided |
 | Clean Hands Certificate | **On file** — `clean_hands_certificate_2026.pdf` (issued 4/23/2026) |
 | Conflict of Interest Policy | **On file** — `conflict_of_interest_policy.pdf` |
+| Certificate of Liability Insurance | **On file** — `certificate_of_liability_insurance_2026.pdf` (coverage through 12/06/2026; cyber through 08/09/2026) |
 | Audited financial statements (FY2024) | **On file** — `audited_financials_2024.pdf` |
 | Form 990 (FY2024) | **On file** — `form_990_2024.pdf` |
 | Board of Directors list with affiliations | Available via Form 990 Part VII + `03-staff-board.md` |
 | SAM.gov / UEI registration status | Not yet confirmed |
 | Negotiated Indirect Cost Rate Agreement (NICRA) | Not yet confirmed — templates default to 10% de minimis |
+
+Still missing for a fully-attached federal or DC-government package: the
+501(c)(3) determination letter and current DC business license. Everything
+else on the standard compliance checklist is now on file in this folder.
