@@ -1,37 +1,60 @@
 # GOODZone Crime Data & Community Need (2019–2025)
 
-> Source: `Crime Data Comparison — GOODZone 2019–2025`. A DC-government-
-> facing advocacy piece built around a $1.5M annual investment ask. Useful
-> for violence-prevention/public-safety proposals and for DC-government
-> submissions needing comparative crime statistics. **The financial figures
-> in this document are dated (see caution below) — do not cite the cash
-> position/ask amount without confirming current numbers with Neo/Cole.**
+> Two source documents live here: `crime_data_comparison_2019_2025.pdf`
+> (the shorter, $1.5M-ask advocacy piece) and
+> `complete_crime_data_2019_2025.pdf` (a fuller, MPD-cited year-by-year
+> breakdown for all four areas with violent AND property crime, footnoted
+> to MPD Crime Cards / The Wash). **Treat the "complete" report as the
+> authoritative source for specific crime figures** — it's fully
+> footnoted and its cumulative totals (249 violent / 1,215 property in the
+> GOODZone) match the "249 vs. 601" claim already used in
+> `04-impact-data.md` and `06-strategic-brief-2026.md`, which confirms
+> that claim is sourced correctly.
 
-## Year-by-year violent crime counts in the GOODZone (Southwest Public Housing Community)
+## Full year-by-year data (MPD-sourced, "complete" report)
 
-| Year | Violent crime cases |
-|---|---|
-| 2023 | 52 (peak) |
-| 2024 | 29 |
-| 2025 (year-to-date at time of writing) | 16 |
+**Violent crime** (homicide, assault w/ deadly weapon, robbery, sex abuse):
 
-This is a different cut of the data than the "45% reduction 2023–2024 vs.
-12% citywide increase" and "249 vs. 601 incidents over six years" figures
-in `04-impact-data.md` and `06-strategic-brief-2026.md` — those are
-independently sourced/framed (rate comparisons and six-year cumulative
-totals) rather than these year-by-year case counts. Not a contradiction,
-but cite the specific framing (case count vs. rate vs. cumulative) that
-matches what a funder is asking for, and don't blend the two into one
-number.
+| Area | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 YTD (mid-Aug) | Cumulative '19–'25 |
+|---|---|---|---|---|---|---|---|---|
+| GOODZone (PSA 105) | 19 | 48 | 47 | 37 | 53 | 29 | 16 | **249** |
+| Navy Yard (PSA 106) | 35 | 84 | 101 | 103 | 138 | 84 | 56 | **601** |
+| The Wharf (PSA 103) | 14 | 27 | 23 | 23 | 54 | 28 | 15 | **184** |
+| DC citywide | 1,695 | 4,005 | 4,113 | 3,834 | 5,331 | 3,466 | 1,593 | **24,037** |
 
-## Comparative context (used to argue for equitable DC investment)
+**Property crime** (theft, motor vehicle theft, burglary, etc.):
 
-- **Navy Yard:** averages 100+ violent crimes annually.
-- **The Wharf:** flat, little improvement.
-- GOODZone serves a more vulnerable population — public housing families
-  with lower income/education levels than Navy Yard or the Wharf.
+| Area | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 YTD (mid-Aug) | Cumulative '19–'25 |
+|---|---|---|---|---|---|---|---|---|
+| GOODZone (PSA 105) | 84 | 174 | 163 | 171 | 234 | 244 | 145 | **1,215** |
+| Navy Yard (PSA 106) | 388 | 678 | 869 | 782 | 1,010 | 968 | 491 | **5,186** |
+| The Wharf (PSA 103) | 156 | 240 | 236 | 259 | 311 | 253 | 155 | **1,610** |
+| DC citywide | 12,269 | 23,926 | 24,208 | 23,328 | 28,904 | 25,819 | 14,280 | **152,734** |
 
-## Investment-imbalance argument (for equity framing in DC-government asks)
+(2025 figures are year-to-date through mid-August 2025; cumulative totals
+include that partial year. PSA 105 = SW public housing/GOODZone, PSA 103 =
+Wharf, PSA 106 = Navy Yard.)
+
+## Headline framings this data supports
+
+- **Violent crime, six-year cumulative:** GOODZone (249) is **less than
+  half** Navy Yard's total (601), despite serving a more vulnerable,
+  lower-income public-housing population.
+- **Violent crime trajectory:** GOODZone rose ~53% from 2019 to 2024 (19→29,
+  with 2023 as an outlier peak at 53); Navy Yard rose ~140% over the same
+  period (35→84, peaking at 138 in 2023). GOODZone's 2024 count (29) was
+  roughly one-third of Navy Yard's (84).
+- **Property crime:** GOODZone's six-year cumulative (1,215) is a fraction
+  of Navy Yard's (5,186) — about one-quarter in 2024 alone (244 vs. 968).
+- **2025 trend:** GOODZone property crime is on pace to finish under 200
+  for the first time in three years, a faster year-over-year decline than
+  either neighboring area.
+- One minor inter-document rounding difference: the shorter advocacy piece
+  states 2023 GOODZone violent crime as "52 (peak)"; the complete report
+  says 53. Immaterial, but use the complete report's number (53) since
+  it's the fully-cited one.
+
+## Investment-imbalance argument (from the shorter advocacy piece — equity framing for DC-government asks)
 
 - Georgetown's Jelleff Boys & Girls Club: historically **$610,000/year**
   in city support.
@@ -40,7 +63,7 @@ number.
 - GOODProjects, serving a higher-need population with proven outcomes,
   operates without comparable city investment.
 
-## The ask in this document
+## The $1.5M ask in the shorter advocacy piece
 
 **$1.5 million annual investment from DC**, split:
 - $500,000 to sustain existing GOODZone programming
