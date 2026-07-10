@@ -137,7 +137,7 @@ runway.
 
 | Attachment | Status |
 |---|---|
-| 501(c)(3) Determination Letter | Not yet provided |
+| 501(c)(3) Determination Letter | **On file** — `501c3_determination_letter.pdf` (IRS, dated 7/29/2016, effective date of exemption 1/14/2016) |
 | Certificate of Good Standing (DC) | **On file** — `certificate_of_good_standing_2026.pdf` (issued 5/26/2026) |
 | Business License | Not yet provided |
 | Clean Hands Certificate | **On file** — `clean_hands_certificate_2026.pdf` (issued 4/23/2026) |
@@ -146,9 +146,48 @@ runway.
 | Audited financial statements (FY2024) | **On file** — `audited_financials_2024.pdf` |
 | Form 990 (FY2024) | **On file** — `form_990_2024.pdf` |
 | Board of Directors list with affiliations | Available via Form 990 Part VII + `03-staff-board.md` |
+| Employee Handbook (HR/EEO/anti-harassment policies) | **On file** — `employee_handbook_2024.pdf` (see note below) |
 | SAM.gov / UEI registration status | Not yet confirmed |
 | Negotiated Indirect Cost Rate Agreement (NICRA) | Not yet confirmed — templates default to 10% de minimis |
 
-Still missing for a fully-attached federal or DC-government package: the
-501(c)(3) determination letter and current DC business license. Everything
-else on the standard compliance checklist is now on file in this folder.
+Still missing for a fully-attached federal or DC-government package: a
+current DC business license. Everything else on the standard compliance
+checklist is now on file in this folder.
+
+### 501(c)(3) Determination Letter — key facts
+
+IRS Letter 947, dated **July 29, 2016**. Confirms exemption under IRC
+501(c)(3), public charity status **170(b)(1)(A)(vi)**, effective date of
+exemption **January 14, 2016** (same date as the DC corporate formation
+date on the Certificate of Good Standing — the "founded February 2016"
+figure used elsewhere is the org's own rounding/framing, not a
+discrepancy with the legal record). Required to file Form 990/990-EZ/990-N
+annually. Original address on file with the IRS: 1207 Decatur St NW,
+Washington, DC 20011 (an earlier address than the current 996 Maine
+Avenue SW location — expected for an organization that's moved since
+2016, not a red flag).
+
+### Employee Handbook (2024 revision) — relevant for HR/governance attachments
+
+Some federal and DC funders ask for assurances or copies of specific HR
+policies. GOODProjects' Employee Handbook confirms the organization has
+formal, written policies for all of the following — cite the handbook
+directly if a funder's checklist asks whether these exist:
+
+- Equal Employment Opportunity (EEO) Policy
+- Anti-Harassment & Sexual Harassment Prevention Policy (zero-tolerance)
+- Anti-Retaliation Policy
+- Safety accommodations for victims of stalking/domestic violence/sexual abuse (DC Accrued Sick and Safe Leave Act)
+- Lactation Accommodation Policy
+- Workplace Violence Prevention Policy (zero-tolerance)
+- Substance Abuse Policy
+- Background Check Policy (required for all staff/volunteers working with youth)
+- Confidentiality Policy (all employees sign a Confidentiality Agreement)
+- Conflict of Interest disclosure (staff-level, distinct from the board-level COI Policy already on file)
+- COVID-19 Vaccination Policy
+
+Employee benefits confirmed in the handbook: medical/dental/vision,
+$25,000 group whole life insurance (no cost to employee), short- and
+long-term disability, PTO scaling from 15 to 35 days/year by tenure, and
+compliance with DC Paid Family Leave. Useful if a proposal needs to speak
+to staff retention/competitive compensation practices.

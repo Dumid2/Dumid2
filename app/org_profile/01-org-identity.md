@@ -69,6 +69,35 @@ Southwest DC public housing communities — James Creek, Syphax Gardens, and Gre
 
 ---
 
+## Founding Story (from the Employee Handbook, 2024 revision)
+
+GOODProjects' first program was **GOODCamps, launched summer 2015** — a
+year before legal incorporation — in direct response to a **54% spike in
+gun violence**. After five weeks serving the most at-risk youth at
+Anacostia High School, **ANC 8A recorded zero gun-related crimes**. That
+result led GOODProjects into the juvenile-justice space in partnership
+with the **DC Department of Youth Rehabilitation Services (DYRS)**.
+
+In **2019**, GOODProjects launched its strategic umbrella — **the
+GOODZones Initiative** — to end poverty block-by-block, household-by-
+household, acting as the "community quarterback" for government-funded
+housing communities. GOODZones was formulated by all three co-founders
+(Troye Bullock, Daniel Wright, Darius Baxter) **in consultation with the
+Ford Foundation**, and designed in alignment with the **2017 U.S.
+Treasury Opportunity Zones legislation**. As the "community quarterback,"
+GOODProjects coordinates dozens of partner organizations delivering
+services in collaboration with its own focus areas: housing, education,
+youth development, wealth building, and community culture development.
+
+This is good origin-story material for "organizational history"
+narrative sections — it establishes on-the-ground results (ANC 8A) a full
+year before 501(c)(3) status, and ties the GOODZones model explicitly to
+a recognized federal policy framework (Opportunity Zones) and a national
+funder (Ford Foundation), which can strengthen federal/foundation
+narratives about model credibility.
+
+---
+
 ## Co-Founder & CEO Bio — Darius Baxter
 
 Darius Baxter co-founded GOODProjects in 2016 after graduating from Georgetown University with a degree in Women's and Gender Studies with a concentration in Globalization and Poverty. Raised by a single mother after the murder of his father, and having experienced homelessness, Baxter has directed $8M+ in community investment into Southwest DC and abroad. He worked on Capitol Hill for Congresswoman Eleanor Holmes Norton and was elected as one of the youngest delegates to the 2016 Democratic National Convention. He launched the Baxter Family Kids Centre in Nairobi, Kenya in 2019 and the Black Justice Fund in 2025 with an initial $150,000 commitment. He serves on the board of DC Central Kitchen and has partnered with the NFL Players Association, New Balance, and Wondros. ED start date: January 2, 2016.
