@@ -76,26 +76,32 @@ confirming with Neo whether GOODProjects is already a CACFP sponsor via
 existing afterschool meal programming (DC Central Kitchen partnership
 suggests meals are already happening, possibly already through CACFP).
 
-## Row 217 — DC Commission on the Arts & Humanities, Field Trip Experiences: needs a program-fit check before drafting
+## Row 217 — DC Commission on the Arts & Humanities, Field Trip Experiences: real field trips exist, but none satisfy the DC-location rule
 
 FY26 cycle already closed (June 26, 2025); the FY27 cycle deadline is
 July 24, 2026, matching the dev bible's date. Eligibility requires the
 applicant to be "the producer of the arts or humanities field trip
-experience" described in the application, with all programming taking
-place in DC. GOODProjects' program files document "field trips" only as
-a transportation line item within GOODSports (Metro cards / van rental
-for games and field trips), not as a standalone field-trip program with
-its own curriculum, destination, or educational partner (e.g., a museum
-or theater visit). Writing a full narrative here would mean describing a
-field-trip program that is not documented anywhere in GOODProjects'
-canon.
+experience," with **all programming taking place in DC** — deviations
+disqualify the application.
 
-**Recommendation:** before drafting, confirm with Stephanie Page-Baxter
-or Phileke Holland whether GOODLearningHub or GOODCamp already runs a
-specific off-site field trip (e.g., a museum, theater, or cultural site
-visit) that could anchor this application. If one exists, this is
-likely fundable; if not, this would need a new activity designed
-specifically for this grant, which is a bigger lift than a same-day draft.
+The "PROGRAM DATES (2026)" planning document (now distilled into
+`../org_profile/12-program-calendar-and-field-trips.md`) confirms
+GOODProjects runs a real, extensive summer field trip calendar. The
+three trips that qualify as arts/humanities content are Wolf Trap
+Children's Theatre-in-the-Woods (Vienna, VA), AnnMarie Sculpture Garden &
+Art Center (Solomons, MD), and Creative Cauldron (Falls Church, VA).
+**All three are outside DC**, which appears to disqualify them under this
+specific grant's location rule. The one DC-based trip on the calendar
+(Kraken Kourts & Skates) is recreational, not arts/humanities.
+
+**Recommendation:** this grant would need to be built around a *new*
+DC-based arts/humanities field trip GOODProjects commits to for the FY27
+program year (e.g., a Smithsonian museum, the Kennedy Center, or Arena
+Stage, which is itself in Southwest DC, close to GOODProjects' own
+service area). That's a real commitment for program staff, not just a
+paperwork exercise, so it needs a decision from Neo or program leadership
+on which DC venue to propose before a narrative can be written. Flagged
+back to Dumi in chat rather than drafted speculatively.
 
 ## Rows already in progress — flagged, not touched
 
