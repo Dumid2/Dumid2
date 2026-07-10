@@ -1,3 +1,5 @@
+import base64
+
 import anthropic
 
 from app.schemas import GrantDraftRequest
@@ -7,11 +9,12 @@ MODEL = "claude-sonnet-5"
 SYSTEM_PROMPT = """You are an expert grant writer. You write clear, compelling, \
 funder-ready grant proposal drafts based on the organization, project, and \
 funder information you're given. Follow any word/page limits and required \
-sections implied by the funder's RFP requirements. Write in a professional, \
+sections implied by the funder's RFP requirements — read any attached RFP \
+or supporting documents carefully before drafting. Write in a professional, \
 persuasive, and specific tone — avoid generic filler language."""
 
 
-def build_user_prompt(request: GrantDraftRequest) -> str:
+def build_user_prompt(request: GrantDraftRequest, has_documents: bool = False) -> str:
     org = request.organization
     project = request.project
     funder = request.funder
@@ -53,14 +56,21 @@ def build_user_prompt(request: GrantDraftRequest) -> str:
         "",
         "## Funder",
         f"Name: {funder.name}",
-        f"RFP requirements: {funder.rfp_requirements}",
     ]
+    if funder.rfp_requirements:
+        lines.append(f"RFP requirements: {funder.rfp_requirements}")
+    elif has_documents:
+        lines.append("RFP requirements: see the attached document(s) above.")
     if funder.focus_areas:
         lines.append("Focus areas: " + ", ".join(funder.focus_areas))
     if funder.word_or_page_limit:
         lines.append(f"Word/page limit: {funder.word_or_page_limit}")
 
     return "\n".join(lines)
+
+
+def _extract_text(response: anthropic.types.Message) -> str:
+    return next(block.text for block in response.content if block.type == "text")
 
 
 def generate_grant_draft(request: GrantDraftRequest) -> str:
@@ -75,4 +85,51 @@ def generate_grant_draft(request: GrantDraftRequest) -> str:
     ) as stream:
         response = stream.get_final_message()
 
-    return next(block.text for block in response.content if block.type == "text")
+    return _extract_text(response)
+
+
+def _pdf_block(pdf_bytes: bytes, title: str | None = None) -> dict:
+    block = {
+        "type": "document",
+        "source": {
+            "type": "base64",
+            "media_type": "application/pdf",
+            "data": base64.standard_b64encode(pdf_bytes).decode("utf-8"),
+        },
+    }
+    if title:
+        block["title"] = title
+    return block
+
+
+def generate_grant_draft_with_documents(
+    request: GrantDraftRequest,
+    rfp_pdf: bytes | None = None,
+    supporting_pdfs: list[tuple[str, bytes]] | None = None,
+) -> str:
+    """Same as generate_grant_draft, but with PDFs (RFP and/or supporting docs)
+    attached directly to the request instead of requiring pasted-in text."""
+    supporting_pdfs = supporting_pdfs or []
+    client = anthropic.Anthropic()
+
+    content: list[dict] = []
+    if rfp_pdf:
+        content.append(_pdf_block(rfp_pdf, title="RFP"))
+    for filename, pdf_bytes in supporting_pdfs:
+        content.append(_pdf_block(pdf_bytes, title=filename))
+
+    has_documents = bool(content)
+    content.append(
+        {"type": "text", "text": build_user_prompt(request, has_documents=has_documents)}
+    )
+
+    with client.messages.stream(
+        model=MODEL,
+        max_tokens=8000,
+        system=SYSTEM_PROMPT,
+        output_config={"effort": "high"},
+        messages=[{"role": "user", "content": content}],
+    ) as stream:
+        response = stream.get_final_message()
+
+    return _extract_text(response)

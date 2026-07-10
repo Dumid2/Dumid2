@@ -21,7 +21,8 @@ class ProjectInfo(BaseModel):
 
 class FunderInfo(BaseModel):
     name: str
-    rfp_requirements: str
+    # Optional when an RFP document is uploaded instead (see /grants/draft/upload).
+    rfp_requirements: str | None = None
     focus_areas: list[str] = Field(default_factory=list)
     word_or_page_limit: str | None = None
 
