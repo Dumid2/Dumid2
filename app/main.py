@@ -3,17 +3,39 @@ from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 
 load_dotenv()
 
+from app import db
 from app.grant_agent import generate_grant_draft, generate_grant_draft_with_documents
-from app.schemas import GrantDraftRequest, GrantDraftResponse
+from app.schemas import (
+    DraftDetail,
+    DraftSummary,
+    GrantDraftRequest,
+    GrantDraftResponse,
+)
 
 app = FastAPI(title="Grant Writing Agent")
 
 MAX_PDF_SIZE = 32 * 1024 * 1024  # Anthropic's per-request PDF size limit
 
 
+@app.on_event("startup")
+def on_startup() -> None:
+    db.init_db()
+
+
 @app.get("/health")
 def health() -> dict[str, str]:
     return {"status": "ok"}
+
+
+def _save_draft(request: GrantDraftRequest, draft: str) -> GrantDraftResponse:
+    row = db.save_draft(
+        organization_name=request.organization.name,
+        project_title=request.project.title,
+        funder_name=request.funder.name,
+        request_json=request.model_dump_json(),
+        draft=draft,
+    )
+    return GrantDraftResponse(id=row["id"], created_at=row["created_at"], draft=draft)
 
 
 @app.post("/grants/draft", response_model=GrantDraftResponse)
@@ -28,7 +50,29 @@ def draft_grant(request: GrantDraftRequest) -> GrantDraftResponse:
         draft = generate_grant_draft(request)
     except Exception as exc:
         raise HTTPException(status_code=502, detail=str(exc)) from exc
-    return GrantDraftResponse(draft=draft)
+    return _save_draft(request, draft)
+
+
+@app.get("/grants/drafts", response_model=list[DraftSummary])
+def list_drafts(limit: int = 20, offset: int = 0) -> list[DraftSummary]:
+    rows = db.list_drafts(limit=limit, offset=offset)
+    return [DraftSummary(**dict(row)) for row in rows]
+
+
+@app.get("/grants/drafts/{draft_id}", response_model=DraftDetail)
+def get_draft(draft_id: int) -> DraftDetail:
+    row = db.get_draft(draft_id)
+    if row is None:
+        raise HTTPException(status_code=404, detail=f"Draft {draft_id} not found")
+    return DraftDetail(
+        id=row["id"],
+        created_at=row["created_at"],
+        organization_name=row["organization_name"],
+        project_title=row["project_title"],
+        funder_name=row["funder_name"],
+        draft=row["draft"],
+        request=GrantDraftRequest.model_validate_json(row["request_json"]),
+    )
 
 
 async def _read_pdf(file: UploadFile) -> bytes:
@@ -76,4 +120,4 @@ async def draft_grant_with_documents(
         )
     except Exception as exc:
         raise HTTPException(status_code=502, detail=str(exc)) from exc
-    return GrantDraftResponse(draft=draft)
+    return _save_draft(parsed_request, draft)

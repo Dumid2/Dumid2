@@ -34,4 +34,19 @@ class GrantDraftRequest(BaseModel):
 
 
 class GrantDraftResponse(BaseModel):
+    id: int
+    created_at: str
     draft: str
+
+
+class DraftSummary(BaseModel):
+    id: int
+    created_at: str
+    organization_name: str
+    project_title: str
+    funder_name: str
+
+
+class DraftDetail(DraftSummary):
+    draft: str
+    request: GrantDraftRequest
