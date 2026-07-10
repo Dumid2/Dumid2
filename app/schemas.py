@@ -1,14 +1,6 @@
 from pydantic import BaseModel, Field
 
 
-class OrganizationInfo(BaseModel):
-    name: str
-    mission: str
-    ein: str | None = None
-    years_operating: int | None = None
-    past_grants: list[str] = Field(default_factory=list)
-
-
 class ProjectInfo(BaseModel):
     title: str
     description: str
@@ -28,7 +20,6 @@ class FunderInfo(BaseModel):
 
 
 class GrantDraftRequest(BaseModel):
-    organization: OrganizationInfo
     project: ProjectInfo
     funder: FunderInfo
 

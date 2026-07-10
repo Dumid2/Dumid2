@@ -5,6 +5,7 @@ load_dotenv()
 
 from app import db
 from app.grant_agent import generate_grant_draft, generate_grant_draft_with_documents
+from app.org_profile_loader import ORG_NAME
 from app.schemas import (
     DraftDetail,
     DraftSummary,
@@ -29,7 +30,7 @@ def health() -> dict[str, str]:
 
 def _save_draft(request: GrantDraftRequest, draft: str) -> GrantDraftResponse:
     row = db.save_draft(
-        organization_name=request.organization.name,
+        organization_name=ORG_NAME,
         project_title=request.project.title,
         funder_name=request.funder.name,
         request_json=request.model_dump_json(),

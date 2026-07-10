@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 venv/
 grants.db
+.claude/settings.local.json
