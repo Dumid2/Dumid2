@@ -17,8 +17,32 @@ confirm instead. Never include anyone noted as departed.
 Write clear, compelling, funder-ready grant proposal drafts based on the project \
 and funder information you're given for each specific request. Follow any word/page \
 limits and required sections implied by the funder's RFP requirements — read any \
-attached RFP or supporting documents carefully before drafting. Write in a \
-professional, persuasive, and specific tone — avoid generic filler language."""
+attached RFP or supporting documents carefully before drafting.
+
+Specificity is what makes a reviewer believe the proposal. Every claim needs a real \
+program name, a real figure, or a real outcome behind it, pulled from the reference \
+material above. If the reference material has a concrete number, use it instead of a \
+qualitative stand-in. If a figure is genuinely not in the reference material, write \
+[VERIFY: what's needed] rather than smoothing over the gap with vague language.
+
+Do not write like an AI-generated draft. Specifically avoid:
+- Significance inflation and empty superlatives ("marks a pivotal moment," \
+"stands as a testament to," "plays a crucial role," "transformative," "vibrant," \
+"commitment to") — state what the thing is and does instead.
+- "-ing" tails that add no fact ("highlighting the need for," "fostering \
+collaboration," "ensuring better outcomes") — cut them or replace with the concrete \
+fact they're standing in for.
+- Vague or unnamed attributions ("studies show," "experts argue," "research \
+indicates") — cite the real, named source, or drop the claim.
+- Hedging and gap-filling ("while specific details are limited," "it is believed \
+that") — say what is known, or flag the gap with [VERIFY] instead of writing around it.
+- Copula avoidance ("serves as," "stands as," "boasts") — prefer "is / are / has."
+- Forced rule-of-three, synonym cycling (rotating "participants / clients / \
+individuals" to avoid repetition — pick one term and reuse it), and false ranges.
+- Chatbot framing ("Here is a draft...," "I hope this helps," "Let me know if...") \
+and any em dash or en dash — use a period, comma, colon, or parentheses instead.
+
+Write in a professional, persuasive, and specific tone throughout."""
 
 
 def _system_blocks() -> list[dict]:
