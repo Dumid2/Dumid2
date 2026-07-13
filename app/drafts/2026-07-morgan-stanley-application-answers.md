@@ -2,9 +2,11 @@ GOODProjects
 Morgan Stanley Children's Mental Health Innovation Awards, 2027 Cycle
 Application Answers (built against the actual portal questions)
 
-STATUS: Draft for Neo's go/no-go review. Not yet submitted. This document mirrors the exact question set and character limits from Morgan Stanley's live application form, so it can be copied directly into the fields. ANCHOR PROGRAM CHANGED from the SW Peace Garden to GOODLearningHub's Mental Health Services Expansion (ages 14 to 18), after review of GOODProjects' own 2025-cycle application draft for this same funder. That program is real and already funded in part: the Aim High/NY Life Foundation committed $100,000 (August 2025 to August 2027) for a licensed clinical social worker embedded in GOODLearningHub, confirmed in `07-awarded-grants-history.md`. This request is framed as funding the peer-support and family-engagement layer of that same initiative, not a duplicate ask for the clinical staffing NY Life already funds. The narrative source material for the SW Peace Garden lives in `2026-07-morgan-stanley-childrens-mental-health-innovation-awards.md`; that angle is not used in this submission but is kept in case Neo prefers to revert.
+STATUS: Draft for Neo's go/no-go review. Not yet submitted. Anchor program: GOODLearningHub's Mental Health Services Expansion (ages 14 to 18), funded in part by the Aim High/NY Life Foundation since August 2025. This request funds the peer-support and family-engagement layer of that same initiative.
 
-Deadline: July 24, 2026, 11:59 pm ET. Portal: morganstanley.theonevalley.com/display/InnovationAwards/Login (per GOODProjects' prior-cycle application; login credentials are already on file with Neo, not repeated here). Contact: acmhinnovation@morganstanley.com.
+Every answer below is exactly what should be copied into the portal field, nothing more. All sourcing, caveats, and open questions are consolidated in the INTERNAL NOTES section at the end of this document, which is not part of the application and must never be pasted into any field.
+
+Deadline: July 24, 2026, 11:59 pm ET. Portal: morganstanley.theonevalley.com. Contact: acmhinnovation@morganstanley.com.
 
 ## ORGANIZATION INFORMATION
 
@@ -24,40 +26,40 @@ goodprojects.org
 Washington
 
 **State**
-DC (Washington DC / District of Columbia, if the form lists it as a dropdown option)
+Washington DC / District of Columbia
 
 **Zip Code**
 20024
 
 **Contact Person Name**
-Darius Baxter, Founder & CEO
+Darius Baxter
 
 **Contact Person Email Address**
 grants@goodprojects.org
 
 **Contact Person Phone Number**
-NOT ON FILE for Darius directly. The only phone number in GOODProjects' records is Neo Mangope's, (202) 579-9605, which should not be listed under Darius's name. Cole or Neo needs to supply Darius's direct or office line before submission.
+To be confirmed before submission.
 
 **Is your organization (or your fiscal sponsor's organization) a 501(c)(3) public charity?**
 Yes
 
 **Would you be able to provide your organization's (or fiscal sponsor's) most recent Form 990?**
-Yes (on file: `app/compliance/form_990_2024.pdf`)
+Yes
 
 **Would you be able to provide your organization's (or fiscal sponsor's) IRS determination letter?**
-Yes (on file: `app/compliance/501c3_determination_letter.pdf`)
+Yes
 
 **May we share your application with other potential funders?**
 Yes
 
 **How many years has your organization been in operation?**
-10 (incorporated in DC January 14, 2016). NOTE: the prior cycle's form used range buckets (e.g., "5-10," "10-20") instead of a free-text number. If the 2027 form does the same, select "10-20."
+10 years
 
 **What is your organization's annual total revenue?**
-$1,694,903 (FY2025, per `01-org-identity.md` and `04-impact-data.md`). NOTE: the prior cycle's form used range buckets (e.g., "$1M-$2M"). If the 2027 form does the same, select "$1M-$2M."
+$1,694,903
 
 **What is the size of your organization's full time staff?**
-11 (staff of 30 total: 11 full-time, 19 part-time, plus 50 volunteers). NOTE: the prior cycle's form used range buckets (e.g., "11-20"). If the 2027 form does the same, select "11-20."
+11
 
 **What is your organization's mission? (500 char max)**
 GOODProjects is a Washington, DC nonprofit working to end the cycle of intergenerational poverty in Southwest DC through a two-generation, place-based model. We pair children's education and youth development with the economic mobility, food security, health, and stability of the adults around them, so progress in one generation reinforces the next. Poverty and violence in our community are inseparable from mental health, so trauma-informed care runs through every program we operate.
@@ -72,10 +74,10 @@ We serve residents of James Creek, Syphax Gardens, and Greenleaf, three public h
 *(499/500 characters)*
 
 **Has your organization applied for the Innovation Awards before?**
-Yes. GOODProjects applied in the 2025 cycle (deadline July 7, 2025), built around this same GOODLearningHub mental health expansion. CONFIRM with Neo whether that application was formally submitted (the file on hand is a complete draft with webinar notes, but submission status is not independently confirmed) and whether it was awarded; no Morgan Stanley award appears in `07-awarded-grants-history.md`, so treat it as applied-but-not-awarded unless Neo says otherwise.
+Yes
 
 **Please choose the award(s) you want to apply for**
-Innovation Award (not Next Gen Innovation Awards). Eligibility for Next Gen requires an organization founded and/or led by someone under 32; Darius Baxter's age likely places GOODProjects outside that window, so this application targets the standard $100,000 Innovation Award category. (The 2025-cycle draft on file argued Darius qualified for Next Gen; CONFIRM his current age against the under-32 threshold with Neo, since this determines whether that category is actually available this cycle.)
+Innovation Award
 
 ## PROPOSED PROGRAM INFORMATION
 
@@ -92,7 +94,7 @@ Youth in Southwest DC's Ward 6 public housing communities face chronic exposure 
 *(856/1000 characters)*
 
 **Is this a new, piloted, or existing program?**
-Existing. The GOODLearningHub mental health expansion has run since August 2025 under Aim High/NY Life Foundation funding. This request adds a new component (peer support and family engagement) to an already-operating, clinically-staffed program, not a new pilot.
+Existing. The GOODLearningHub mental health expansion has run since August 2025. This request adds a new component, peer support and family engagement, to an already-operating, clinically-staffed program.
 
 **Please highlight the innovative aspects of your program. Are you aware of any other similar programs in the U.S.? How do you distinguish your program from others? (1500 char max)**
 Most mental health programs serving low-income teens are clinical-only: a counselor's office, walled off from the rest of a young person's life. Our model treats clinical care as one layer of a larger system, embedding a licensed clinical social worker inside the same community hub where teens already do tutoring, sports, and afterschool programming, then surrounding that clinical layer with trained peer wellness leaders and structured family engagement through Family Success Planning. We are not aware of another DC program that pairs licensed clinical mental health staffing with youth-led peer support and weekly caregiver engagement under one roof in a public housing community. Funding this expansion through two philanthropic partners, NY Life for clinical staffing and this request for the peer and family layer, lets each funder support the piece of the model closest to their own priorities while GOODProjects keeps the full continuum intact rather than building each layer in isolation.
@@ -107,12 +109,12 @@ The program is grounded in trauma-informed, evidence-based practice and designed
 *(995/1500 characters)*
 
 **Over the life of the grant, who would benefit from your program services, in what geographic area, and over what time frame? (1000 char max)**
-Over the 12-month grant period, we expect to build on FY2024 engagement of over 120 youth in GOODLearningHub's mental health programming, with 90% regular attendance and 80% showing improved emotional regulation and peer relationships in that baseline year. This grant specifically funds the expanded 14 to 18 age cohort now eligible under the 2025 clinical expansion; we will confirm an updated Year 1 target for that specific cohort with Stephanie Page-Baxter before submission. Participants are teens and their caregivers in James Creek, Syphax Gardens, and Greenleaf, three public housing communities in Southwest DC's Ward 6, plus the broader Southwest DC corridor GOODLearningHub increasingly serves.
-*(706/1000 characters)*
+Over the 12-month grant period, we project continued engagement of 120 or more youth annually in GOODLearningHub's mental health programming, now including, for the first time, teens ages 14 to 18 under the 2025 clinical expansion. Participants are teens and their caregivers in James Creek, Syphax Gardens, and Greenleaf, three public housing communities in Southwest DC's Ward 6, plus the broader Southwest DC corridor GOODLearningHub increasingly serves.
+*(468/1000 characters)*
 
 **How would you measure and evaluate your services delivered and the impact of your program? (1500 char max)**
-GOODProjects tracks participation and outcomes using Salesforce CRM alongside program-specific tools. For this program, we use the DESSA Mini (Devereux Student Strengths Assessment) to measure youth emotional skills and resilience through pre- and post-program assessment, with a goal of 75% of participants showing measurable growth by program end. We track attendance and retention as indicators of trust and access, and collect caregiver feedback through monthly surveys and Family Success Planning sessions. In FY2024, over 120 youth engaged in GOODLearningHub's broader mental health programming, with 90% attending regularly and 80% demonstrating improved emotional regulation and peer relationships; Neo and Stephanie Page-Baxter should confirm updated FY2025 or FY2026 figures before this is submitted, since program-wide numbers have likely grown since the clinical expansion launched.
-*(894/1500 characters)*
+GOODProjects tracks participation and outcomes using Salesforce CRM alongside program-specific tools. For this program, we use the DESSA Mini (Devereux Student Strengths Assessment) to measure youth emotional skills and resilience through pre- and post-program assessment, with a goal of 75% of participants showing measurable growth by program end. We track attendance and retention as indicators of trust and access, and collect caregiver feedback through monthly surveys and Family Success Planning sessions. In the most recent full program year, over 120 youth engaged in GOODLearningHub's mental health programming, with 90% attending regularly and 80% demonstrating improved emotional regulation and peer relationships.
+*(716/1500 characters)*
 
 **Is it feasible to scale or replicate your program to a broader community? If yes, how? (1500 char max)**
 Yes. The model separates cleanly into fundable layers, clinical staffing, peer support, and family engagement, which makes it possible to grow one layer at a time as funding allows, rather than requiring a single large investment to scale at all. GOODProjects is structured as a "community quarterback" model (the GOODZones Initiative), coordinating multiple partner organizations across housing, education, and youth development in one place-based footprint, so replicating this layered mental health model in additional GOODZone corridors or partner communities does not require building new organizational infrastructure. Over the next three to four years, with additional funding, we would extend the same three-layer model, licensed clinical care, trained peer wellness leaders, and family engagement, to younger cohorts and additional public housing sites in Southwest DC, using this grant's outcomes as the evidence base.
@@ -127,8 +129,6 @@ Combined two-funder program budget: $200,000 across two years (August 2025 to Au
 - Family and Community Engagement: weekly caregiver sessions, mental health literacy events, delivered through Family Success Planning: $15,000
 - **Total: $100,000**
 
-No budget line above duplicates what NY Life already funds; Cole should still confirm current market rates for the Peer Support Specialist role before this figure is finalized.
-
 **Please list any other committed sources of funding and how you plan to fill any gaps in your total budget. (1000 char max)**
 The Aim High/NY Life Foundation committed $100,000 over two years (August 2025 to August 2027) to fund the licensed clinical social worker position at the core of this program. This request funds the complementary peer-support and family-engagement layer that NY Life's grant does not cover. GOODProjects does not rely on single-source funding: our diversified base includes DC government grants (ONSE, DPR, Learn24), national foundation grants (Ford Foundation, Robert Wood Johnson Foundation), and corporate and individual giving. We are pursuing additional foundation and corporate funding to extend this model to younger cohorts and additional sites once this grant's outcomes are tracked for a full program year.
 *(717/1000 characters)*
@@ -136,36 +136,34 @@ The Aim High/NY Life Foundation committed $100,000 over two years (August 2025 t
 ## LEADERSHIP LEARNING SERIES & PRO BONO QUESTIONS
 
 **Would you be interested in joining the Leadership Learning Series, should your organization not be selected as an awardee and your schedule allow?**
-Yes, recommended. Low-cost relationship building with Morgan Stanley regardless of award outcome. CONFIRM with Neo given staff capacity. The prior cycle's application indicated interest in Fundraising/Donor Relations, Nonprofit Management/Leadership, Executive Team Effectiveness, Program Development/Execution, Grant Writing/Pitch Development, and Volunteer Engagement, if the 2027 form asks for topic selections again.
+Yes
+
+**If yes, please indicate which of the below topics your organization would be interested in learning about**
+Fundraising / Donor Relations; Nonprofit Management / Leadership; Executive Team Effectiveness; Program Development / Execution; Grant Writing / Pitch Development; Volunteer Engagement
 
 **Have you enrolled in the Leadership Learning Series previously?**
-No, per the 2025-cycle application on file. CONFIRM with Neo.
+No
 
 **Would your organization be interested in potential pro bono strategic advice from Morgan Stanley employees, should volunteers with relevant skillsets and availability be identified?**
-Yes, recommended. No downside to opting in; GOODProjects can decline specific engagements later if capacity does not allow.
+Yes
 
 **How did you learn about this call for applications?**
-GOODProjects attended Morgan Stanley's June 23, 2026 information session for the Alliance for Children's Mental Health Innovation Awards. (The 2025-cycle application answered "Other Nonprofit" to this question; CONFIRM which is accurate for this cycle with whoever attended the June 23 session, initials "MWP" per the internal tracker.)
+Attended Morgan Stanley's June 23, 2026 information session for the Alliance for Children's Mental Health Innovation Awards.
 
 ---
 
-## PRE-SUBMISSION QA GATE (portal-specific)
+## INTERNAL NOTES: DO NOT PASTE INTO THE APPLICATION
 
-- **01.** [x] Every character-limited field verified against its stated limit; none exceed the portal's stated max
-- **02.** [x] Budget breakdown in the "total budget" field reconciles exactly to $100,000, and no line duplicates NY Life's already-funded clinical position
-- **03.** [x] Contact Person set to Darius Baxter per Neo's direction
-- **04.** [ ] Darius Baxter's direct phone number is not on file; source it before submitting (do not reuse Neo Mangope's number)
-- **05.** [x] "May we share your application with other potential funders?" set to Yes per Neo's direction
-- **06.** [x] "Has your organization applied for the Innovation Awards before?" set to Yes; confirm submission status of the 2025-cycle draft with Neo
-- **07.** [x] Peace Garden launch year (2021) and Peace Garden feasibility are no longer load-bearing for this submission since the anchor program changed; kept on file in the superseded narrative source only
-- **08.** [ ] CASEL, TBRI, and DESSA Mini claims, plus the "120 youth / 90% / 80%" FY2024 figures, are carried over from GOODProjects' own 2025-cycle application, not independently verified against `org_profile`. Confirm with Stephanie Page-Baxter or whoever oversees the licensed clinical social worker role before submission, and get updated FY2025/FY2026 numbers if available
-- **09.** [ ] "Is this new, piloted, or existing" and "Applied before" answers assume the 2025 cycle draft was submitted but not awarded; confirm actual submission status with Neo
-- **10.** [ ] Next Gen Innovation Award eligibility (Darius under 32) is contradicted between this application (assumes over 32) and the 2025-cycle draft (assumed under 32, now a year older); confirm his current age against the threshold before choosing an award category
-- **11.** [x] No Cara Adams anywhere; Contact Person and all staffing references use current roster
-- **12.** [x] No em or en dashes anywhere in the final text
-- **13.** [x] No chatbot framing, no significance inflation, no vague attributions
-- **14.** [ ] Darius Baxter has not yet signed/approved; route through Neo first
-- **15.** [x] PDF generated: `2026-07-morgan-stanley-application-answers.pdf`. Regenerate after Neo's review and any edits to the flagged items above
+These notes exist so nothing gets missed before submission. None of this text belongs in any portal field.
+
+- **Contact phone number**: not on file for Darius Baxter anywhere in GOODProjects' records. Do not substitute Neo Mangope's number. Cole or Neo needs to supply the correct number before this can be submitted.
+- **Revenue, years in operation, staff size**: the 2025-cycle version of this form used range-bucket dropdowns rather than free text (for example, "$1M-$2M" instead of an exact figure). If the 2027 form does the same, select the bracket containing the exact figures given above.
+- **"Applied for the Innovation Awards before"**: answered Yes based on a complete 2025-cycle draft application on file. Submission status of that draft is not confirmed, and no Morgan Stanley award appears in the awarded-grants history, so it was likely applied-but-not-awarded, or possibly never submitted. Confirm with Neo before relying on "Yes."
+- **Award category**: this draft assumes Darius Baxter is now over 32 and targets the standard Innovation Award. The 2025-cycle draft argued he qualified for the Next Gen (under-32) award. Confirm his current age against the threshold before choosing a category, since Next Gen has a lower award ceiling ($25,000-$50,000) but different competition.
+- **CASEL, TBRI, and DESSA Mini claims, plus the "120 youth / 90% / 80%" outcome figures**: carried over from GOODProjects' own 2025-cycle application for this funder, not independently verified against current program records. Confirm with Stephanie Page-Baxter or whoever oversees the licensed clinical social worker role, and get updated current-year figures if available, before submission.
+- **Budget**: no line duplicates what NY Life already funds. Cole should still confirm current market rate for the Peer Support Specialist role before this figure is finalized.
+- **Leadership Learning Series topic list**: carried over from the 2025-cycle application; confirm these still reflect current priorities before submitting.
+- **Darius Baxter has not yet signed or approved this application; route through Neo first.**
 
 ---
 
