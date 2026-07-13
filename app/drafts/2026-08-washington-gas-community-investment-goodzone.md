@@ -4,6 +4,8 @@ Washington Gas Community Investment Program: GOODZone Violence Interruption
 
 STATUS: Draft for Neo's go/no-go review. Not yet submitted. Two items below need confirmation before this goes out (see Open Items at the end).
 
+SUPERSEDED FOR SUBMISSION PURPOSES: Washington Gas's actual application runs through the AltaGas Versaic portal, a structured question set, not an open LOI/narrative. The submission-ready answer set, built directly against the real portal questions from GOODProjects' own prior draft, is `2026-washington-gas-portal-answers.md`. This document remains useful as source narrative, but submit from the portal answer set, not from this file directly.
+
 ## FUNDER & OPPORTUNITY DETAILS
 
 | Company / Foundation | Washington Gas |
