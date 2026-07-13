@@ -206,24 +206,7 @@ Aligned to GOODProjects' confirmed 2026 program calendar (sessions, breaks, and 
 
 ---
 
-## PRE-SUBMISSION QA GATE
-
-01 [x] All placeholders filled with real content
-02 [x] Funder ask ($50,000) is at, not over, the stated cap
-03 [x] Budget total ($1,189,403) confirmed with Neo on the VPART portal
-04 [x] No Cara Adams in the staffing section
-05 [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024
-06 [x] Geography confirmed: physical service sites are Ward 6 (Q17); population served is described as Ward 6 and Ward 8 (Q8, Q9, Q10, Q14, Q16), consistent with language GOODProjects has used in other current GOODZone drafts
-07 [x] Proof metrics chosen (conflict mediations, engagement counts, referrals) match VPART's violence-prevention domain
-08 [x] All work plan dates are valid and fall inside the Nov 2026-Sep 2027 project period
-09 [x] No machine artifacts, character-counter text, or stray formatting characters left in any answer
-10 [x] No em or en dashes in GOODProjects' own answer text (the RFA's own Service Area option labels are left as the funder wrote them)
-11 [ ] Certification (Q25) and Q4 (hosting the Mayor) both need Darius Baxter's personal confirmation before this goes out
-12 [ ] Attachments not yet assembled; see Open Items below
-
----
-
-## OPEN ITEMS BEFORE THIS CAN BE SUBMITTED
+## BEFORE THIS CAN BE SUBMITTED
 
 1. **Confirm Q4 (hosting the Mayor) and Q25 (certification) with Darius.** Both are marked "Yes" as the standard default, but both are commitments/certifications that should get Darius's explicit sign-off before submission.
 2. **Assemble attachments.** DC government submissions typically require the Clean Hands Certificate, Certificate of Good Standing, 501(c)(3) determination letter, and audited financials. All are on file in `app/compliance/` and current as of this application; confirm which the VPART portal specifically requests.
