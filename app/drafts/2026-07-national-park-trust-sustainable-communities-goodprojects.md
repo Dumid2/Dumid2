@@ -1,21 +1,21 @@
 GOODProjects
-Corporate/Foundation Grant Draft — National Park Trust / Pepco Sustainable Communities Grants Program
+Corporate/Foundation Grant Draft: National Park Trust / Pepco Sustainable Communities Grants Program
 GOODProjects Lead Application (joint submission with Nyame Kua Farm Collective, who is filing their own parallel application)
 
-STATUS: Backup version ready for submission today, July 13, 2026 (portal closes 11:59 PM), in case Jazzlyn does not finish her own budget/upload work in time. Budget spreadsheet, operating budget figure, and contact email are now resolved. Real file uploads (Board list, 501c3, audit) are intentionally left as Drive links here — Jazzlyn owns that piece. Route to Neo/Darius for sign-off given the same-day deadline.
+STATUS: Backup version ready for submission today, July 13, 2026 (portal closes 11:59 PM), in case Jazzlyn does not finish her own budget/upload work in time. Budget spreadsheet, operating budget figure, and contact email are now resolved. Real file uploads (Board list, 501c3, audit) are intentionally left as Drive links here; Jazzlyn owns that piece. Route to Neo/Darius for sign-off given the same-day deadline.
 
 ## SOLICITATION DETAILS
 
 | Funder | National Park Trust (Pepco-funded) |
 |---|---|
 | Program | 2026 Sustainable Communities Grants Program |
-| Grant Type Selected | Community Resiliency Grant — up to $20,000 |
+| Grant Type Selected | Community Resiliency Grant (up to $20,000) |
 | Ask Amount | $20,000 (at the program cap) |
 | Deadline | July 13, 2026, 11:59 PM (today) |
 | Submission Method | Cybergrants portal: https://www.cybergrants.com/pls/cybergrants/quiz.display_question?x_gm_id=7616&x_quiz_id=13232&x_order_by=1 |
 | Program Contact | ivan@parktrust.org |
-| Co-applicant | Nyame Kua Farm Collective (Jazzlyn Lindsey, ED) is filing its own parallel application for the same project. Confirm with Ivan at National Park Trust whether joint/duplicate applications from both partner organizations are permitted or whether only one should be submitted — filing two applications for one project could read as a compliance problem if the funder doesn't expect it. |
-| Go/No-Go Confirmed | Program fit is real and strong (see below) — this is not a forced fit. Final send still needs Neo/Darius sign-off given the two open blockers. |
+| Co-applicant | Nyame Kua Farm Collective (Jazzlyn Lindsey, ED) is filing its own parallel application for the same project. Confirm with Ivan at National Park Trust whether joint/duplicate applications from both partner organizations are permitted or whether only one should be submitted. Filing two applications for one project could read as a compliance problem if the funder doesn't expect it. |
+| Go/No-Go Confirmed | Program fit is real and strong (see below); this is not a forced fit. Final send still needs Neo/Darius sign-off given the two open blockers. |
 
 Why this is a real fit, not a forced one: the project runs through Nyame Kua Farm Collective (GOODProjects' confirmed garden/farm subcontractor) at the SW Peace Gardens, GOODProjects' own site, and is grounded in Ward 6/7/8 food-desert and extreme-weather data specific to Southwest DC. This qualifies cleanly under Part 7 of the playbook: geographic fit, program match, and entity eligibility all check out.
 
@@ -31,16 +31,16 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 
 **Zip/Postal Code:** 20024
 
-**County:** N/A — the District of Columbia is not organized into counties
+**County:** N/A (the District of Columbia is not organized into counties)
 
 **EIN/Tax ID Number:** 81-1491594
 
 **Nonprofit Uploads:**
 
-- **List of Board of Directors:** ⚠ FIX BEFORE SUBMITTING — currently a Google Drive link, which the portal will not accept as a file upload (Cybergrants requires an actual uploaded document, not a link). Export the Board list from Form 990 Part VII (Cherrelle Swain, Chairwoman; Jim Schumacher, Treasurer; Darius Baxter; Lauren Marcus; Dr. Keena Blackmon; Max Snider; Dr. Alyssa Lovegrove; Carlos Gray) or pull the standalone PDF Dumi has and upload the file directly.
-- **Proof of 501(c)(3) Status:** Upload `app/compliance/501c3_determination_letter.pdf` directly (on file, IRS Letter 947, dated July 29, 2016) — not the Drive link.
-- **Audited Financial Statement:** Upload `app/compliance/audited_financials_2024.pdf` directly (Desai Company, unmodified opinion, dated September 7, 2025) — not the Drive link.
-- **Annual Operating Budget:** $1,689,003 — FY2024 audited total expenses (Desai Company, unmodified opinion, `app/compliance/audited_financials_2024.pdf`). Resolved: the earlier $1,745,797.46 figure didn't match any number in GOODProjects' financial records (not FY2024 audited revenue/expenses, not FY2025 internal figures) and couldn't be sourced, so this uses the only board/auditor-confirmed figure on file. If Cole or Darius has a newer board-approved FY2026 operating budget, swap it in and cite that instead.
+- **List of Board of Directors:** ⚠ FIX BEFORE SUBMITTING. Currently a Google Drive link, which the portal will not accept as a file upload (Cybergrants requires an actual uploaded document, not a link). Export the Board list from Form 990 Part VII (Cherrelle Swain, Chairwoman; Jim Schumacher, Treasurer; Darius Baxter; Lauren Marcus; Dr. Keena Blackmon; Max Snider; Dr. Alyssa Lovegrove; Carlos Gray) or pull the standalone PDF Dumi has and upload the file directly.
+- **Proof of 501(c)(3) Status:** Upload `app/compliance/501c3_determination_letter.pdf` directly (on file, IRS Letter 947, dated July 29, 2016), not the Drive link.
+- **Audited Financial Statement:** Upload `app/compliance/audited_financials_2024.pdf` directly (Desai Company, unmodified opinion, dated September 7, 2025), not the Drive link.
+- **Annual Operating Budget:** $1,689,003, FY2024 audited total expenses (Desai Company, unmodified opinion, `app/compliance/audited_financials_2024.pdf`). Resolved: the earlier $1,745,797.46 figure didn't match any number in GOODProjects' financial records (not FY2024 audited revenue/expenses, not FY2025 internal figures) and couldn't be sourced, so this uses the only board/auditor-confirmed figure on file. If Cole or Darius has a newer board-approved FY2026 operating budget, swap it in and cite that instead.
 
 ## PART TWO: PRIMARY GRANT CONTACT INFORMATION
 
@@ -52,7 +52,7 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 
 **Title:** Co-Founder & CEO
 
-**Email Address:** darius@goodprojects.org — resolved: the draft had two different emails for Darius in this document (this address in Part Two, GOOD@GOODProjects.org in Part Three). Standardized on darius@goodprojects.org, which follows GOODProjects' confirmed firstname@goodprojects.org convention (matches neo@goodprojects.org on file). If Neo knows this isn't Darius's actual working inbox, swap it before submitting — but do not submit with two different addresses for the same contact.
+**Email Address:** darius@goodprojects.org. Resolved: the draft had two different emails for Darius in this document (this address in Part Two, GOOD@GOODProjects.org in Part Three). Standardized on darius@goodprojects.org, which follows GOODProjects' confirmed firstname@goodprojects.org convention (matches neo@goodprojects.org on file). If Neo knows this isn't Darius's actual working inbox, swap it before submitting, but do not submit with two different addresses for the same contact.
 
 **Telephone:** (202) 270-1278
 
@@ -62,13 +62,13 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 
 **Fiscal:** Cole Bradshaw, Finance and Operations, cbradshaw@goodprojects.org, (301) 442-0955
 
-**Media (optional):** Adam Hickson, Communications Lead, GOODProjects — using GOODProjects' own communications lead here (rather than the partner organization's) demonstrates GOODProjects has in-house capacity to deliver the promotion plan in Part Four. Nyame Kua's LaMarcus "Kwesi" White is already credited extensively in the Key Partners and Project Team sections below as co-promoter.
+**Media (optional):** Adam Hickson, Communications Lead, GOODProjects. Using GOODProjects' own communications lead here, rather than the partner organization's, demonstrates GOODProjects has in-house capacity to deliver the promotion plan in Part Four. Nyame Kua's LaMarcus "Kwesi" White is already credited extensively in the Key Partners and Project Team sections below as co-promoter.
 
 ## PART FOUR: SPECIFIC PROJECT QUESTIONS
 
 **Which type of grant are you applying for?**
 
-Community Resiliency Grant – up to $20,000
+Community Resiliency Grant (up to $20,000)
 
 **Project Title:** Building Emergency Food Resilience in Southeast & Southwest DC
 
@@ -106,13 +106,13 @@ GOAL 4
 - Relevant: Proves the sites and partners can move food quickly when an emergency hits.
 - Time-bound: By October 31, 2027.
 
-**Key Audience(s)** (1,681 characters, 2000 max):
+**Key Audience(s)** (1,687 characters, 2000 max):
 
-The people this project serves are Black, low-income residents living in and around D.C.'s grocery gap, especially in Wards 7 and 8, with neighbors in Southwest D.C. (Ward 6) and Prince George's County. These communities are home to more than 157,000 residents, over 83% of them Black or African American. More than 33% of residents in Wards 7 and 8 live in food deserts with little access to stores that stock fresh produce. One in seven District households is food insecure, and Black and low-income residents are 2.3 times more likely to face food insecurity than white residents. Ward 8 residents have a 15-year shorter life expectancy than Ward 3, driven in part by supermarket redlining and limited access to fresh food, a direct result of systemic disinvestment.
+The people this project serves are Black, low-income residents living in and around D.C.'s grocery gap, especially in Wards 7 and 8, with neighbors in Southwest D.C. (Ward 6) and Prince George's County. These communities are home to more than 157,000 residents, over 83% of them Black or African American. More than 33% of residents in Wards 7 and 8 live in food deserts with little access to stores that stock fresh produce. One in seven District households is food insecure, and Black and low-income residents are 2.3 times more likely to face food insecurity than white residents. Ward 8 residents have a 15-year shorter life expectancy than residents of Ward 3, driven in part by supermarket redlining and limited access to fresh food, a direct result of systemic disinvestment.
 
 The project centers on the neighborhoods around its two anchor sites, the SW Peace Gardens at James Creek and the Elmira Grocery. Seniors, families with children, and residents managing chronic conditions or without transportation are hit hardest when food access is cut off.
 
-Severe weather makes this worse. During extreme heat, winter storms, and power outages, these residents can lose power, cannot reach the few grocery options, and have no backup source of fresh food. Families then rely on shelf-stable, processed foods that worsen diet-related conditions like diabetes and hypertension. This project gives them a community-run emergency food source that keeps fresh, culturally relevant food available when the grid fails, including collard greens, sweet potatoes, and okra, distributed through trusted partners such as East of the River Mutual Aid, The Well at Oxon Run, and the SW Residents Council.
+Severe weather makes this worse. During extreme heat, winter storms, and power outages, these residents lose power, cannot reach the few grocery options, and have no backup source of fresh food. Families then rely on shelf-stable, processed foods that worsen diet-related conditions like diabetes and hypertension. This project gives them a community-run emergency food source that keeps fresh, culturally relevant food available when the grid fails, including collard greens, sweet potatoes, and okra. That food moves through trusted partners: East of the River Mutual Aid, The Well at Oxon Run, and the SW Residents Council.
 
 **Key Partner(s)** (1,415 characters, 2000 max):
 
@@ -154,9 +154,9 @@ This project is built on deep, ongoing collaboration between community members, 
 
 Residents participate as advisors, workshop participants, and emerging leaders. Community members help shape our programming through surveys and informal feedback, ensuring our emergency preparedness training and food distributions respond to real needs. Residents from Wards 6, 7, and 8 will be trained as peer educators, building a grassroots network of resilience that extends beyond the grant period.
 
-Community-Based Organizations are integral to every stage of this project. Nyame Kua Farm Collective co-leads our Seed2Sale workshops and youth garden days at the SW Peace Gardens, bringing farming and food justice expertise built through years of on-the-ground work in Wards 7 and 8. The SW Residents Council ensures that our programming responds to neighborhood priorities related to food insecurity and safety. East of the River Mutual Aid and The Well at Oxon Run support produce distribution and mutual aid efforts. Elmira Grocery, a Black-owned small business, hosts our Co-Immunity Givebacks and will serve as an emergency distribution point.
+Community-based organizations are integral to every stage of this project. Nyame Kua Farm Collective co-leads our Seed2Sale workshops and youth garden days at the SW Peace Gardens, bringing farming and food justice expertise built through years of on-the-ground work in Wards 7 and 8. The SW Residents Council ensures that our programming responds to neighborhood priorities related to food insecurity and safety. East of the River Mutual Aid and The Well at Oxon Run support produce distribution and mutual aid efforts. Elmira Grocery, a Black-owned small business, hosts our Co-Immunity Givebacks and will serve as an emergency distribution point.
 
-Municipal and Policy Partners will be engaged through the D.C. Food Policy Council and Councilmembers, who will help integrate our emergency food plan into citywide resiliency efforts. The project aligns with Sustainable DC 2.0 and D.C.'s climate resiliency goals.
+Municipal and policy partners will be engaged through the D.C. Food Policy Council and Councilmembers, who will help integrate our emergency food plan into citywide resiliency efforts. The project aligns with Sustainable DC 2.0 and D.C.'s climate resiliency goals.
 
 Through these collaborations, our emergency food resources stay community-led, culturally relevant, and sustainable beyond the grant period.
 
@@ -200,31 +200,31 @@ Plan Development and Documentation ($3,000): This covers staff time to develop t
 
 Budget reconciles: $10,000 + $3,000 + $4,000 + $3,000 = $20,000 = requested grant amount. ✓
 
-**Sustainable Communities Budget Spreadsheet:** Resolved as a backup — `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, an itemized budget (category, line item, description, quantity, unit cost, grant request, matching/in-kind, total) that reconciles line-by-line to the $20,000 budget narrative above. The official parktrust.org template couldn't be downloaded from this environment (network-blocked), so this is built to the same content the template asks for, not the template's exact cell layout. **If Jazzlyn produces the official template before submission, use hers** — it will match the funder's expected format more precisely. Use this file only if hers isn't ready by the deadline.
+**Sustainable Communities Budget Spreadsheet:** Resolved as a backup: `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, an itemized budget (category, line item, description, quantity, unit cost, grant request, matching/in-kind, total) that reconciles line-by-line to the $20,000 budget narrative above. The official parktrust.org template couldn't be downloaded from this environment (network-blocked), so this is built to the same content the template asks for, not the template's exact cell layout. **If Jazzlyn produces the official template before submission, use hers**, since it will match the funder's expected format more precisely. Use this file only if hers isn't ready by the deadline.
 
 ## PART SIX: OPTIONAL UPLOADS
 
 Recommended, in priority order:
-1. Letter of Commitment from Nyame Kua Farm Collective (lead implementing partner) — strengthens the case that this is a real, committed partnership, not a paper one.
-2. Letter of Support from the SW Residents Council — signals resident buy-in, which the funder explicitly prioritizes ("priority consideration...to underresourced/underrepresented communities").
-3. Letter of Support from the D.C. Food Policy Council, if Marquel or Darius can secure one quickly today — reinforces the Goal 3/city-integration claim with third-party validation.
+1. Letter of Commitment from Nyame Kua Farm Collective (lead implementing partner). Strengthens the case that this is a real, committed partnership, not a paper one.
+2. Letter of Support from the SW Residents Council. Signals resident buy-in, which the funder explicitly prioritizes ("priority consideration...to underresourced/underrepresented communities").
+3. Letter of Support from the D.C. Food Policy Council, if Marquel or Darius can secure one quickly today. Reinforces the Goal 3/city-integration claim with third-party validation.
 
 ## REQUIRED ATTACHMENTS / BLOCKERS CHECKLIST
 
-[x] Sustainable Communities Budget Spreadsheet — backup version built at `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, reconciles to $20,000. Swap in Jazzlyn's if she finishes hers first.
+[x] Sustainable Communities Budget Spreadsheet: backup version built at `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, reconciles to $20,000. Swap in Jazzlyn's if she finishes hers first.
 [ ] **STILL OPEN (owned by Jazzlyn, not resolved here per instruction):** Replace all three Google Drive links (Board list, 501c3 letter, audit) with actual uploaded files. The 501c3 letter and audit are ready to upload as-is from `app/compliance/` whenever someone does this step. The Board list needs to be exported as its own file first (Form 990 Part VII has the current roster).
-[x] Annual Operating Budget set to $1,689,003 (FY2024 audited total expenses) — sourced, reconciled with `app/compliance/audited_financials_2024.pdf`.
+[x] Annual Operating Budget set to $1,689,003 (FY2024 audited total expenses), sourced and reconciled with `app/compliance/audited_financials_2024.pdf`.
 [x] Darius's contact email standardized to darius@goodprojects.org throughout (Parts Two and Three now match).
 [x] No Cara Adams in the staffing/team section.
 [x] Address correct: 996 Maine Avenue SW, Suite 208, Washington, DC 20024.
 [x] EIN correct: 81-1491594.
 [x] Budget total ($20,000) equals the headline ask and is within the Community Resiliency cap.
-[x] All dates fall inside the project period (Oct 2026–Nov 2027) with no invalid or out-of-order dates.
+[x] All dates fall inside the project period (Oct 2026 to Nov 2027) with no invalid or out-of-order dates.
 [x] Proof metrics (food-desert stats, Ward 8 life-expectancy gap, food insecurity rate) match the funder's resiliency/community-impact domain.
-[x] Humanize pass complete — no em or en dashes, no significance inflation, no chatbot framing in the GOODProjects lead tab.
+[x] Humanize and line-edit pass complete: no em or en dashes anywhere in this file (including this checklist), no significance inflation, no chatbot framing, plus grammar fixes to a faulty comparison and a non-parallel sentence in Key Audience and a capitalization fix in Community Engagement.
 [ ] Confirm with National Park Trust (ivan@parktrust.org) whether a parallel application from Nyame Kua Farm Collective for the same project is acceptable or will read as a duplicate.
-[ ] Darius Baxter has not yet signed off; route through Neo immediately — same-day deadline.
-[ ] PDF/portal-submission copy not yet produced — generate after the above blockers are cleared.
+[ ] Darius Baxter has not yet signed off; route through Neo immediately given the same-day deadline.
+[ ] PDF/portal-submission copy not yet produced; generate after the above blockers are cleared.
 
 ---
 
