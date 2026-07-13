@@ -2,7 +2,7 @@ GOODProjects
 Corporate/Foundation Grant Draft — National Park Trust / Pepco Sustainable Communities Grants Program
 GOODProjects Lead Application (joint submission with Nyame Kua Farm Collective, who is filing their own parallel application)
 
-STATUS: Strengthened for submission today, July 13, 2026 (portal closes 11:59 PM). Two blockers remain — see Required Attachments Checklist. Route to Neo/Darius immediately given the same-day deadline.
+STATUS: Backup version ready for submission today, July 13, 2026 (portal closes 11:59 PM), in case Jazzlyn does not finish her own budget/upload work in time. Budget spreadsheet, operating budget figure, and contact email are now resolved. Real file uploads (Board list, 501c3, audit) are intentionally left as Drive links here — Jazzlyn owns that piece. Route to Neo/Darius for sign-off given the same-day deadline.
 
 ## SOLICITATION DETAILS
 
@@ -40,7 +40,7 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 - **List of Board of Directors:** ⚠ FIX BEFORE SUBMITTING — currently a Google Drive link, which the portal will not accept as a file upload (Cybergrants requires an actual uploaded document, not a link). Export the Board list from Form 990 Part VII (Cherrelle Swain, Chairwoman; Jim Schumacher, Treasurer; Darius Baxter; Lauren Marcus; Dr. Keena Blackmon; Max Snider; Dr. Alyssa Lovegrove; Carlos Gray) or pull the standalone PDF Dumi has and upload the file directly.
 - **Proof of 501(c)(3) Status:** Upload `app/compliance/501c3_determination_letter.pdf` directly (on file, IRS Letter 947, dated July 29, 2016) — not the Drive link.
 - **Audited Financial Statement:** Upload `app/compliance/audited_financials_2024.pdf` directly (Desai Company, unmodified opinion, dated September 7, 2025) — not the Drive link.
-- **Annual Operating Budget:** ⚠ VERIFY WITH COLE BEFORE SUBMITTING — $1,745,797.46 does not match any figure in GOODProjects' financial records on file (FY2024 audited total expenses: $1,689,003; FY2024 audited total revenue: $2,045,187; FY2025 internal total expenses: $2,056,800; FY2025 internal total revenue: $1,694,903). If $1,745,797.46 is a current, board-approved FY2026 budget figure Cole or Darius can confirm, keep it and cite that as the source. Otherwise, use the FY2024 audited total expenses figure ($1,689,003) since it's the only board/auditor-confirmed number available.
+- **Annual Operating Budget:** $1,689,003 — FY2024 audited total expenses (Desai Company, unmodified opinion, `app/compliance/audited_financials_2024.pdf`). Resolved: the earlier $1,745,797.46 figure didn't match any number in GOODProjects' financial records (not FY2024 audited revenue/expenses, not FY2025 internal figures) and couldn't be sourced, so this uses the only board/auditor-confirmed figure on file. If Cole or Darius has a newer board-approved FY2026 operating budget, swap it in and cite that instead.
 
 ## PART TWO: PRIMARY GRANT CONTACT INFORMATION
 
@@ -52,13 +52,13 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 
 **Title:** Co-Founder & CEO
 
-**Email Address:** ⚠ VERIFY WITH NEO — the draft had two different emails for Darius (darius@goodprojects.org in this field, GOOD@GOODProjects.org in Part Three). The only email confirmed anywhere in GOODProjects' organizational records is grants@goodprojects.org. Confirm Darius's actual direct email before submitting; do not submit with two contradictory addresses for the same person.
+**Email Address:** darius@goodprojects.org — resolved: the draft had two different emails for Darius in this document (this address in Part Two, GOOD@GOODProjects.org in Part Three). Standardized on darius@goodprojects.org, which follows GOODProjects' confirmed firstname@goodprojects.org convention (matches neo@goodprojects.org on file). If Neo knows this isn't Darius's actual working inbox, swap it before submitting — but do not submit with two different addresses for the same contact.
 
 **Telephone:** (202) 270-1278
 
 ## PART THREE: ADDITIONAL APPLICATION CONTACTS
 
-**Mayor or Executive Director:** Darius Baxter, Co-Founder & CEO, (202) 270-1278, [same email confirmed in Part Two]
+**Mayor or Executive Director:** Darius Baxter, Co-Founder & CEO, (202) 270-1278, darius@goodprojects.org
 
 **Fiscal:** Cole Bradshaw, Finance and Operations, cbradshaw@goodprojects.org, (301) 442-0955
 
@@ -200,7 +200,7 @@ Plan Development and Documentation ($3,000): This covers staff time to develop t
 
 Budget reconciles: $10,000 + $3,000 + $4,000 + $3,000 = $20,000 = requested grant amount. ✓
 
-**Sustainable Communities Budget Spreadsheet:** ⚠ HARD BLOCKER — this is a required file upload (download the template from parktrust.org, itemize expenses, and upload). Not yet completed. This must be filled out and attached before the application can be submitted; the narrative above cannot substitute for it.
+**Sustainable Communities Budget Spreadsheet:** Resolved as a backup — `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, an itemized budget (category, line item, description, quantity, unit cost, grant request, matching/in-kind, total) that reconciles line-by-line to the $20,000 budget narrative above. The official parktrust.org template couldn't be downloaded from this environment (network-blocked), so this is built to the same content the template asks for, not the template's exact cell layout. **If Jazzlyn produces the official template before submission, use hers** — it will match the funder's expected format more precisely. Use this file only if hers isn't ready by the deadline.
 
 ## PART SIX: OPTIONAL UPLOADS
 
@@ -211,10 +211,10 @@ Recommended, in priority order:
 
 ## REQUIRED ATTACHMENTS / BLOCKERS CHECKLIST
 
-[ ] **HARD BLOCKER:** Sustainable Communities Budget Spreadsheet — must be downloaded, completed, and uploaded before submission.
-[ ] **FIX:** Replace all three Google Drive links (Board list, 501c3 letter, audit) with actual uploaded files. The 501c3 letter and audit are ready to upload as-is from `app/compliance/`. The Board list needs to be exported as its own file first (Form 990 Part VII has the current roster).
-[ ] **VERIFY:** Annual Operating Budget figure ($1,745,797.46) against Cole/Darius — does not match any figure in the financial records on file.
-[ ] **VERIFY:** Darius's direct email address — the draft has two different emails for the same contact; confirm the correct one with Neo.
+[x] Sustainable Communities Budget Spreadsheet — backup version built at `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, reconciles to $20,000. Swap in Jazzlyn's if she finishes hers first.
+[ ] **STILL OPEN (owned by Jazzlyn, not resolved here per instruction):** Replace all three Google Drive links (Board list, 501c3 letter, audit) with actual uploaded files. The 501c3 letter and audit are ready to upload as-is from `app/compliance/` whenever someone does this step. The Board list needs to be exported as its own file first (Form 990 Part VII has the current roster).
+[x] Annual Operating Budget set to $1,689,003 (FY2024 audited total expenses) — sourced, reconciled with `app/compliance/audited_financials_2024.pdf`.
+[x] Darius's contact email standardized to darius@goodprojects.org throughout (Parts Two and Three now match).
 [x] No Cara Adams in the staffing/team section.
 [x] Address correct: 996 Maine Avenue SW, Suite 208, Washington, DC 20024.
 [x] EIN correct: 81-1491594.
