@@ -2,9 +2,9 @@ GOODProjects
 Morgan Stanley Children's Mental Health Innovation Awards, 2027 Cycle
 Application Answers (built against the actual portal questions)
 
-STATUS: Draft for Neo's go/no-go review. Not yet submitted. This document mirrors the exact question set and character limits from Morgan Stanley's live application form (confirmed by a screenshot of the portal), so it can be copied directly into the fields. The narrative source material (organizational overview, community need, full budget rationale) lives in `2026-07-morgan-stanley-childrens-mental-health-innovation-awards.md`; this file is the submission-ready answer set.
+STATUS: Draft for Neo's go/no-go review. Not yet submitted. This document mirrors the exact question set and character limits from Morgan Stanley's live application form, so it can be copied directly into the fields. ANCHOR PROGRAM CHANGED from the SW Peace Garden to GOODLearningHub's Mental Health Services Expansion (ages 14 to 18), after review of GOODProjects' own 2025-cycle application draft for this same funder. That program is real and already funded in part: the Aim High/NY Life Foundation committed $100,000 (August 2025 to August 2027) for a licensed clinical social worker embedded in GOODLearningHub, confirmed in `07-awarded-grants-history.md`. This request is framed as funding the peer-support and family-engagement layer of that same initiative, not a duplicate ask for the clinical staffing NY Life already funds. The narrative source material for the SW Peace Garden lives in `2026-07-morgan-stanley-childrens-mental-health-innovation-awards.md`; that angle is not used in this submission but is kept in case Neo prefers to revert.
 
-Deadline: July 24, 2026, 11:59 pm ET. Portal: morganstanley.com/about-us/giving-back/childrens-mental-health-awards. Contact: acmhinnovation@morganstanley.com.
+Deadline: July 24, 2026, 11:59 pm ET. Portal: morganstanley.theonevalley.com/display/InnovationAwards/Login (per GOODProjects' prior-cycle application; login credentials are already on file with Neo, not repeated here). Contact: acmhinnovation@morganstanley.com.
 
 ## ORGANIZATION INFORMATION
 
@@ -24,19 +24,19 @@ goodprojects.org
 Washington
 
 **State**
-DC
+DC (Washington DC / District of Columbia, if the form lists it as a dropdown option)
 
 **Zip Code**
 20024
 
 **Contact Person Name**
-Neo Mangope, Fundraising & Grants Officer
+Darius Baxter, Founder & CEO
 
 **Contact Person Email Address**
-neo@goodprojects.org
+grants@goodprojects.org
 
 **Contact Person Phone Number**
-(202) 579-9605
+NOT ON FILE for Darius directly. The only phone number in GOODProjects' records is Neo Mangope's, (202) 579-9605, which should not be listed under Darius's name. Cole or Neo needs to supply Darius's direct or office line before submission.
 
 **Is your organization (or your fiscal sponsor's organization) a 501(c)(3) public charity?**
 Yes
@@ -48,123 +48,124 @@ Yes (on file: `app/compliance/form_990_2024.pdf`)
 Yes (on file: `app/compliance/501c3_determination_letter.pdf`)
 
 **May we share your application with other potential funders?**
-Yes, recommended default. CONFIRM with Neo before submitting; there is no known reason to decline and sharing broadens exposure to other funders, but this is a real yes/no decision for GOODProjects to make, not something to default silently.
+Yes
 
 **How many years has your organization been in operation?**
-10 (incorporated in DC January 14, 2016; the "founded February 2016" figure used elsewhere is the org's own rounding, not a discrepancy with the legal record)
+10 (incorporated in DC January 14, 2016). NOTE: the prior cycle's form used range buckets (e.g., "5-10," "10-20") instead of a free-text number. If the 2027 form does the same, select "10-20."
 
 **What is your organization's annual total revenue?**
-$1,694,903 (FY2025, per `01-org-identity.md` and `04-impact-data.md`). This is the figure that clears the $5 million eligibility cap; confirm with Cole if the form wants the FY2024 audited figure instead ($2,045,187).
+$1,694,903 (FY2025, per `01-org-identity.md` and `04-impact-data.md`). NOTE: the prior cycle's form used range buckets (e.g., "$1M-$2M"). If the 2027 form does the same, select "$1M-$2M."
 
 **What is the size of your organization's full time staff?**
-11 (staff of 30 total: 11 full-time, 19 part-time, plus 50 volunteers)
+11 (staff of 30 total: 11 full-time, 19 part-time, plus 50 volunteers). NOTE: the prior cycle's form used range buckets (e.g., "11-20"). If the 2027 form does the same, select "11-20."
 
 **What is your organization's mission? (500 char max)**
 GOODProjects is a Washington, DC nonprofit working to end the cycle of intergenerational poverty in Southwest DC through a two-generation, place-based model. We pair children's education and youth development with the economic mobility, food security, health, and stability of the adults around them, so progress in one generation reinforces the next. Poverty and violence in our community are inseparable from mental health, so trauma-informed care runs through every program we operate.
 *(488/500 characters)*
 
 **What are the primary programs and services provided by your organization? (1000 char max)**
-GOODProjects runs a four-phase continuum in Southwest DC's Ward 6 public housing communities. Family Success Planning (FSP) pairs every enrolled family with a dedicated coach for financial stability, benefits navigation, and workforce readiness. GOODLearningHub (GLH) provides tutoring, afterschool programming, and summer camp (GOODCamp) for youth ages 5 to 14, including the GOODSports sports and life-skills track. GOODZone is our violence interruption program: Credible Messengers, Outreach Workers, and Crisis Intervention Specialists provide daily street-level presence and 48-hour crisis response in identified hotspot corridors. JUMPSTART is our workforce development and income-creation program for older youth and adults. The SW Peace Garden, the subject of this application, is a trauma-informed therapeutic horticulture program that integrates with GOODZone's crisis response system to give youth and families a non-clinical space to heal.
-*(951/1000 characters)*
+GOODProjects runs a four-phase continuum in Southwest DC's Ward 6 public housing communities. Family Success Planning pairs every enrolled family with a dedicated coach for financial stability and workforce readiness. GOODLearningHub provides tutoring, afterschool programming, summer camp, and, since August 2025, a dedicated mental health services expansion for youth ages 14 to 18, anchored by a licensed clinical social worker and funded in part by the Aim High/NY Life Foundation. GOODZone is our violence interruption program: Credible Messengers and Crisis Intervention Specialists provide daily street-level presence and 48-hour crisis response. JUMPSTART is our workforce development program for older youth and adults. The SW Peace Garden, launched in 2021, is a trauma-informed therapeutic horticulture space that complements this continuum.
+*(852/1000 characters)*
 
 **Please describe the primary population that your organization/program serves (500 char max)**
-We serve residents of James Creek, Syphax Gardens, and Greenleaf, three public housing communities in Southwest DC's Ward 6. Approximately 95% of participants are Black or African American, and median household income is approximately $14,000 a year, well below the poverty line. Families here face chronic exposure to community violence alongside poverty and housing instability. The Peace Garden serves youth ages 5 to 24 and their caregivers with direct or secondary exposure to violence.
-*(491/500 characters)*
+We serve residents of James Creek, Syphax Gardens, and Greenleaf, three public housing communities in Southwest DC's Ward 6. Approximately 95% of participants are Black or African American, and median household income is approximately $14,000 a year, well below the poverty line. Families here face chronic exposure to community violence alongside poverty and housing instability. This request targets youth ages 14 to 18 and caregivers navigating the transition to adulthood under those conditions.
+*(499/500 characters)*
 
 **Has your organization applied for the Innovation Awards before?**
-No, based on the awarded/applied grant history on file. CONFIRM with Neo and whoever attended the June 23 information session ("MWP" per the internal tracker) in case there is a prior application not reflected in `07-awarded-grants-history.md`.
+Yes. GOODProjects applied in the 2025 cycle (deadline July 7, 2025), built around this same GOODLearningHub mental health expansion. CONFIRM with Neo whether that application was formally submitted (the file on hand is a complete draft with webinar notes, but submission status is not independently confirmed) and whether it was awarded; no Morgan Stanley award appears in `07-awarded-grants-history.md`, so treat it as applied-but-not-awarded unless Neo says otherwise.
 
 **Please choose the award(s) you want to apply for**
-Innovation Award (not Next Gen Innovation Awards). Eligibility for Next Gen requires an organization founded and/or led by someone under 32; Darius Baxter's age likely places GOODProjects outside that window, so this application targets the standard $100,000 Innovation Award category.
+Innovation Award (not Next Gen Innovation Awards). Eligibility for Next Gen requires an organization founded and/or led by someone under 32; Darius Baxter's age likely places GOODProjects outside that window, so this application targets the standard $100,000 Innovation Award category. (The 2025-cycle draft on file argued Darius qualified for Next Gen; CONFIRM his current age against the under-32 threshold with Neo, since this determines whether that category is actually available this cycle.)
 
 ## PROPOSED PROGRAM INFORMATION
 
 **Describe your proposed program for addressing the challenges of stress, anxiety, depression or other mental health issues among children or youth in the U.S. (2500 char max)**
-GOODProjects requests $100,000 to scale the SW Peace Garden, our trauma-informed therapeutic horticulture program for youth and families in Southwest DC exposed to community violence and poverty. The Peace Garden treats trauma as a public health issue and healing as a community-built process, not a clinical service alone. It operates across five pillars: (1) Therapeutic Horticulture and Somatic Engagement, structured, age-appropriate gardening tasks such as planting, watering, and harvesting that provide sensory regulation and model stability and growth; (2) Social-Emotional Learning in Nature's Classroom, facilitated circle time, cooperative projects, and conflict-resolution activities tied to garden care; (3) Nutritional Empowerment and Food Justice Education, cooking demonstrations and seed-to-table lessons that address food access alongside mental health; (4) Safe Haven and Pro-Social Community Building, consistent after-school and weekend programming in a physically and psychologically safe space; and (5) Intergenerational Healing and Family Engagement, family harvest days and caregiver workshops that extend healing to the whole household, not just the enrolled youth.
+GOODProjects requests $100,000 to deepen the mental health services expansion inside GOODLearningHub, our youth development hub in Southwest DC, for teens ages 14 to 18. In August 2025, the Aim High/NY Life Foundation committed $100,000 over two years to embed a licensed clinical social worker in GOODLearningHub, extending our existing model for younger children (through age 13) up through high school for the first time. That clinical position is now in place and delivering individual and group counseling, crisis intervention, and staff training in trauma-informed care.
 
-This grant funds a dedicated Peace Garden Program Coordinator, expanded weekly programming hours, and formal integration with GOODZone's Crisis Intervention Specialists, so a youth stabilized after a violent incident gets a same-week warm handoff into ongoing, non-clinical trauma support at the Garden, rather than a one-time crisis response alone. The Coordinator will also launch a family harvest day series each program season, so caregivers are engaged as partners in a child's healing rather than bystanders to it.
+This request funds the layer of the same initiative that NY Life's grant does not cover: a Peer Support Specialist role and a trained cohort of Peer Wellness Leaders, middle and high school students who co-facilitate social-emotional learning sessions and help normalize conversations about mental health among their peers. We draw on the CASEL framework and Trust-Based Relational Intervention (TBRI) to structure this work, and use the DESSA Mini assessment to track emotional-skills growth. Programming includes mindfulness, journaling, and expressive-arts sessions, delivered onsite at our GOODZone community hub alongside recreation space and community gardens, removing transportation and access barriers common to clinical mental health care.
 
-The Garden already has one funded track record, a 2022 award from Progressive Life Center/Building Blocks, and years of programming inside GOODProjects' broader continuum. This grant is what allows it to move from occasional, volunteer-dependent programming to a fully staffed, year-round model with a dedicated coordinator, a formal referral pathway, and outcomes tracked with the same rigor as GOODProjects' other three continuum phases.
-*(2154/2500 characters)*
+Family engagement is built in through our Family Success Planning model: weekly caregiver sessions keep support consistent across home and program environments. The result is a single continuum, licensed clinical care from NY Life's investment, paired with peer-led, family-integrated support this grant would fund, rather than two disconnected mental health efforts inside the same organization.
+*(1725/2500 characters)*
 
 **What is the problem or unmet need your program aims to address? (1000 char max)**
-Southwest DC's Ward 6 public housing communities, James Creek, Syphax Gardens, and Greenleaf, are among DC's most resource-constrained neighborhoods. Over the past six years, the GOODZone coverage area recorded 249 violent incidents, less than half the 601 recorded in the neighboring Navy Yard area, but violence exposure remains a persistent, present reality for the youth and families we serve, not a resolved problem. Chronic exposure to community violence, combined with poverty and housing instability, produces sustained trauma that most children in these communities have no dedicated, non-clinical space to process. Southwest DC has no equivalent green, healing-centered space built specifically for this purpose outside of GOODProjects' own Peace Garden, and without dedicated staffing, the Garden cannot yet operate at the scale the need requires.
-*(858/1000 characters)*
+Youth in Southwest DC's Ward 6 public housing communities face chronic exposure to poverty, community violence, and systemic disinvestment, producing high rates of stress, anxiety, and depression. Culturally relevant, affordable mental health care remains out of reach for most Black teens in public housing, and services that do exist are often clinical-only, disconnected from where youth already spend their time, and silent on the peer relationships that shape adolescent mental health most directly. Our licensed clinical social worker, funded by NY Life starting in 2025, addresses the clinical gap for ages 14 to 18. What remains unfunded is the peer-support and family-engagement layer around that clinical care, the piece that determines whether teens actually use the services available to them and whether gains outside the counseling room hold.
+*(856/1000 characters)*
 
 **Is this a new, piloted, or existing program?**
-Existing, now scaling. The Peace Garden has a funded track record predating this request (Progressive Life Center/Building Blocks, 2022) and has run on volunteer-dependent, occasional programming since. This grant funds its first dedicated staff and formal referral pathway, not a brand-new pilot. The exact launch year is not on file in GOODProjects' program records; confirm it with Stephanie Page-Baxter before finalizing, since the funder's FAQ or reviewers may ask directly. Pick whichever option the form's dropdown offers that best matches "existing program moving to full staffing"; if only New/Piloted/Existing are offered, choose Existing.
+Existing. The GOODLearningHub mental health expansion has run since August 2025 under Aim High/NY Life Foundation funding. This request adds a new component (peer support and family engagement) to an already-operating, clinically-staffed program, not a new pilot.
 
 **Please highlight the innovative aspects of your program. Are you aware of any other similar programs in the U.S.? How do you distinguish your program from others? (1500 char max)**
-The Peace Garden's innovation is structural, not just programmatic: it is built as a direct extension of GOODZone, our violence interruption program, rather than a standalone wellness offering. When a Crisis Intervention Specialist stabilizes a youth after a shooting or major conflict, our model creates a same-week warm handoff into ongoing, non-clinical trauma support at the Garden, closing a gap that most violence-interruption programs leave open between crisis response and sustained healing. We are not aware of another DC program that pairs therapeutic horticulture directly with a violence-interruption crisis pipeline this way. The Garden also treats family healing as intergenerational by design: caregivers participate alongside youth in family harvest days, rather than youth being treated apart from the household stress that produced their trauma in the first place. Most therapeutic garden programs we are aware of operate as clinical adjuncts inside a single facility; ours is embedded in the same public housing communities where the trauma occurs, and is staffed in part by people with lived experience of the violence and poverty our participants face.
-*(1173/1500 characters)*
+Most mental health programs serving low-income teens are clinical-only: a counselor's office, walled off from the rest of a young person's life. Our model treats clinical care as one layer of a larger system, embedding a licensed clinical social worker inside the same community hub where teens already do tutoring, sports, and afterschool programming, then surrounding that clinical layer with trained peer wellness leaders and structured family engagement through Family Success Planning. We are not aware of another DC program that pairs licensed clinical mental health staffing with youth-led peer support and weekly caregiver engagement under one roof in a public housing community. Funding this expansion through two philanthropic partners, NY Life for clinical staffing and this request for the peer and family layer, lets each funder support the piece of the model closest to their own priorities while GOODProjects keeps the full continuum intact rather than building each layer in isolation.
+*(1001/1500 characters)*
 
 **What are the services delivered? How do you deliver the services? (1500 char max)**
-Programming runs through five pillars delivered in a shared community garden space in Southwest DC: structured, age-appropriate gardening tasks for sensory regulation; facilitated circle time and conflict-resolution activities tied to garden care; cooking demonstrations and seed-to-table food justice lessons; consistent after-school and weekend programming in a safe, welcoming space; and family harvest days and caregiver workshops. Services are delivered in person, on a consistent weekly schedule, by a dedicated Peace Garden Program Coordinator working alongside GOODZone's Crisis Intervention Specialists. Referrals into the Garden come primarily through GOODZone's crisis response pipeline, so a youth stabilized after a violent incident is connected into ongoing Garden programming within the same week, and secondarily through GOODLearningHub enrollment. Family harvest days and caregiver workshops are held periodically throughout the year to extend the program's reach to the full household, not just the enrolled youth.
-*(1032/1500 characters)*
+The GOODLearningHub mental health expansion serves youth ages 14 to 18 through three integrated layers. Clinical: a licensed clinical social worker, funded by the Aim High/NY Life Foundation, provides individual and group counseling, crisis intervention, and referrals to higher-level care when needed. Peer: trained Peer Wellness Leaders, middle and high school students, co-facilitate social-emotional learning workshops using the CASEL framework and lead mindfulness, journaling, and expressive-arts sessions grounded in Trust-Based Relational Intervention (TBRI). Family: weekly caregiver sessions through our Family Success Planning model keep support consistent across home and program. All three layers operate onsite at our GOODZone community hub, co-located with recreation space and community gardens, so teens access mental health support in the same place they already go for tutoring, sports, and afterschool programming, without a separate clinical appointment or facility.
+*(987/1500 characters)*
 
 **How is your program informed and/or delivered by mental health professionals? (1500 char max)**
-The Peace Garden is grounded in trauma-informed care principles: it treats trauma as a public health issue and designs every activity, from gardening tasks to circle time, around sensory regulation, emotional safety, and predictability. Program staff, including GOODZone's Crisis Intervention Specialists who feed referrals into the Garden, receive trauma-informed care training as part of their role. For clinical needs beyond what a community-based, non-clinical program is designed to address, GOODProjects partners with C3 Wellness, which provides trauma-informed therapy and weekly wellness check-ins across our program continuum, and serves as our direct referral pathway for youth and families who need licensed clinical care. This grant would formalize that referral pathway specifically for the Peace Garden, so clinical and non-clinical support work together rather than as two disconnected systems.
-*(909/1500 characters)*
+The program is grounded in trauma-informed, evidence-based practice and designed in close collaboration with mental health professionals. A licensed clinical social worker, embedded in GOODLearningHub since 2025 through the Aim High/NY Life Foundation partnership, provides direct counseling and trains program staff in trauma-informed care. We draw on the CASEL framework for social-emotional learning and Trust-Based Relational Intervention (TBRI) to guide emotional regulation and relationship-building work, and use the DESSA Mini assessment to measure youth emotional skills. Peer Wellness Leaders, trained older youth, extend this clinical foundation into daily peer interactions, and weekly Family Success Planning sessions bring caregiver voice directly into program design. GOODProjects also partners with C3 Wellness for trauma-informed therapy and wellness check-ins across our broader continuum, giving families a referral path beyond what any single funded position can carry alone.
+*(995/1500 characters)*
 
 **Over the life of the grant, who would benefit from your program services, in what geographic area, and over what time frame? (1000 char max)**
-Over the 12-month grant period, we project 75 youth and family participants will enroll in expanded Peace Garden programming, a caseload sized to one dedicated full-time Program Coordinator running weekly sessions plus two family harvest day series. Participants are youth ages 5 to 24 and their caregivers with direct or secondary exposure to community violence, drawn from James Creek, Syphax Gardens, and Greenleaf, three public housing communities in Southwest DC's Ward 6. This is a projected target for newly expanded programming; GOODProjects will confirm final enrollment capacity with program leadership before the grant period begins.
-*(644/1000 characters)*
+Over the 12-month grant period, we expect to build on FY2024 engagement of over 120 youth in GOODLearningHub's mental health programming, with 90% regular attendance and 80% showing improved emotional regulation and peer relationships in that baseline year. This grant specifically funds the expanded 14 to 18 age cohort now eligible under the 2025 clinical expansion; we will confirm an updated Year 1 target for that specific cohort with Stephanie Page-Baxter before submission. Participants are teens and their caregivers in James Creek, Syphax Gardens, and Greenleaf, three public housing communities in Southwest DC's Ward 6, plus the broader Southwest DC corridor GOODLearningHub increasingly serves.
+*(706/1000 characters)*
 
 **How would you measure and evaluate your services delivered and the impact of your program? (1500 char max)**
-GOODProjects tracks participation and outcomes across all programs using Salesforce CRM and program-specific data tools. For the Peace Garden, we will measure short-term outcomes through pre/post participant surveys on self-reported anxiety and stress symptoms; medium-term outcomes through staff observation and quarterly caregiver check-ins on sense of safety, belonging, and emotional regulation; and long-term outcomes through sustained family engagement across multiple garden seasons and reduced referral-to-engagement time between a GOODZone crisis response and a youth's first Peace Garden session. A mid-year data review and year-end evaluation will assess progress against the Year 1 target of 75 enrolled participants and inform staffing and programming adjustments for Year 2.
-*(788/1500 characters)*
+GOODProjects tracks participation and outcomes using Salesforce CRM alongside program-specific tools. For this program, we use the DESSA Mini (Devereux Student Strengths Assessment) to measure youth emotional skills and resilience through pre- and post-program assessment, with a goal of 75% of participants showing measurable growth by program end. We track attendance and retention as indicators of trust and access, and collect caregiver feedback through monthly surveys and Family Success Planning sessions. In FY2024, over 120 youth engaged in GOODLearningHub's broader mental health programming, with 90% attending regularly and 80% demonstrating improved emotional regulation and peer relationships; Neo and Stephanie Page-Baxter should confirm updated FY2025 or FY2026 figures before this is submitted, since program-wide numbers have likely grown since the clinical expansion launched.
+*(894/1500 characters)*
 
 **Is it feasible to scale or replicate your program to a broader community? If yes, how? (1500 char max)**
-Yes. The Peace Garden's core model, a shared garden space paired with a formal referral pathway from a violence-interruption program, does not depend on specialized clinical infrastructure or a large capital investment, which makes it replicable in other DC wards and public housing communities that already run violence-interruption or crisis-response programs. GOODProjects itself is structured as a "community quarterback" model (the GOODZones Initiative), coordinating multiple partner organizations across housing, education, youth development, and community culture in one place-based footprint, so the organizational capacity to stand up a second garden site already exists. The clearest path to scale is replicating the referral-pathway design, a same-week warm handoff from crisis stabilization into non-clinical trauma support, in additional GOODZone corridors or partner communities, using this grant's Year 1 outcomes as the evidence base for that expansion.
-*(970/1500 characters)*
+Yes. The model separates cleanly into fundable layers, clinical staffing, peer support, and family engagement, which makes it possible to grow one layer at a time as funding allows, rather than requiring a single large investment to scale at all. GOODProjects is structured as a "community quarterback" model (the GOODZones Initiative), coordinating multiple partner organizations across housing, education, and youth development in one place-based footprint, so replicating this layered mental health model in additional GOODZone corridors or partner communities does not require building new organizational infrastructure. Over the next three to four years, with additional funding, we would extend the same three-layer model, licensed clinical care, trained peer wellness leaders, and family engagement, to younger cohorts and additional public housing sites in Southwest DC, using this grant's outcomes as the evidence base.
+*(928/1500 characters)*
 
 **Please indicate the total budget of your program, including specific breakdowns, and how the amount from the Innovation Awards will be spent against the total budget**
-Total Year 1 program budget: $100,000, entirely funded by this request (the Peace Garden has no other current dedicated funding). Breakdown:
-- Personnel: Peace Garden Program Coordinator, 1.0 FTE: $55,000
-- Fringe: 22% of personnel, matching GOODProjects' documented rate: $12,100
-- Program Supplies: therapeutic horticulture materials, garden tools, cooking demonstration supplies: $12,000
-- Participant Costs: family harvest day events, transportation for family engagement sessions: $7,810
-- Evaluation: pre/post survey design and outcome tracking: $4,000
-- Subtotal, direct costs: $90,910
-- Indirect: 10% of MTDC, matching GOODProjects' standard rate: $9,090
+Combined two-funder program budget: $200,000 across two years (August 2025 to August 2027). $100,000 is already committed by the Aim High/NY Life Foundation and funds the licensed clinical social worker position at the core of the program (individual and group counseling, crisis intervention, staff training). This $100,000 request from Morgan Stanley funds the complementary peer-support and family-engagement layer, itemized below:
+- Peer Support Specialist (new part-time role, works alongside the NY Life-funded clinical social worker): $35,000
+- Peer Mentorship Program: stipends, training, and supervision for Peer Wellness Leaders: $20,000
+- Program Supplies and Activities: journals, mindfulness kits, expressive-arts materials: $15,000
+- Training and Evaluation: trauma-informed training for staff and peer leaders, DESSA Mini assessment administration and data analysis: $15,000
+- Family and Community Engagement: weekly caregiver sessions, mental health literacy events, delivered through Family Success Planning: $15,000
 - **Total: $100,000**
 
-The full Innovation Award, if granted, funds 100% of this Year 1 budget. There is no additional funding gap to fill for Year 1 itself; see the next answer for our sustainability plan beyond Year 1.
+No budget line above duplicates what NY Life already funds; Cole should still confirm current market rates for the Peer Support Specialist role before this figure is finalized.
 
 **Please list any other committed sources of funding and how you plan to fill any gaps in your total budget. (1000 char max)**
-The Peace Garden does not currently have a dedicated, ongoing funding source beyond a single 2022 award from Progressive Life Center/Building Blocks ($5,000, since expended). This request would establish the Garden's first dedicated annual program budget. GOODProjects does not rely on single-source funding organization-wide: our diversified base includes DC government grants (ONSE, DPR, OVSJG), national foundation grants (Ford Foundation, Robert Wood Johnson Foundation), and corporate and individual giving. Once this grant funds a full year of tracked Peace Garden outcomes, we plan to pursue additional foundation and corporate funding to sustain and grow the program beyond Year 1, using this award's results as evidence.
-*(729/1000 characters)*
+The Aim High/NY Life Foundation committed $100,000 over two years (August 2025 to August 2027) to fund the licensed clinical social worker position at the core of this program. This request funds the complementary peer-support and family-engagement layer that NY Life's grant does not cover. GOODProjects does not rely on single-source funding: our diversified base includes DC government grants (ONSE, DPR, Learn24), national foundation grants (Ford Foundation, Robert Wood Johnson Foundation), and corporate and individual giving. We are pursuing additional foundation and corporate funding to extend this model to younger cohorts and additional sites once this grant's outcomes are tracked for a full program year.
+*(717/1000 characters)*
 
 ## LEADERSHIP LEARNING SERIES & PRO BONO QUESTIONS
 
 **Would you be interested in joining the Leadership Learning Series, should your organization not be selected as an awardee and your schedule allow?**
-Yes, recommended. Low-cost relationship building with Morgan Stanley regardless of award outcome. CONFIRM with Neo given staff capacity.
+Yes, recommended. Low-cost relationship building with Morgan Stanley regardless of award outcome. CONFIRM with Neo given staff capacity. The prior cycle's application indicated interest in Fundraising/Donor Relations, Nonprofit Management/Leadership, Executive Team Effectiveness, Program Development/Execution, Grant Writing/Pitch Development, and Volunteer Engagement, if the 2027 form asks for topic selections again.
 
 **Have you enrolled in the Leadership Learning Series previously?**
-No, based on records on file. CONFIRM with Neo.
+No, per the 2025-cycle application on file. CONFIRM with Neo.
 
 **Would your organization be interested in potential pro bono strategic advice from Morgan Stanley employees, should volunteers with relevant skillsets and availability be identified?**
 Yes, recommended. No downside to opting in; GOODProjects can decline specific engagements later if capacity does not allow.
 
 **How did you learn about this call for applications?**
-GOODProjects attended Morgan Stanley's June 23, 2026 information session for the Alliance for Children's Mental Health Innovation Awards. CONFIRM this is accurate with whoever attended (initials "MWP" per the internal tracker) before submitting; if the session was found a different way, correct this answer.
+GOODProjects attended Morgan Stanley's June 23, 2026 information session for the Alliance for Children's Mental Health Innovation Awards. (The 2025-cycle application answered "Other Nonprofit" to this question; CONFIRM which is accurate for this cycle with whoever attended the June 23 session, initials "MWP" per the internal tracker.)
 
 ---
 
 ## PRE-SUBMISSION QA GATE (portal-specific)
 
 - **01.** [x] Every character-limited field verified against its stated limit; none exceed the portal's stated max
-- **02.** [x] Budget breakdown in the "total budget" field reconciles exactly to $100,000
-- **03.** [ ] Contact Person: confirm Neo Mangope is the right named contact for this specific application (vs. Darius Baxter as signatory) before submitting
-- **04.** [ ] "May we share your application with other potential funders?" needs an actual Neo decision, not just a recommended default
-- **05.** [ ] "Has your organization applied for the Innovation Awards before?" needs confirmation from whoever attended the June 23 info session
-- **06.** [ ] "Is this a new, piloted, or existing program?" needs the Peace Garden's actual launch year from Stephanie Page-Baxter, and needs matching to whatever dropdown options the live form actually offers
-- **07.** [ ] Outcome target (75 participants) is a projected figure; confirm feasibility with Stephanie Page-Baxter or Marquel Webb before submitting
-- **08.** [x] No Cara Adams in the staffing section
-- **09.** [x] No em or en dashes anywhere in the final text
-- **10.** [x] No chatbot framing, no significance inflation, no vague attributions
-- **11.** [ ] Darius Baxter has not yet signed / approved; route through Neo first
-- **12.** [x] PDF generated: `2026-07-morgan-stanley-application-answers.pdf`. Regenerate after Neo's review and any edits to the flagged items above
+- **02.** [x] Budget breakdown in the "total budget" field reconciles exactly to $100,000, and no line duplicates NY Life's already-funded clinical position
+- **03.** [x] Contact Person set to Darius Baxter per Neo's direction
+- **04.** [ ] Darius Baxter's direct phone number is not on file; source it before submitting (do not reuse Neo Mangope's number)
+- **05.** [x] "May we share your application with other potential funders?" set to Yes per Neo's direction
+- **06.** [x] "Has your organization applied for the Innovation Awards before?" set to Yes; confirm submission status of the 2025-cycle draft with Neo
+- **07.** [x] Peace Garden launch year (2021) and Peace Garden feasibility are no longer load-bearing for this submission since the anchor program changed; kept on file in the superseded narrative source only
+- **08.** [ ] CASEL, TBRI, and DESSA Mini claims, plus the "120 youth / 90% / 80%" FY2024 figures, are carried over from GOODProjects' own 2025-cycle application, not independently verified against `org_profile`. Confirm with Stephanie Page-Baxter or whoever oversees the licensed clinical social worker role before submission, and get updated FY2025/FY2026 numbers if available
+- **09.** [ ] "Is this new, piloted, or existing" and "Applied before" answers assume the 2025 cycle draft was submitted but not awarded; confirm actual submission status with Neo
+- **10.** [ ] Next Gen Innovation Award eligibility (Darius under 32) is contradicted between this application (assumes over 32) and the 2025-cycle draft (assumed under 32, now a year older); confirm his current age against the threshold before choosing an award category
+- **11.** [x] No Cara Adams anywhere; Contact Person and all staffing references use current roster
+- **12.** [x] No em or en dashes anywhere in the final text
+- **13.** [x] No chatbot framing, no significance inflation, no vague attributions
+- **14.** [ ] Darius Baxter has not yet signed/approved; route through Neo first
+- **15.** [x] PDF generated: `2026-07-morgan-stanley-application-answers.pdf`. Regenerate after Neo's review and any edits to the flagged items above
 
 ---
 
