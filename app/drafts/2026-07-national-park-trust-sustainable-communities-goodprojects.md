@@ -2,7 +2,7 @@ GOODProjects
 Corporate/Foundation Grant Draft: National Park Trust / Pepco Sustainable Communities Grants Program
 GOODProjects Lead Application (joint submission with Nyame Kua Farm Collective, who is filing their own parallel application)
 
-STATUS: Backup version ready for submission today, July 13, 2026 (portal closes 11:59 PM), in case Jazzlyn does not finish her own budget/upload work in time. Budget spreadsheet, operating budget figure, and contact email are now resolved. Real file uploads (Board list, 501c3, audit) are intentionally left as Drive links here; Jazzlyn owns that piece. Route to Neo/Darius for sign-off given the same-day deadline.
+STATUS: Final draft, ready to paste into the Cybergrants portal. This is the backup version in case Jazzlyn does not finish her own budget/upload work before tonight's deadline. Two items remain open: the real file uploads (owned by Jazzlyn) and Neo/Darius sign-off. See "Still Open" at the end.
 
 ## SOLICITATION DETAILS
 
@@ -14,10 +14,9 @@ STATUS: Backup version ready for submission today, July 13, 2026 (portal closes 
 | Deadline | July 13, 2026, 11:59 PM (today) |
 | Submission Method | Cybergrants portal: https://www.cybergrants.com/pls/cybergrants/quiz.display_question?x_gm_id=7616&x_quiz_id=13232&x_order_by=1 |
 | Program Contact | ivan@parktrust.org |
-| Co-applicant | Nyame Kua Farm Collective (Jazzlyn Lindsey, ED) is filing its own parallel application for the same project. Confirm with Ivan at National Park Trust whether joint/duplicate applications from both partner organizations are permitted or whether only one should be submitted. Filing two applications for one project could read as a compliance problem if the funder doesn't expect it. |
-| Go/No-Go Confirmed | Program fit is real and strong (see below); this is not a forced fit. Final send still needs Neo/Darius sign-off given the two open blockers. |
+| Co-applicant | Nyame Kua Farm Collective (Jazzlyn Lindsey, ED) is filing its own parallel application for the same project. |
 
-Why this is a real fit, not a forced one: the project runs through Nyame Kua Farm Collective (GOODProjects' confirmed garden/farm subcontractor) at the SW Peace Gardens, GOODProjects' own site, and is grounded in Ward 6/7/8 food-desert and extreme-weather data specific to Southwest DC. This qualifies cleanly under Part 7 of the playbook: geographic fit, program match, and entity eligibility all check out.
+---
 
 ## PART ONE: APPLICANT INFORMATION
 
@@ -37,10 +36,10 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 
 **Nonprofit Uploads:**
 
-- **List of Board of Directors:** ⚠ FIX BEFORE SUBMITTING. Currently a Google Drive link, which the portal will not accept as a file upload (Cybergrants requires an actual uploaded document, not a link). Export the Board list from Form 990 Part VII (Cherrelle Swain, Chairwoman; Jim Schumacher, Treasurer; Darius Baxter; Lauren Marcus; Dr. Keena Blackmon; Max Snider; Dr. Alyssa Lovegrove; Carlos Gray) or pull the standalone PDF Dumi has and upload the file directly.
-- **Proof of 501(c)(3) Status:** Upload `app/compliance/501c3_determination_letter.pdf` directly (on file, IRS Letter 947, dated July 29, 2016), not the Drive link.
-- **Audited Financial Statement:** Upload `app/compliance/audited_financials_2024.pdf` directly (Desai Company, unmodified opinion, dated September 7, 2025), not the Drive link.
-- **Annual Operating Budget:** $1,689,003, FY2024 audited total expenses (Desai Company, unmodified opinion, `app/compliance/audited_financials_2024.pdf`). Resolved: the earlier $1,745,797.46 figure didn't match any number in GOODProjects' financial records (not FY2024 audited revenue/expenses, not FY2025 internal figures) and couldn't be sourced, so this uses the only board/auditor-confirmed figure on file. If Cole or Darius has a newer board-approved FY2026 operating budget, swap it in and cite that instead.
+- **List of Board of Directors:** [GOODProjects _ 2026 Board of Directors (1) (2).pdf](https://drive.google.com/file/d/1cUggeFGrzYYUdmZQbeM88SJhY9XIUxRc/view?usp=drive_link)
+- **Proof of 501(c)(3) Status:** [GOODProjects 501 (c) (3) Determination Letter (1) (1).pdf](https://drive.google.com/file/d/1vCwJM64yKgi4srNxdBDFszi9WGDRtSpo/view?usp=drive_link)
+- **Audited Financial Statement:** [good projects 2024 audit.pdf](https://drive.google.com/file/d/1RpdW7ISoRDuDZUcshUPA-MJYnK6GHLpU/view?usp=drive_link)
+- **Annual Operating Budget:** $1,689,003
 
 ## PART TWO: PRIMARY GRANT CONTACT INFORMATION
 
@@ -52,7 +51,7 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 
 **Title:** Co-Founder & CEO
 
-**Email Address:** darius@goodprojects.org. Resolved: the draft had two different emails for Darius in this document (this address in Part Two, GOOD@GOODProjects.org in Part Three). Standardized on darius@goodprojects.org, which follows GOODProjects' confirmed firstname@goodprojects.org convention (matches neo@goodprojects.org on file). If Neo knows this isn't Darius's actual working inbox, swap it before submitting, but do not submit with two different addresses for the same contact.
+**Email Address:** darius@goodprojects.org
 
 **Telephone:** (202) 270-1278
 
@@ -62,7 +61,7 @@ Why this is a real fit, not a forced one: the project runs through Nyame Kua Far
 
 **Fiscal:** Cole Bradshaw, Finance and Operations, cbradshaw@goodprojects.org, (301) 442-0955
 
-**Media (optional):** Adam Hickson, Communications Lead, GOODProjects. Using GOODProjects' own communications lead here, rather than the partner organization's, demonstrates GOODProjects has in-house capacity to deliver the promotion plan in Part Four. Nyame Kua's LaMarcus "Kwesi" White is already credited extensively in the Key Partners and Project Team sections below as co-promoter.
+**Media (optional):** Adam Hickson, Communications Lead, GOODProjects
 
 ## PART FOUR: SPECIFIC PROJECT QUESTIONS
 
@@ -198,9 +197,9 @@ Community Outreach and Training ($4,000): This provides stipends for community e
 
 Plan Development and Documentation ($3,000): This covers staff time to develop the neighborhood emergency food plan, map existing resources, coordinate with the D.C. Food Policy Council, and create the final report and outreach materials. Documentation ensures the plan can be shared, replicated, and integrated into citywide emergency operations.
 
-Budget reconciles: $10,000 + $3,000 + $4,000 + $3,000 = $20,000 = requested grant amount. ✓
+Budget reconciles: $10,000 + $3,000 + $4,000 + $3,000 = $20,000 = requested grant amount. Confirmed.
 
-**Sustainable Communities Budget Spreadsheet:** Resolved as a backup: `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, an itemized budget (category, line item, description, quantity, unit cost, grant request, matching/in-kind, total) that reconciles line-by-line to the $20,000 budget narrative above. The official parktrust.org template couldn't be downloaded from this environment (network-blocked), so this is built to the same content the template asks for, not the template's exact cell layout. **If Jazzlyn produces the official template before submission, use hers**, since it will match the funder's expected format more precisely. Use this file only if hers isn't ready by the deadline.
+**Sustainable Communities Budget Spreadsheet:** `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx` (backup, itemized, reconciles to $20,000). Use Jazzlyn's version instead if she finishes hers before submission; it will match the funder's official template more precisely.
 
 ## PART SIX: OPTIONAL UPLOADS
 
@@ -209,22 +208,14 @@ Recommended, in priority order:
 2. Letter of Support from the SW Residents Council. Signals resident buy-in, which the funder explicitly prioritizes ("priority consideration...to underresourced/underrepresented communities").
 3. Letter of Support from the D.C. Food Policy Council, if Marquel or Darius can secure one quickly today. Reinforces the Goal 3/city-integration claim with third-party validation.
 
-## REQUIRED ATTACHMENTS / BLOCKERS CHECKLIST
+---
 
-[x] Sustainable Communities Budget Spreadsheet: backup version built at `app/drafts/2026-07-national-park-trust-budget-spreadsheet.xlsx`, reconciles to $20,000. Swap in Jazzlyn's if she finishes hers first.
-[ ] **STILL OPEN (owned by Jazzlyn, not resolved here per instruction):** Replace all three Google Drive links (Board list, 501c3 letter, audit) with actual uploaded files. The 501c3 letter and audit are ready to upload as-is from `app/compliance/` whenever someone does this step. The Board list needs to be exported as its own file first (Form 990 Part VII has the current roster).
-[x] Annual Operating Budget set to $1,689,003 (FY2024 audited total expenses), sourced and reconciled with `app/compliance/audited_financials_2024.pdf`.
-[x] Darius's contact email standardized to darius@goodprojects.org throughout (Parts Two and Three now match).
-[x] No Cara Adams in the staffing/team section.
-[x] Address correct: 996 Maine Avenue SW, Suite 208, Washington, DC 20024.
-[x] EIN correct: 81-1491594.
-[x] Budget total ($20,000) equals the headline ask and is within the Community Resiliency cap.
-[x] All dates fall inside the project period (Oct 2026 to Nov 2027) with no invalid or out-of-order dates.
-[x] Proof metrics (food-desert stats, Ward 8 life-expectancy gap, food insecurity rate) match the funder's resiliency/community-impact domain.
-[x] Humanize and line-edit pass complete: no em or en dashes anywhere in this file (including this checklist), no significance inflation, no chatbot framing, plus grammar fixes to a faulty comparison and a non-parallel sentence in Key Audience and a capitalization fix in Community Engagement.
-[ ] Confirm with National Park Trust (ivan@parktrust.org) whether a parallel application from Nyame Kua Farm Collective for the same project is acceptable or will read as a duplicate.
-[ ] Darius Baxter has not yet signed off; route through Neo immediately given the same-day deadline.
-[ ] PDF/portal-submission copy not yet produced; generate after the above blockers are cleared.
+## STILL OPEN: ACTION NEEDED BEFORE SUBMISSION
+
+1. **Real file uploads (owned by Jazzlyn):** the Board of Directors list, 501(c)(3) letter, and audited financials above are Google Drive links. Cybergrants requires actual uploaded files, not links. The 501c3 letter and audit are ready to upload as-is from `app/compliance/501c3_determination_letter.pdf` and `app/compliance/audited_financials_2024.pdf` if needed as a fallback; the Board list still needs to be exported as its own file (Form 990 Part VII has the current roster: Cherrelle Swain, Chairwoman; Jim Schumacher, Treasurer; Darius Baxter; Lauren Marcus; Dr. Keena Blackmon; Max Snider; Dr. Alyssa Lovegrove; Carlos Gray).
+2. **Duplicate-application question:** confirm with Ivan at National Park Trust (ivan@parktrust.org) whether a parallel application from Nyame Kua Farm Collective for the same project is acceptable, or whether only one organization should submit.
+3. **Sign-off:** Darius Baxter has not yet signed off; route through Neo immediately given the same-day deadline.
+4. **PDF copy:** not yet produced; generate one from this final text after the above is cleared.
 
 ---
 
