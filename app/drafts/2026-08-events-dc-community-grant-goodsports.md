@@ -106,23 +106,4 @@ VERIFY BEFORE SUBMITTING: confirm whether Events DC wants exact dollar figures f
 [x] Board of Directors list with affiliations: available via Form 990 Part VII and `03-staff-board.md`
 [ ] Agency-specific attachment: confirm from the FY2026 Community Grant Program guidelines once the application portal is reviewed directly
 
-## PRE-SUBMISSION QA GATE
-
-- **01.** [x] All placeholders filled with real, verified figures
-- **02.** [x] Funder ask ($18,000) is within Events DC's confirmed $2,500 to $25,000 range
-- **03.** [x] Budget total matches the headline ask
-- **04.** [ ] Business License and MORCA registration not yet confirmed. Do not submit without them (see DLCP path above)
-- **05.** [x] No Cara Adams in the staffing section
-- **06.** [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
-- **07.** [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf
-- **08.** [x] Executive summary tailored to Events DC's youth sports priority
-- **09.** [x] Proof metrics chosen (GOODSports academic and SEL targets) match the funder's domain
-- **10.** [x] All dates valid and inside the project period
-- **11.** [ ] Attachments not yet assembled into final submission package
-- **12.** [ ] Darius Baxter has not yet signed; route through Neo first
-- **13.** [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
-- **14.** [x] PDF generated: `2026-08-events-dc-community-grant-goodsports.pdf`
-
----
-
 GOODProjects, Inc. | 996 Maine Avenue SW, Suite 208, Washington, DC 20024 | EIN 81-1491594 | grants@goodprojects.org

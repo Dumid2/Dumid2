@@ -91,23 +91,4 @@ VERIFY BEFORE SUBMITTING: this budget is built from typical GOODLearningHub tran
 
 Business License note: DC's Basic Business License (charitable solicitation subtype, DLCP) is required for DC government grant applications regardless of the $25,000 receipts exemption threshold. Apply through DLCP's online licensing wizard at mybusiness.dc.gov, which auto-generates the required attachment list. This is an operational task for Cole, not something a draft can resolve; start it now given the July 24 deadline.
 
-## PRE-SUBMISSION QA GATE
-
-- **01.** [x] All placeholders filled with real, verified figures
-- **02.** [ ] Funder ask is within the stated cap: no published per-grant cap found; this is a modest, conservatively built estimate, not a confirmed ceiling
-- **03.** [x] Budget total matches the headline ask
-- **04.** [ ] Field trip logistics not yet confirmed with Stephanie Page-Baxter or Phileke Holland. Do this before submitting, not after; this is the one blocker only program staff can clear
-- **05.** [x] No Cara Adams in the staffing section
-- **06.** [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
-- **07.** [x] Geography confirmed: Ward 6 origin, DC-based destination (Arena Stage, Southwest DC)
-- **08.** [x] Executive summary tailored to CAH's Field Trip Experiences priority
-- **09.** [x] Proof metrics chosen match the funder's domain
-- **10.** [x] Deadline confirmed: Friday, July 24, 2026, 5:00 pm ET (CAH's official grant page)
-- **11.** [ ] Attachments not yet assembled. Business License still needs to be obtained through DLCP (see note above)
-- **12.** [ ] Darius Baxter has not yet signed; route through Neo first
-- **13.** [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
-- **14.** [x] PDF generated: `2026-07-dc-arts-humanities-field-trip-arena-stage.pdf`
-
----
-
 GOODProjects, Inc. | 996 Maine Avenue SW, Suite 208, Washington, DC 20024 | EIN 81-1491594 | grants@goodprojects.org

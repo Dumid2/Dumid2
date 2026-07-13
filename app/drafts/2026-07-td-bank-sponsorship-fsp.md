@@ -82,23 +82,4 @@ TD Bank could also engage with FSP through employee volunteer financial literacy
 
 ---
 
-## PRE-SUBMISSION QA GATE
-
-- **01.** [x] All placeholders filled with real, verified figures
-- **02.** [x] Funder ask ($5,000) matches TD's stated minimum grant size and the internal tracker's logged cap
-- **03.** [x] Budget total matches the headline ask
-- **04.** [ ] BLOCKED: the logged deadline (July 10, 2026) has passed; do not submit until Neo confirms a live window and, ideally, which of the two TD programs (Regional Grants vs. Community Sponsorships) actually fits
-- **05.** [x] No Cara Adams in the staffing section
-- **06.** [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
-- **07.** [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf; TD Bank's footprint explicitly includes DC
-- **08.** [x] Executive summary tailored to TD's "Financial Security" focus area
-- **09.** [x] Proof metrics chosen match the funder's domain
-- **10.** [ ] Dates need updating once a live deadline is confirmed
-- **11.** [ ] Attachments not yet assembled
-- **12.** [ ] Darius Baxter has not yet signed; hold until the deadline/program-fit question above is resolved
-- **13.** [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
-- **14.** [ ] PDF not yet produced; hold until this draft is unblocked (see item 04)
-
----
-
 GOODProjects, Inc. | 996 Maine Avenue SW, Suite 208, Washington, DC 20024 | EIN 81-1491594 | grants@goodprojects.org

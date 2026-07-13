@@ -125,23 +125,4 @@ The Peace Garden does not have an established annual budget on file the way GOOD
 
 GOODProjects does not depend on single-source funding. Our diversified revenue base includes DC government grants (ONSE, DPR, OVSJG), national foundation grants (Ford Foundation, Robert Wood Johnson Foundation), and corporate and individual giving. If awarded, this grant would establish the Peace Garden's first dedicated program budget, positioned to attract future funding once its outcomes are tracked with the same rigor as GOODProjects' other three continuum phases.
 
-## PRE-SUBMISSION QA GATE
-
-- **01.** [x] All placeholders filled with real, verified figures
-- **02.** [x] Funder ask ($100,000) matches the Innovation Awards category exactly
-- **03.** [x] Budget total matches the headline ask exactly ($90,910 direct + $9,090 indirect = $100,000)
-- **04.** [ ] Outcome target (75 participants) is a projected figure for new programming. Confirm feasibility with Stephanie Page-Baxter or Marquel Webb before submitting
-- **05.** [x] No Cara Adams in the staffing section
-- **06.** [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
-- **07.** [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf
-- **08.** [x] Executive summary tailored to Morgan Stanley's children's mental health innovation priority
-- **09.** [x] Proof metrics chosen (trauma/violence exposure data) match the funder's domain
-- **10.** [x] All dates valid; deadline (July 24, 2026) confirmed against Morgan Stanley's public program page
-- **11.** [ ] Attachments not yet assembled (501(c)(3) letter, FY2024 audit, Form 990 all on file in `app/compliance/`; W-9 if requested)
-- **12.** [ ] Darius Baxter has not yet signed; route through Neo first
-- **13.** [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
-- **14.** [x] PDF generated: `2026-07-morgan-stanley-childrens-mental-health-innovation-awards.pdf`
-
----
-
 GOODProjects, Inc. | 996 Maine Avenue SW, Suite 208, Washington, DC 20024 | EIN 81-1491594 | grants@goodprojects.org

@@ -82,25 +82,6 @@ Beyond this grant, Washington Gas could engage with GOODZone through employee vo
 
 ---
 
-## PRE-SUBMISSION QA GATE
-
-- **01.** [x] All placeholders filled with real, verified figures
-- **02.** [x] Funder ask ($12,000) is within a reasonable range for the cap. Washington Gas has not published a per-grant cap, but $12,000 sits just below this cycle's reported average grant size of $11,847 ($545,000 across 46 grants)
-- **03.** [x] Budget total matches the headline ask exactly ($12,000 personnel, no indirect)
-- **04.** [x] Indirect cost allowability resolved by dropping indirect entirely (personnel-only request), removing the open compliance question rather than leaving it unconfirmed
-- **05.** [x] No Cara Adams in the staffing section
-- **06.** [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (not shown in this draft since no signature block was requested; add before submission)
-- **07.** [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf
-- **08.** [x] Executive summary tailored to Washington Gas's "safer neighborhoods" priority
-- **09.** [x] Proof metrics chosen (crime data) match the funder's stated priority area
-- **10.** [x] All dates valid and inside the project period
-- **11.** [ ] Attachments not yet assembled; see Open Items below
-- **12.** [ ] Darius Baxter has not yet signed; route through Neo first
-- **13.** [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions, no chatbot framing)
-- **14.** [x] PDF generated: `2026-08-washington-gas-community-investment-goodzone.pdf`
-
----
-
 ## OPEN ITEMS BEFORE THIS CAN BE SUBMITTED
 
 1. **Confirm the application mechanics and that the second 2026 round is actually open.** Washington Gas's site (washingtongas.com) was not reachable from this environment. Public search confirms the first 2026 round closed with $545,000 across 46 grants (announced May 19, 2026) and a second round is planned "later this year," but no public date was found to confirm the August 1, 2026 deadline in the internal tracker. Someone will need to open the page directly, check for a live application, or reach out to Washington Gas's community relations contact before submitting.
