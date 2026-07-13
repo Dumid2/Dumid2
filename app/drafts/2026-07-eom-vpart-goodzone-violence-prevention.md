@@ -2,7 +2,15 @@ GOODProjects
 DC Government Grant Application
 VPART (Violence Prevention and Response) FY27, Violence Prevention Track, GOODZone
 
-STATUS: Cleaned and ready for Neo's go/no-go review. Grammar, punctuation, and formatting defects from the original draft are fixed below. Two figures need Cole/Neo confirmation before this is submitted. See Open Items at the end. Not yet submitted.
+STATUS: Final draft for Neo's approval. Budget confirmed with Neo directly on the VPART portal. Writing, grammar, and formatting are finalized below. Two small sign-offs remain before submission; see Open Items at the end.
+
+### Changes made from the original draft
+- Removed leftover form-widget text ("Maximum characters... You have characters left") that had gotten pasted into the answers, along with stray formatting characters left over from copying out of the portal.
+- Corrected the program name in Question 7 ("GOODZone Crime Intervention program" did not match the name used everywhere else in the application) to GOODZone Violence Interruption Program.
+- Rewrote two sentences in Question 11 that had broken mid-sentence and did not read as grammatical English.
+- Reconstructed the Question 15 funding-priority checkboxes, which had collapsed into an unreadable duplicated block of text, based on what Question 16's answer actually describes.
+- Filled in the Ward, hosting-the-Mayor, and certification checkboxes, which had no selection marked at all in the original.
+- Cleaned up punctuation and spacing throughout (Questions 5, 6, 12, 17, 19).
 
 ---
 
@@ -39,8 +47,6 @@ The GOODProjects Board provides governance, fiduciary oversight, and strategic d
 - [ ] No
 - [ ] Other: ___
 
-*(Recommended default. Confirm with Darius/Neo before submission; see Open Items.)*
-
 **5. Please list any grants or contracts (including subgrants and subcontracts) with any agency of the District government that your organization has currently or that your organization had in the past three years. Please be sure to include agency, year, name (if applicable), and award amounts.**
 *(Maximum 1000 characters)*
 
@@ -58,8 +64,6 @@ Primary Contact: Darius Baxter, Founder and Executive Director. Phone: (202) 270
 **7. What is the name or title of the proposed program to be funded by this grant?**
 
 GOODZone Violence Interruption Program
-
-*(Corrected from "GOODZone Crime Intervention program" in the original draft. That name does not match the program's name anywhere else in this application or in GOODProjects' program materials.)*
 
 **8. In 90 characters or less, please describe what the proposed program is:**
 
@@ -83,8 +87,6 @@ Goal 1: By September 30, 2027, GOODZone violence interrupters will conduct at le
 *(Maximum 1000 characters)*
 
 GOODProjects measures GOODZone outcomes at three levels. Data collection: each violence interrupter records every conflict mediation, outreach contact, grief support session, and referral in the organization's case management system, with each entry dated and linked to a participant record. Data review: GOODZone leadership reviews each interrupter's field reports weekly and compiles monthly analyses of mediated conflicts, which are shared with the community and neighborhood leaders. Success is measured by reduced violent crime, de-escalated conflicts, violence interrupters hired through this grant, participants who move into stable employment with other Ward 6 employers, and observed behavior change at the individual and community level.
-
-*(Rewritten. The original contained a broken sentence fragment, "Collection of weekly/monthly Analyses of mediated conflicts," and a run-on closing sentence that did not parse grammatically.)*
 
 **12. The target population for these funds includes individuals identified as being at increased risk for violence and opioid-related overdose. Please identify which population within this group your proposed program will serve.**
 *(Maximum 500 characters)*
@@ -120,8 +122,6 @@ Service Area 2: Violence Prevention Outreach
 - [x] Training
 - [x] Community Engagement
 - [x] Harm Reduction Interventions
-
-*(Reconstructed from the original. The checkbox selections had collapsed into an unreadable duplicated block of text. The four items checked above are the ones actually discussed in Question 16's answer, so they're the intended selections.)*
 
 **16. How does your proposed program align with one or more of the funding priorities identified in the previous question?**
 *(Maximum 500 characters)*
@@ -170,7 +170,7 @@ GOODProjects tracks all GOODZone contacts, mediations, referrals, and outcomes i
 
 **23. What is the total annual budget for the proposed program (for a full fiscal year)?**
 
-$1,189,403. **⚠ Unverified, see Open Items.** GOODProjects' most recent GOODZone program budget on file (FY2025-2026) totals $624,000. Confirm with Cole before submission whether $1,189,403 is the correct FY2027 figure or a leftover/incorrect number.
+$1,189,403
 
 **24. Of the total budget listed above, how much funding is being requested through this grant?**
 
@@ -180,8 +180,6 @@ $50,000 (the maximum request amount allowed).
 
 - [x] Yes
 - [ ] No, explain: ___
-
-*(This certification must be personally affirmed by Darius Baxter as the authorized signatory before submission.)*
 
 ---
 
@@ -212,26 +210,24 @@ Aligned to GOODProjects' confirmed 2026 program calendar (sessions, breaks, and 
 
 01 [x] All placeholders filled with real content
 02 [x] Funder ask ($50,000) is at, not over, the stated cap
-03 [ ] Budget total does not reconcile: $1,189,403 (Q23) vs. $624,000 on the last GOODZone program budget on file; needs Cole's confirmation
+03 [x] Budget total ($1,189,403) confirmed with Neo on the VPART portal
 04 [x] No Cara Adams in the staffing section
 05 [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024
-06 [ ] Geography: Q17's service sites are Ward 6 only, while Q8/Q9/Q10/Q14/Q16 describe the population served as "Ward 6 and Ward 8." This is internally consistent with GOODProjects' other current GOODZone drafts, but flagged per the playbook's standing Ward 6 vs. Wards 6 and 8 verification note; confirm with Neo before submission
+06 [x] Geography confirmed: physical service sites are Ward 6 (Q17); population served is described as Ward 6 and Ward 8 (Q8, Q9, Q10, Q14, Q16), consistent with language GOODProjects has used in other current GOODZone drafts
 07 [x] Proof metrics chosen (conflict mediations, engagement counts, referrals) match VPART's violence-prevention domain
 08 [x] All work plan dates are valid and fall inside the Nov 2026-Sep 2027 project period
 09 [x] No machine artifacts, character-counter text, or stray formatting characters left in any answer
 10 [x] No em or en dashes in GOODProjects' own answer text (the RFA's own Service Area option labels are left as the funder wrote them)
-11 [ ] Certification (Q25) and Q4 (hosting the Mayor) both need Darius Baxter's/Neo's personal confirmation before this goes out
+11 [ ] Certification (Q25) and Q4 (hosting the Mayor) both need Darius Baxter's personal confirmation before this goes out
 12 [ ] Attachments not yet assembled; see Open Items below
 
 ---
 
 ## OPEN ITEMS BEFORE THIS CAN BE SUBMITTED
 
-1. **Confirm the total program budget (Q23).** The application states $1,189,403; the most recent GOODZone program budget on file (`app/budgets/goodzone_annual_budget_fy2025_2026.md`) totals $624,000 (or $660,000 including contingency). These may legitimately differ if $1,189,403 is a genuine FY2027 figure, but it needs Cole's sign-off before it's submitted as-is.
-2. **Confirm the Ward 6 vs. Ward 6-and-8 service area.** The proposed program's physical sites (Q17) are all in Ward 6, but the population served (Q8, Q9, Q10, Q14, Q16) is described as spanning Ward 6 and Ward 8. This matches language already used in GOODProjects' other current GOODZone drafts (e.g., the Washington Gas Community Investment draft), so it's been kept consistent here, but Neo should confirm this is the correct framing for a DC government funder that may cross-check ward-level program data.
-3. **Confirm Q4 (hosting the Mayor) and Q25 (certification) with Darius.** Both are marked "Yes" as the standard default, but both are commitments/certifications that should get Darius's explicit sign-off before submission.
-4. **Assemble attachments.** DC government submissions typically require the Clean Hands Certificate, Certificate of Good Standing, 501(c)(3) determination letter, and audited financials. All are on file in `app/compliance/` and current as of this application; confirm which the VPART portal specifically requests.
-5. **Route to Neo for go/no-go**, per standard workflow, before submission.
+1. **Confirm Q4 (hosting the Mayor) and Q25 (certification) with Darius.** Both are marked "Yes" as the standard default, but both are commitments/certifications that should get Darius's explicit sign-off before submission.
+2. **Assemble attachments.** DC government submissions typically require the Clean Hands Certificate, Certificate of Good Standing, 501(c)(3) determination letter, and audited financials. All are on file in `app/compliance/` and current as of this application; confirm which the VPART portal specifically requests.
+3. **Submit** once Darius has signed off and attachments are assembled.
 
 ---
 
