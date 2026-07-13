@@ -4,6 +4,8 @@ Morgan Stanley Alliance for Children's Mental Health Innovation Awards (2027 cyc
 
 STATUS: Draft for Neo's go/no-go review. Not yet submitted. Note: the dev bible's "Who?" column lists this as "DM," not "DD," and someone (initials "MWP") already attended the funder's June 23 information session; check with them for anything learned there before finalizing.
 
+SUPERSEDED FOR SUBMISSION PURPOSES: Morgan Stanley's actual application is a structured web form with hard per-question character limits, not an open narrative. The submission-ready answer set, built directly against the real portal questions, is `2026-07-morgan-stanley-application-answers.md`. This document remains the source narrative and budget rationale; pull from it, but submit from the answer set, not from this file directly.
+
 ## FUNDER & OPPORTUNITY DETAILS
 
 | Funder Name | Morgan Stanley Alliance for Children's Mental Health |
