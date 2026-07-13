@@ -1,6 +1,6 @@
 GOODProjects
 DC Government Grant Draft
-Events DC Community Grant Program, FY2026 — GOODSports
+Events DC Community Grant Program, FY2026: GOODSports
 
 STATUS: Draft for Neo's go/no-go review. Not yet submitted. One required attachment is missing (see Required Attachments Checklist below) and must be resolved before this can go out.
 
@@ -11,13 +11,15 @@ STATUS: Draft for Neo's go/no-go review. Not yet submitted. One required attachm
 | Program / RFA | FY2026 Community Grant Program (supports youth sports and performing/cultural arts organizations in DC) |
 | Ask Amount | $18,000 |
 | Deadline | August 3, 2026 (per internal grant tracker, dev bible 2026 tab, row 224) |
-| Submission Method | Online form at eventsdc.com/community-grant-form (per public program page; specific portal mechanics not independently verified since eventsdc.com is not reachable from this environment) |
-| Program Officer | Not listed in the dev bible entry — needs sourcing before submission |
-| MORCA Registration | Not yet confirmed — Cole |
-| Clean Hands Certificate | On file, issued 4/23/2026 — confirm still current at submission (certificates typically expire) |
-| Go/No-Go Confirmed | Not yet — routing to Neo |
+| Submission Method | Online form at eventsdc.com/community-grant-form (per public program page). Direct site access was not available from this environment to confirm portal mechanics beyond the published form URL, so re-check before submission. |
+| Program Officer | Not listed in the dev bible entry; needs sourcing before submission |
+| MORCA Registration | Not yet confirmed (Cole) |
+| Clean Hands Certificate | On file, issued 4/23/2026; confirm still current at submission (certificates typically expire) |
+| Go/No-Go Confirmed | Not yet. Routing to Neo. |
 
-VERIFY BEFORE SUBMITTING: Events DC requires either a certified annual financial audit or the most recent Form 990, plus an active DC business license. The audit and 990 are on file; the business license is not yet on file anywhere in GOODProjects' compliance records. This is a hard requirement and must be resolved before submission.
+Award range confirmed via public search: Events DC's FY2026 Community Grant Program awards range from a $2,500 minimum to a $25,000 maximum single grant, with $50,000 available per cycle (two cycles/year, $100,000 annually). GOODProjects' $18,000 ask sits comfortably inside that range.
+
+VERIFY BEFORE SUBMITTING: Events DC requires either a certified annual financial audit or the most recent Form 990, plus an active DC business license. The audit and 990 are on file; the business license is not yet on file anywhere in GOODProjects' compliance records. This is a hard requirement and must be resolved before submission. Concrete next step: apply for DC's Basic Business License (charitable solicitation subtype) through DLCP's online licensing wizard at mybusiness.dc.gov, which auto-generates the required attachment list. This is an operational task for Cole, not something this draft can resolve on its own.
 
 ## SCOPE OF WORK / PROJECT NARRATIVE
 
@@ -81,12 +83,12 @@ GOODProjects applies a 10% indirect rate to Modified Total Direct Costs unless E
 
 | Line Item | Basis / Calculation | Grant $ | Match $ |
 |---|---|---|---|
-| Equipment (footballs, basketballs, dance speakers/mats, cones, pinnies) | Durable goods for 150 to 250 youth | $5,000 | — |
-| Training (trauma-informed sports facilitation) | Annual refresher for coaches and YSAs | $5,000 | — |
-| Supplies (water bottles, reflection journals, incentives) | Consumables for full participant roster | $3,000 | — |
-| Transportation (Metro cards, van rental) | Field trips and off-site games | $5,000 | — |
-| Personnel (coaches, YSAs, coordinator) | Part-time and seasonal staff, in-kind | — | $40,000 to $60,000 |
-| Facilities and meals (DPR, DCHA, DC Central Kitchen) | In-kind | — | $40,000 to $60,000 |
+| Equipment (footballs, basketballs, dance speakers/mats, cones, pinnies) | Durable goods for 150 to 250 youth | $5,000 | N/A |
+| Training (trauma-informed sports facilitation) | Annual refresher for coaches and YSAs | $5,000 | N/A |
+| Supplies (water bottles, reflection journals, incentives) | Consumables for full participant roster | $3,000 | N/A |
+| Transportation (Metro cards, van rental) | Field trips and off-site games | $5,000 | N/A |
+| Personnel (coaches, YSAs, coordinator) | Part-time and seasonal staff, in-kind | N/A | $40,000 to $60,000 |
+| Facilities and meals (DPR, DCHA, DC Central Kitchen) | In-kind | N/A | $40,000 to $60,000 |
 | TOTAL | | $18,000 | $80,000 to $120,000 |
 
 Base GOODLearningHub operations (tutoring, case management, meals) are funded through other government and foundation grants already in place. This request funds only the incremental cost of dedicated GOODSports equipment, training, supplies, and transportation.
@@ -95,31 +97,31 @@ VERIFY BEFORE SUBMITTING: confirm whether Events DC wants exact dollar figures f
 
 ## REQUIRED ATTACHMENTS CHECKLIST
 
-[x] 501(c)(3) Determination Letter — on file, `app/compliance/501c3_determination_letter.pdf`
-[x] Certificate of Good Standing (DC) — on file, issued 5/26/2026
-[ ] Business License — NOT ON FILE. This is a hard Events DC requirement. Cole or Neo needs to source this before submission.
-[x] Clean Hands Certificate — on file, issued 4/23/2026; reconfirm currency at submission
-[ ] MORCA Registration confirmation — not yet confirmed
-[x] Most recent audited financial statements (FY2024, Desai Company) — on file
-[x] Board of Directors list with affiliations — available via Form 990 Part VII and `03-staff-board.md`
-[ ] Agency-specific attachment — confirm from the FY2026 Community Grant Program guidelines once the application portal is reviewed directly
+[x] 501(c)(3) Determination Letter: on file, `app/compliance/501c3_determination_letter.pdf`
+[x] Certificate of Good Standing (DC): on file, issued 5/26/2026
+[ ] Business License: NOT ON FILE. This is a hard Events DC requirement. Cole or Neo needs to source this before submission.
+[x] Clean Hands Certificate: on file, issued 4/23/2026; reconfirm currency at submission
+[ ] MORCA Registration confirmation: not yet confirmed
+[x] Most recent audited financial statements (FY2024, Desai Company): on file
+[x] Board of Directors list with affiliations: available via Form 990 Part VII and `03-staff-board.md`
+[ ] Agency-specific attachment: confirm from the FY2026 Community Grant Program guidelines once the application portal is reviewed directly
 
 ## PRE-SUBMISSION QA GATE
 
-01 [x] All placeholders filled with real, verified figures
-02 [x] Funder ask ($18,000) is within Events DC's stated $5,000 to $25,000 range
-03 [x] Budget total matches the headline ask
-04 [ ] Business License and MORCA registration not yet confirmed — do not submit without them
-05 [x] No Cara Adams in the staffing section
-06 [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
-07 [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf
-08 [x] Executive summary tailored to Events DC's youth sports priority
-09 [x] Proof metrics chosen (GOODSports academic and SEL targets) match the funder's domain
-10 [x] All dates valid and inside the project period
-11 [ ] Attachments not yet assembled into final submission package
-12 [ ] Darius Baxter has not yet signed; route through Neo first
-13 [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
-14 [ ] PDF not yet produced — generate after Neo's review and any edits
+- **01.** [x] All placeholders filled with real, verified figures
+- **02.** [x] Funder ask ($18,000) is within Events DC's confirmed $2,500 to $25,000 range
+- **03.** [x] Budget total matches the headline ask
+- **04.** [ ] Business License and MORCA registration not yet confirmed. Do not submit without them (see DLCP path above)
+- **05.** [x] No Cara Adams in the staffing section
+- **06.** [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
+- **07.** [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf
+- **08.** [x] Executive summary tailored to Events DC's youth sports priority
+- **09.** [x] Proof metrics chosen (GOODSports academic and SEL targets) match the funder's domain
+- **10.** [x] All dates valid and inside the project period
+- **11.** [ ] Attachments not yet assembled into final submission package
+- **12.** [ ] Darius Baxter has not yet signed; route through Neo first
+- **13.** [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
+- **14.** [x] PDF generated: `2026-08-events-dc-community-grant-goodsports.pdf`
 
 ---
 

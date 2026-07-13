@@ -1,26 +1,28 @@
 GOODProjects
 Corporate Grant Draft
-TD Bank Community Sponsorship / TD Charitable Foundation — Family Success Planning
+TD Bank Community Sponsorship / TD Charitable Foundation: Family Success Planning
 
-STATUS: Draft for Neo's go/no-go review. DUE TODAY (July 10, 2026) per internal tracker — this needs to move fast. Application mechanics unconfirmed since td.com is not reachable from this environment.
+STATUS: DEADLINE PASSED. The internal tracker logged this due July 10, 2026; today is July 13, 2026, so this specific window is closed. Do not submit this as-is. The narrative below is fully drafted and ready to fire the moment a live deadline is confirmed, but it needs a routing decision from Neo first; see the two paths below rather than a straight go/no-go.
 
 ## FUNDER & OPPORTUNITY DETAILS
 
 | Company / Foundation | TD Bank / TD Charitable Foundation |
 |---|---|
-| Program / Fund | Community Sponsorship Program / Regional Grants (bi-monthly application cycle) |
-| Stage | Online application, exact form unconfirmed |
-| Ask Amount | $5,000 (matches the internal grant tracker's logged cap and requested amount) |
-| Deadline | July 10, 2026 (today, per internal tracker) |
-| Contact | Not listed in the dev bible entry |
+| Program / Fund | TD Charitable Foundation actually runs two distinct programs that the original dev bible entry conflated. **Regional Grants** (the TD Ready Commitment grant track) are reviewed on a rolling/bi-monthly basis; the most recent confirmed deadline found was March 13, 2026, with the next 2026 window unconfirmed. **Community Sponsorships** fund events/activities and require submission at least 90 days before the event, reviewed four times a year, a poor mechanical fit for an ongoing coaching program like FSP, which has no single "event" date. |
+| Stage | Online application; exact form not independently verified since td.com is not reachable from this environment |
+| Ask Amount | $5,000 |
+| Deadline | Passed (July 10, 2026, per internal tracker). No replacement deadline confirmed. |
+| Contact | US-CharitableGiving@TD.com (general Charitable Foundation inbox, confirmed via public search); region-specific contacts are listed under the Regional Grants tab at td.com/us/en/about-us/funding-opportunities |
 | Strategic Fit | TD's "Financial Security" focus area (income stability, financial literacy) matches Family Success Planning's economic mobility coaching directly. TD Bank's footprint explicitly includes DC. |
-| Go/No-Go Confirmed | Not yet — routing to Neo, but flagging urgency given today's deadline |
+| Go/No-Go Confirmed | Not yet. This needs a routing decision from Neo, not a go/no-go on a closed window (see recommendation below) |
+
+**Recommendation:** retarget this narrative to the Regional Grants track, which is the better mechanical fit for an ongoing program ask, and hold it until Neo or Cole confirms the next open 2026 window directly with TD (US-CharitableGiving@TD.com or the DC-region contact on their funding-opportunities page). Submitting against the Community Sponsorships track instead would require reframing this as a specific dated event, which FSP coaching is not.
 
 ---
 
-## PART A — LETTER OF INTENT (LOI)
+## PART A: LETTER OF INTENT (LOI)
 
-### Opening Paragraph — Mission and Ask
+### Opening Paragraph: Mission and Ask
 
 GOODProjects operates Family Success Planning (FSP), a coaching model that pairs every enrolled family with a dedicated coach to build financial stability and economic mobility. We respectfully request $5,000 from TD Bank's Community Sponsorship Program to support financial literacy coaching and wealth-building tools for families enrolled in FSP in Southwest DC's Ward 6.
 
@@ -42,7 +44,7 @@ We respectfully request $5,000 to support financial literacy coaching and wealth
 
 ---
 
-## PART B — FULL APPLICATION
+## PART B: FULL APPLICATION
 
 ### Organization Description
 
@@ -82,20 +84,20 @@ TD Bank could also engage with FSP through employee volunteer financial literacy
 
 ## PRE-SUBMISSION QA GATE
 
-01 [x] All placeholders filled with real, verified figures
-02 [x] Funder ask ($5,000) matches TD's stated minimum grant size and the internal tracker's logged cap
-03 [x] Budget total matches the headline ask
-04 [ ] Application mechanics unconfirmed — td.com is not reachable from this environment; someone needs to open the actual portal today
-05 [x] No Cara Adams in the staffing section
-06 [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
-07 [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf; TD Bank's footprint explicitly includes DC
-08 [x] Executive summary tailored to TD's "Financial Security" focus area
-09 [x] Proof metrics chosen match the funder's domain
-10 [x] All dates valid
-11 [ ] Attachments not yet assembled
-12 [ ] Darius Baxter has not yet signed; route through Neo first — urgent given today's deadline
-13 [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
-14 [ ] PDF not yet produced
+- **01.** [x] All placeholders filled with real, verified figures
+- **02.** [x] Funder ask ($5,000) matches TD's stated minimum grant size and the internal tracker's logged cap
+- **03.** [x] Budget total matches the headline ask
+- **04.** [ ] BLOCKED: the logged deadline (July 10, 2026) has passed; do not submit until Neo confirms a live window and, ideally, which of the two TD programs (Regional Grants vs. Community Sponsorships) actually fits
+- **05.** [x] No Cara Adams in the staffing section
+- **06.** [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
+- **07.** [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf; TD Bank's footprint explicitly includes DC
+- **08.** [x] Executive summary tailored to TD's "Financial Security" focus area
+- **09.** [x] Proof metrics chosen match the funder's domain
+- **10.** [ ] Dates need updating once a live deadline is confirmed
+- **11.** [ ] Attachments not yet assembled
+- **12.** [ ] Darius Baxter has not yet signed; hold until the deadline/program-fit question above is resolved
+- **13.** [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
+- **14.** [ ] PDF not yet produced; hold until this draft is unblocked (see item 04)
 
 ---
 
