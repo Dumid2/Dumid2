@@ -12,13 +12,34 @@ STATUS: Draft for Neo's go/no-go review. Not yet submitted. This proposes a NEW 
 | Ask Amount | $5,500 (revised from $4,500 — see budget note below) |
 | Maximum Award (confirmed) | Up to $30,000 — per the live FY27 FTE program page (dcarts.dc.gov/grants/field-trip-experiences), verified directly by Dumisani on July 14, 2026. CORRECTION: an earlier pass in this draft cited $50,000 from a PDF ("CAH FY 2027 Guide to Grants") snippet — that figure was wrong; the live program page is the authoritative source and shows $30,000. Our ask is still well under the cap. |
 | Deadline | 5:00 PM ET, Thursday, July 24, 2026 — confirmed directly from the live FY27 FTE program page (dcarts.dc.gov/grants/field-trip-experiences). Program released Tuesday, June 23, 2026. This resolves the earlier July 24 vs. July 27 discrepancy in Neo's favor of July 24. |
-| Submission Method | Not independently verified — dcarts.dc.gov is not reachable from this environment |
-| Program Officer | Not listed in the dev bible entry — needs sourcing before submission |
+| Submission Method | Online ONLY via the CAH Grants Application Portal / Submittable: https://dccommissionontheartshumanities.submittable.com/submit. No mailed, emailed, or hand-delivered applications accepted. Confirmed directly from the full FY27 FTE RFA text (pasted in by Dumisani, July 14, 2026). |
+| Program Officer | Andrea Brown, Arts Learning Coordinator — andrea.brown3@dc.gov, (202) 671-2304. Commission on the Arts and Humanities, 200 I Street SE, Suite 1400, Washington, DC 20003. Confirmed directly from the RFA's Section VII (CAH Contact) — this name is safe to use, unlike the unverified names an AI search tool surfaced earlier in this process. |
 | Go/No-Go Confirmed | Not yet — routing to Neo for approval before Phileke/Stephanie are looped in |
 
 VERIFY BEFORE SUBMITTING: this proposes a field trip to Arena Stage that GOODProjects has not yet scheduled. This draft is going to Neo first for go/no-go approval on the concept, date, and budget below — Stephanie Page-Baxter (Director of Youth Programming) and Phileke Holland (Afterschool Lead) should only be looped in to confirm operational logistics after Neo signs off.
 
 CORRECTED: the $4/ticket rate originally assumed here was Arena Stage's D.C. Ticket Partnership rate. That program is confirmed restricted to D.C. public/charter schools applying directly — it is not open to nonprofit afterschool programs like GOODLearningHub, and the FY27 application cycle is not yet open (last cycle's deadline was Sept 24, 2025, after this grant's deadline anyway). The budget below now uses Arena Stage's standard Group Sales rate instead. Title I status of partner schools is no longer relevant to this budget for that reason.
+
+## ELIGIBILITY CHECK (against FY27 FTE RFA Section III)
+
+The RFA lists 8 minimum eligibility requirements, all of which must be met at submission:
+
+1. 501(c)(3) status, IRS letter dated at least 1 year before deadline — [x] on file, GOODProjects has held this well over a year
+2. Registered/authorized to do business in DC — [ ] needs confirming this is current
+3. Planning and implementation fully carried out in DC — [x] Arena Stage is in Southwest DC
+4. Active Board of Directors — [x] available
+5. Registered with DLCP, OCFO, DOES, and IRS — [ ] **FLAG: this is likely tied to the missing Business License.** The Business License gap noted in the attachments checklist may not just be a missing document — DLCP registration is a baseline eligibility requirement here. Confirm GOODProjects' DLCP/business license status before treating this as a simple paperwork gap; if it's genuinely missing, that's a bigger problem than an attachment checkbox.
+6. Current on DC taxes/liabilities, or Clean Hands certified — [ ] on file but likely stale, see attachments checklist
+7. Good standing with CAH — [x] no known issues
+8. Principal business office address in DC, not a PO box — [x] 996 Maine Avenue SW, Suite 208, confirmed physical DC address
+
+OTHER ELIGIBILITY NOTES:
+- **GOS overlap rule:** if GOODProjects has applied for or plans to accept a CAH FY27 General Operating Support (GOS) award, this FTE application is only allowed if it represents genuinely new/additional programming beyond the GOS scope. NEED TO CONFIRM: has GOODProjects applied for FY27 GOS this cycle? If yes, Neo needs to confirm this field trip isn't already covered there.
+- One FTE application per fiscal year — fine, this is our only one.
+- No match/cost-share required — confirmed, matches our budget.
+- Not ineligible on any of the RFA's exclusion grounds (not a service org, not majority non-DC constituents, not requiring a fiscal agent, not for-profit, etc.) — GOODProjects appears to clear all of these.
+
+TECHNICAL ASSISTANCE STILL AVAILABLE: CAH offers 30-minute application review appointments, but they must be scheduled at least 7 calendar days before the deadline — meaning the cutoff to request one is **Friday, July 17, 2026**. Given the number of open items above, worth considering booking a slot before that cutoff, contacting Andrea Brown (andrea.brown3@dc.gov, 202-671-2304).
 
 ## SCOPE OF WORK / PROJECT NARRATIVE
 
@@ -39,7 +60,16 @@ Residents of James Creek, Syphax Gardens, and Greenleaf public housing communiti
 | Income Level | Below 200% federal poverty line |
 | Geographic Area | Ward 6, Southwest DC; field trip destination is Arena Stage, 1101 6th Street SW, Washington, DC 20024, itself in Southwest DC near GOODProjects' own service area |
 
-OPEN DECISION FOR NEO: prior-year FTE guidance required applicants to target one single grade grouping aligned with DCPS's arts curricular framework, not a broad span. Our 5-14 age range likely spans multiple groupings (roughly PreK-2, 3-5, 6-8). Before submitting, confirm whether this rule carried into the FY27 RFA and, if so, decide whether to narrow the cohort to one grade band or confirm with CAH that a mixed afterschool cohort is acceptable.
+RESOLVED (from the actual FY27 RFA text, Section I): organizations MUST target exactly ONE grade grouping, each tied to a specific discipline:
+
+| Grade Grouping | Allowed Discipline Focus |
+|---|---|
+| Kindergarten – 2nd Grade | Dance, Music, or Visual Arts |
+| 3rd – 5th Grade | Music or Visual Arts |
+| 6th – 8th Grade | Dance, Film, or Theatre |
+| 9th – 12th Grade | Film or Theatre |
+
+IMPORTANT DISCIPLINE FLAG: Theatre is only an eligible discipline for the 6-8 and 9-12 bands. If this application is filed under "Theatre," it is only eligible for grades 6-8 or 9-12 — not K-2 or 3-5. However, Step Afrika! is officially a dance company (its own materials describe it as an "internationally acclaimed Dance Company"), so this trip can reasonably be classified under **Dance** instead of Theatre — which is an eligible discipline for K-2, 3-5, AND 6-8. Recommend classifying this application under Dance and picking ONE band from K-2, 3-5, or 6-8 (not a 5-14 span). This is a decision for Neo: GOODLearningHub's exact grade breakdown (not just ages) within its 73 enrolled students needs to be pulled to pick the band with the most eligible students. Our current 30-youth, ages-5-14 framing must be narrowed before submission or the application risks disqualification for not targeting a single grade grouping.
 
 ### Activities and Deliverables
 
@@ -73,7 +103,7 @@ CORRECTED: the original deliverable list included a "post-show talkback with Are
 | Youth attending the matinee and both workshops | 30 (100% of the enrolled cohort) |
 | Youth able to connect the production's themes to a personal or SEL discussion topic (post-trip survey) | 75% |
 | Youth Services Advocates completing the professional development session | 100% of assigned staff |
-| Reporting Frequency | Final report only, or per CAH's specific requirement once confirmed |
+| Reporting Frequency | Final Report only, due Friday, October 15, 2027 — confirmed from RFA; Interim Report only required for awards over $12,500, which does not apply to our $5,500 ask |
 
 ## BUDGET DETAIL
 
@@ -89,15 +119,32 @@ CORRECTED: the original deliverable list included a "post-show talkback with Are
 
 CORRECTED: the ticket line previously assumed the $4/ticket D.C. Ticket Partnership rate. That program is confirmed restricted to D.C. public/charter schools applying directly, is not open to nonprofit afterschool programs, and its FY27 application window is not yet open. The $30/ticket figure above is a mid-range estimate (list price $49, with Arena Stage advertising group discounts of up to 40-50%) — get a formal written quote from Arena Stage Group Sales (202-488-4380 / groups@arenastage.org) before finalizing this figure. Confirmed cap: the live FY27 FTE program page (dcarts.dc.gov/grants/field-trip-experiences) lists the maximum organization award as up to $30,000 — this $5,500 ask has significant headroom under that cap and is not constrained by it.
 
+COST CAP COMPLIANCE (per RFA Section IV.H, checked against the budget above):
+- Staff salaries may not exceed 35% of the grant request. Our staff planning/coordination line is $1,500 of $5,500 = 27%. Compliant.
+- Materials/supplies/equipment may not exceed 25% of the award. Our workshop materials line is $500 of $5,500 = 9%. Compliant.
+- Unallowable costs include food/beverages, tuition, fundraiser costs, debt reduction, and operational reserve — none of these appear in our budget. Confirmed clean.
+- Interim Report threshold is $12,500 — our $5,500 ask stays under it, so only a Final Report is required (due Friday, October 15, 2027), consistent with what the draft already assumed.
+
 ## REQUIRED ATTACHMENTS CHECKLIST
 
-[x] 501(c)(3) Determination Letter — on file
-[x] Certificate of Good Standing (DC) — on file
-[ ] Business License — NOT ON FILE, same gap flagged on the Events DC draft
-[x] Clean Hands Certificate — on file, issued 4/23/2026; reconfirm currency at submission
-[x] Most recent audited financial statements (FY2024, Desai Company) — on file
-[x] Board of Directors list with affiliations — available
-[ ] Agency-specific attachment (e.g., letter of commitment from Arena Stage, if CAH requires one) — not yet obtained
+REBUILT from the actual FY27 FTE RFA (Section IV.E), which lists 14 mandatory documents — this is a substantially longer list than the prior draft tracked, and several items need real lead time (Board approval, an insurance certificate) that should start now given the July 24 deadline.
+
+[ ] 1. Work Samples — video/audio of the field trip or a comparable experience, no more than 3 years old. NOT YET COMPILED. This is the highest-weighted content item in scoring (feeds directly into the 40-point Arts/Humanities/Arts Education Merit criterion) — needs real attention, not just a placeholder.
+[ ] 2. Support Materials — up to 3 items (letters of support, syllabi, lesson plans, etc.). NOT YET COMPILED. A letter of support from a partner school (Amidon-Bowen or Jefferson MS) would also help satisfy the RFA's goal of "authentic connections... in collaboration with appropriate personnel at DCPS/DCPCS," which our narrative doesn't currently address.
+[ ] 3. Résumés of Key Personnel — must include role, area of responsibility, AND ward or state of residence. NOT YET COMPILED for Phileke Holland, Stephanie Page-Baxter, or other staff involved.
+[ ] 4. Budget Form — CAH's own detailed budget form/template, not just our internal budget table above. NOT YET SOURCED from the grants portal.
+[x] 5. Certificate of Clean Hands — on file, but ISSUED 4/23/2026. The RFA requires this be issued within 30 days of the application deadline (i.e., after ~June 24, 2026). The one on file is roughly 3 months old and will almost certainly need to be REISSUED before submission.
+[ ] 6. Statement of Certification — date must match the FTE application submission date. NOT YET DONE (can't be done until submission date is set).
+[ ] 7. Signed IRS Form W-9 — must be the March 2024 version, dated to match the submission date, and the address must match both the grants portal and DC's Integrated Financial System (DIFS). NOT YET CONFIRMED current.
+[ ] 8. Certificate of Liability Insurance (general coverage, with a written waiver of subrogation). STATUS UNKNOWN — need to check with Cole Bradshaw (Finance & Operations) whether GOODProjects has this on file; this can take time to obtain if not.
+[ ] 9. Balance Sheet — from the most recently completed fiscal year. NOT YET SOURCED.
+[ ] 10. Current Organizational Budget — must be approved by the Board of Directors. NOT YET SOURCED — confirm this exists and is Board-approved, not just staff-drafted.
+[x] 11. IRS 501(c)(3) Determination Letter — on file.
+[ ] 12. IRS Form 990 — most recently filed. NOT YET SOURCED.
+[ ] 13. List of current Board of Directors — RFA requires roles (president, treasurer, etc.), responsibilities, AND home addresses/wards, not just a general affiliations list. Our existing "Board of Directors list with affiliations" likely needs augmenting with ward/address data.
+[ ] 14. Profit and Loss Statement — from the most recently completed fiscal quarter. NOT YET SOURCED.
+
+ADDITIONAL REQUIREMENT (Section III.B): a sworn, written statement disclosing whether the applicant has been indicted or convicted of financial misconduct or fraud in the last 3 years. NOT YET DRAFTED — this is a required disclosure, not optional.
 
 ## PRE-SUBMISSION QA GATE
 
@@ -105,19 +152,25 @@ CORRECTED: the ticket line previously assumed the $4/ticket D.C. Ticket Partners
 02 [x] Funder ask is within the stated cap — live FY27 FTE program page confirms up to $30,000 maximum organization award; our $5,500 ask has significant headroom
 03 [x] Budget total matches the headline ask
 04 [ ] Field trip logistics not yet confirmed with Stephanie Page-Baxter or Phileke Holland — routing to Neo for concept/budget approval first, then to them for logistics confirmation
-04a [ ] Grade-grouping requirement (single band vs. our 5-14 span) not yet resolved with Neo — see Target Population note
+04a [ ] Grade-grouping requirement RESOLVED as a rule (must pick ONE band, recommend classifying under Dance) but the actual band + matching enrollment numbers still need Neo's decision — see Target Population note
 04b [ ] Exact 2026/27 matinee date/time not yet confirmed with Arena Stage Group Sales — proposed Dec 10, 2026 is a projection, not a booking
 04c [ ] Formal Group Sales ticket quote not yet obtained — $30/ticket is an estimate, not a confirmed rate
+04d [ ] Business License / DLCP registration status unknown — confirm this isn't a baseline eligibility blocker, not just a missing attachment
+04e [ ] GOS overlap check needed — has GOODProjects applied for FY27 CAH General Operating Support? If so, this FTE application must represent new/additional programming
+04f [ ] Clean Hands Certificate on file is dated 4/23/2026 — RFA requires issuance within 30 days of the July 24 deadline; will need reissuing
+04g [ ] 9 of the 14 required RFA attachments are not yet compiled (Work Samples, Support Materials, Résumés with ward info, CAH Budget Form, Statement of Certification, current W-9, Liability Insurance Certificate, Balance Sheet, Board-approved Org Budget, Form 990, P&L Statement) — see full attachments checklist. This is a substantially larger lift than previously tracked; some items (insurance certificate, Board-approved budget) need real lead time before July 24.
+04h [ ] Financial misconduct/fraud disclosure statement not yet drafted — required, not optional
 05 [x] No Cara Adams in the staffing section
 06 [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
 07 [x] Geography confirmed: Ward 6 origin, DC-based destination (Arena Stage, Southwest DC)
 08 [x] Executive summary tailored to CAH's Field Trip Experiences priority
 09 [x] Proof metrics chosen match the funder's domain
 10 [x] Deadline confirmed: 5:00 PM ET, Thursday, July 24, 2026 (live FY27 FTE program page)
-11 [ ] Attachments not yet assembled
+11 [ ] Attachments not yet assembled — see expanded 14-item checklist above
 12 [ ] Darius Baxter has not yet signed; route through Neo first
 13 [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
 14 [ ] PDF not yet produced
+15 [ ] Technical assistance appointment with CAH (Andrea Brown) not yet booked — window closes Friday, July 17, 2026, given the volume of open items above
 
 ---
 
@@ -162,12 +215,13 @@ Group Sales (202-488-4380 / groups@arenastage.org) to lock the real date.
 30 of GOODLearningHub's 73 enrolled students, ages 5–14, from James Creek, Syphax Gardens, and
 Greenleaf public housing (Ward 6). Below 200% federal poverty line.
 
-**One open question for Neo:** prior-year CAH guidance required applicants to target a single
-grade grouping aligned with DCPS's arts curriculum (roughly PreK-2 / 3-5 / 6-8 bands), not a wide
-span. Our 5-14 range likely crosses two or three of those bands. Before submitting, we need a
-call on whether to (a) narrow the cohort to one band — elementary-age fits this show best — or
-(b) confirm directly with CAH that a mixed afterschool cohort is acceptable. This hasn't been
-checked against the actual FY27 RFA text yet.
+**Confirmed from the actual RFA text (not a prior-year guess anymore):** organizations must target
+exactly ONE grade grouping, each tied to specific disciplines — K-2 (Dance/Music/Visual Arts), 3-5
+(Music/Visual Arts), 6-8 (Dance/Film/Theatre), 9-12 (Film/Theatre). Theatre alone would restrict us
+to grades 6-12 only. Since Step Afrika! is officially a dance company, we can classify this trip
+under **Dance** instead, which opens up K-2, 3-5, or 6-8. We still need Neo's call on which single
+band to pick, and GOODLearningHub's actual grade breakdown (not just ages) to support that choice.
+Our current 30-youth, ages-5-14 framing needs to narrow to one band before submission.
 
 ## MONEY
 
@@ -208,11 +262,19 @@ formal quote, not a confirmed rate.
 Phileke/Stephanie:**
 1. Exact matinee date/time (projected, not booked)
 2. Formal ticket quote (estimated, not quoted)
-3. Grade-grouping question above
+3. Which single grade grouping to target (see above)
 4. Whether this trip is operationally realistic in the FY27 program year — Phileke and Stephanie's
    call, after concept approval
 5. Whether GOODProjects' partner schools carry Title I status — no longer relevant to the budget
    (see correction above), but may still matter for other parts of the application
+6. Whether GOODProjects' Business License/DLCP registration is actually on file — this showed up
+   as a missing attachment before, but the RFA lists DLCP registration as a baseline eligibility
+   requirement, which is a bigger deal than a missing document
+7. Whether GOODProjects applied for CAH's FY27 General Operating Support grant — if so, this
+   application must represent new/additional programming beyond that scope
+8. 9 of the RFA's 14 required attachments are not yet compiled (see full checklist in the grant
+   draft above) — this is a much bigger lift than originally scoped, and a few items (a liability
+   insurance certificate, a Board-approved organizational budget) need real lead time before July 24
 
 **One caution:** during this research, an AI search tool (Perplexity) also produced three named
 Arena Stage staff contacts (with titles and emails) that could not be independently verified
