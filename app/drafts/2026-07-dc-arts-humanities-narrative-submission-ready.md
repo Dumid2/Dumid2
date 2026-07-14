@@ -5,10 +5,10 @@ Submission-Ready Narrative Draft
 NOTE ON THIS DOCUMENT: this follows the section structure of a narrative draft an internal
 Abacus tool produced, but every section below has been rewritten using GOODProjects' actual,
 verified plan (Step Afrika! at Arena Stage) and real organizational facts pulled from
-GOODProjects' own org profile documents — not Abacus's version, which proposed an undefined
+GOODProjects' own org profile documents, not Abacus's version, which proposed an undefined
 "may include X, Y, or Z" experience with no venue, no partner, and no budget numbers. Bracketed
 items in [ITALICS/BRACKETS] mark facts still pending confirmation (exact date, exact grade-band
-headcount, formal ticket quote) — these need to be locked before this is copy-pasted into
+headcount, formal ticket quote): these need to be locked before this is copy-pasted into
 Submittable.
 
 ---
@@ -18,7 +18,7 @@ Submittable.
 Step Into Heritage: A Dance and Humanities Field Trip Experience for GOODLearningHub Middle
 School Students
 
-(Chosen instead of Abacus's "Southwest Stories" title — that framing centers neighborhood
+(Chosen instead of Abacus's "Southwest Stories" title: that framing centers neighborhood
 history and civic voice, which doesn't accurately describe what this field trip actually is:
 a professional dance performance rooted in the African American stepping tradition, paired with
 identity- and heritage-focused classroom learning.)
@@ -33,9 +33,9 @@ Step Show at Arena Stage, paired with a pre-trip classroom workshop connecting s
 history and cultural significance to students' own identity and community, an on-site workshop
 with Arena Stage teaching artists, and a post-trip reflection activity.
 
-GOODProjects is the producer of this field trip experience — designing the curriculum
+GOODProjects is the producer of this field trip experience: designing the curriculum
 connections, coordinating logistics, leading the pre- and post-trip learning, and evaluating
-outcomes — while Arena Stage and Step Afrika! produce the performance itself. This is consistent
+outcomes, while Arena Stage and Step Afrika! produce the performance itself. This is consistent
 with CAH's own framing of eligible applicants as "arts or humanities presenting or producing
 organizations," and with the FTE grant's explicit support for the cost of field trip tickets.
 
@@ -46,16 +46,16 @@ Darius Baxter, Troye Bullock, and Danny Wright, with programming roots dating to
 camp response to a spike in gun violence in Ward 8. GOODProjects' mission is to empower
 underserved families to break cycles of intergenerational poverty through integrated,
 place-based support. Since 2016, GOODProjects has directed more than $8 million in community
-investment, primarily in Southwest DC's Ward 6 — specifically the James Creek, Syphax Gardens,
-and Greenleaf public housing communities — anchored at the King Greenleaf Recreation Center.
+investment, primarily in Southwest DC's Ward 6, specifically the James Creek, Syphax Gardens,
+and Greenleaf public housing communities, anchored at the King Greenleaf Recreation Center.
 
 GOODLearningHub, GOODProjects' year-round afterschool program, is the youth-facing anchor of
 this work: 73 students enrolled as of April 2026, ages 5-14, primarily Black youth living below
 the federal poverty line. GOODLearningHub already integrates arts and creative expression into
-its model — GOODSports includes dance as a life-skills vehicle, and its STREAM programming
+its model: GOODSports includes dance as a life-skills vehicle, and its STREAM programming
 (Science, Technology, Reading, Engineering, Arts, Math) treats the arts as a core, not
 supplemental, learning domain. GOODLearningHub partners directly with Amidon-Bowen Elementary
-School and Jefferson Middle School (Jefferson Academy) — the students who would participate in
+School and Jefferson Middle School (Jefferson Academy): the students who would participate in
 this field trip's 6th-8th grade band are GOODLearningHub youth attending Jefferson Middle School
 during the school day, giving this project a direct, existing connection to DC Public Schools
 personnel and curriculum, as the RFA's program goals call for.
@@ -63,7 +63,7 @@ personnel and curriculum, as the RFA's program goals call for.
 GOODProjects is not itself a dance or theater company, and this narrative does not claim to be.
 GOODProjects' role is as the producer and organizer of the field trip experience: designing the
 curriculum connections, managing logistics and participation, and evaluating outcomes, while
-partnering with Arena Stage — an established, professional DC arts institution — to deliver the
+partnering with Arena Stage, an established, professional DC arts institution, to deliver the
 performance and teaching-artist components. This is precisely the "presenting organization" model
 the FTE grant is designed to fund.
 
@@ -73,14 +73,14 @@ Students in Southwest DC's Ward 6 public housing communities face real barriers 
 humanities enrichment: cost, transportation, and limited school capacity for field trips that
 connect classroom learning to live, professional artistic experience. GOODLearningHub's 73
 enrolled students are ages 5-14, approximately 95% Black or African American, and live below
-200% of the federal poverty line — a population with meaningfully less access to DC's cultural
+200% of the federal poverty line: a population with meaningfully less access to DC's cultural
 institutions than their peers in less under-resourced neighborhoods, despite living minutes from
 Arena Stage itself.
 
 Dance and humanities field trips offer a distinct value for middle-grade students: stepping is a
 living African American cultural tradition rooted in HBCU history, community, and collective
-identity. For GOODLearningHub's 6th-8th graders — an age band navigating identity, belonging, and
-self-expression — seeing that tradition performed at a professional level, and then unpacking its
+identity. For GOODLearningHub's 6th-8th graders, an age band navigating identity, belonging, and
+self-expression, seeing that tradition performed at a professional level, and then unpacking its
 history and meaning in a structured classroom setting, builds a connection between artistic
 excellence and their own cultural heritage that a generic field trip cannot.
 
@@ -93,21 +93,21 @@ geographically close to Arena Stage and structurally distant from the chance to 
 This is a single field trip experience with three connected components, built around a specific,
 already-identified production: Step Afrika!'s Magical Musical Holiday Step Show, Arena Stage's
 annual family production celebrating the African American stepping tradition, running December
-4-23, 2026 at Arena Stage (1101 6th Street SW, Washington, DC) — a professional dance company
-performance in Southwest DC, inside GOODLearningHub's existing Fall II program session (Nov 30 -
+4-23, 2026 at Arena Stage (1101 6th Street SW, Washington, DC), a professional dance company
+performance in Southwest DC, inside GOODLearningHub's existing Fall II program session (Nov 30 to
 Dec 17, 2026).
 
 **Pre-Trip Workshop:** GOODLearningHub staff lead a classroom session introducing stepping's
 history and cultural significance, connecting the production's themes to GOODLearningHub's
-existing Social-Emotional Learning curriculum — identity, community, and collective voice.
+existing Social-Emotional Learning curriculum: identity, community, and collective voice.
 
 **Field Trip:** A weekday matinee performance for 30 GOODLearningHub youth in the 6th-8th grade
-band, including round-trip transportation. [Proposed date: Thursday, December 10, 2026 — Arena
+band, including round-trip transportation. [Proposed date: Thursday, December 10, 2026. Arena
 Stage's 2026/27 matinee calendar is not yet published; this is projected from last year's run,
 which held weekday matinees on Thursdays at 12PM. To be confirmed with Arena Stage Group Sales
 once this concept is approved.]
 
-**On-Site Learning Component:** An Arena Stage "Interactive" add-on package — a workshop or
+**On-Site Learning Component:** An Arena Stage "Interactive" add-on package: a workshop or
 backstage tour led by Arena Stage teaching artists, plus a pre-show program and printed Learning
 Guides for each student.
 
@@ -121,14 +121,14 @@ experience's value beyond the single field trip.
 ## 6. Artistic and Humanities Merit
 
 This project's artistic merit rests on pairing a genuinely high-quality professional dance
-performance with real instructional design, not just attendance. Stepping is a serious art form —
-rhythmic, percussive, rooted in African diasporic and HBCU tradition — and Step Afrika! is an
+performance with real instructional design, not just attendance. Stepping is a serious art form:
+rhythmic, percussive, rooted in African diasporic and HBCU tradition. Step Afrika! is an
 internationally recognized dance company; this is not an incidental entertainment outing.
 
 The humanities content is built by GOODLearningHub staff with direct, relevant qualifications:
 Stephanie Page-Baxter, Director of Youth Development, holds a B.A. in Education from Hampton
 University and an M.A. in Curriculum and Instruction from George Washington University, with 34
-years as a DCPS educator before joining GOODProjects — she designs the curriculum connections
+years as a DCPS educator before joining GOODProjects: she designs the curriculum connections
 between the performance and GOODLearningHub's existing Social-Emotional Learning framework.
 Phileke Holland, Youth Program/Afterschool Coordinator, leads day-to-day facilitation and has
 five years of direct experience with GOODLearningHub's student population. Arena Stage's own
@@ -137,14 +137,14 @@ practice directly into the experience.
 
 The pre- and post-trip workshops ensure the field trip is not passive: students engage with
 stepping's history and meaning before attending, and are asked to reflect on and connect it to
-their own identity and community afterward — developmentally appropriate content for a 6th-8th
+their own identity and community afterward: developmentally appropriate content for a 6th-8th
 grade audience navigating those same questions in their own lives.
 
-[TO ATTACH — not yet compiled: sample pre-trip workshop lesson plan; post-trip reflection
+[TO ATTACH: not yet compiled: sample pre-trip workshop lesson plan; post-trip reflection
 activity outline; any photo/video documentation from GOODLearningHub's existing GOODSports dance
 programming as a comparable prior arts-engagement work sample; facilitator bios for Stephanie
 Page-Baxter and Phileke Holland. CAH panelists review only what is physically included in the
-application — none of this can be represented by a website link.]
+application: none of this can be represented by a website link.]
 
 ## 7. Community Access and Engagement
 
@@ -155,14 +155,14 @@ for this field trip), approximately 95% Black or African American, and below 200
 poverty line.
 
 Access is built into the design, not added as an afterthought:
-- **No cost to families** — the full cost of tickets, transportation, and materials is covered by
+- **No cost to families**: the full cost of tickets, transportation, and materials is covered by
   this grant
-- **Transportation provided** — round-trip van/bus transportation is budgeted directly, removing
+- **Transportation provided**: round-trip van/bus transportation is budgeted directly, removing
   the single biggest practical barrier to attendance
-- **ADA accessibility** — Arena Stage is a fully accessible professional venue
-- **Culturally responsive content** — the production itself reflects the students' own cultural
+- **ADA accessibility**: Arena Stage is a fully accessible professional venue
+- **Culturally responsive content**: the production itself reflects the students' own cultural
   heritage, not content chosen without regard to the population it serves
-- **Existing school partnership** — GOODLearningHub's direct partnership with Jefferson Middle
+- **Existing school partnership**: GOODLearningHub's direct partnership with Jefferson Middle
   School means this project reaches students through an existing, trusted relationship rather
   than a cold outreach effort
 
@@ -238,7 +238,7 @@ October 15, 2027).
 | Line Item | Basis / Calculation | Amount |
 |---|---|---|
 | Tickets | 37 tickets (30 students + ~7 chaperones/staff) at an estimated $30/ticket Group Sales rate (list price $49, group discount up to 40-50%; formal quote pending) | $1,100 |
-| Arena Stage "Interactive" add-on package | $15/student x 30 students — workshop/backstage tour, pre-show program, printed Learning Guides | $450 |
+| Arena Stage "Interactive" add-on package | $15/student x 30 students: workshop/backstage tour, pre-show program, printed Learning Guides | $450 |
 | Transportation | Round-trip van/bus rental for 30 youth plus chaperones | $1,500 |
 | Pre/post-trip SEL workshop materials | Discussion guides, activity supplies (GOODLearningHub-led) | $500 |
 | Staff planning and coordination time | Phileke Holland, partial time, trip planning and logistics | $1,500 |
@@ -252,12 +252,12 @@ operational reserve) are included.
 
 ## 13. Closing Statement
 
-GOODProjects is committed to ensuring that the students of Southwest DC's Ward 6 — living blocks
-from one of the city's leading professional theaters — have the same access to high-quality
+GOODProjects is committed to ensuring that the students of Southwest DC's Ward 6, living blocks
+from one of the city's leading professional theaters, have the same access to high-quality
 dance and humanities learning as students anywhere else in the District. Step Into Heritage gives
 30 GOODLearningHub middle schoolers the chance to see a serious, professional dance performance
 rooted in their own cultural heritage, and to spend real classroom time understanding why it
-matters — not just watching it happen.
+matters: not just watching it happen.
 
 We appreciate the opportunity to apply, and welcome the chance to discuss this project further
 with CAH staff before the July 24, 2026 deadline.
