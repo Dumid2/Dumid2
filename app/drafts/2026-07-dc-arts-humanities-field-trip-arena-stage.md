@@ -10,8 +10,8 @@ STATUS: Draft for Neo's go/no-go review. Not yet submitted. This proposes a NEW 
 |---|---|
 | Program / RFA | FY27 Field Trip Experiences (FTE) Grant |
 | Ask Amount | $5,500 (revised from $4,500 — see budget note below) |
-| Maximum Award (confirmed) | $50,000, no match required — per CAH FY 2027 Guide to Grants (dcarts.dc.gov, published April 21, 2026). Our ask is well under the cap; the cap was never the constraint, the original $4,500 figure was just built on a wrong ticket-price assumption. |
-| Deadline | Friday, July 24, 2026 (per internal grant tracker) — one search result showed July 27, 2026, 5:00 pm EST instead; confirm the exact date and time directly on dcarts.dc.gov before submission |
+| Maximum Award (confirmed) | Up to $30,000 — per the live FY27 FTE program page (dcarts.dc.gov/grants/field-trip-experiences), verified directly by Dumisani on July 14, 2026. CORRECTION: an earlier pass in this draft cited $50,000 from a PDF ("CAH FY 2027 Guide to Grants") snippet — that figure was wrong; the live program page is the authoritative source and shows $30,000. Our ask is still well under the cap. |
+| Deadline | 5:00 PM ET, Thursday, July 24, 2026 — confirmed directly from the live FY27 FTE program page (dcarts.dc.gov/grants/field-trip-experiences). Program released Tuesday, June 23, 2026. This resolves the earlier July 24 vs. July 27 discrepancy in Neo's favor of July 24. |
 | Submission Method | Not independently verified — dcarts.dc.gov is not reachable from this environment |
 | Program Officer | Not listed in the dev bible entry — needs sourcing before submission |
 | Go/No-Go Confirmed | Not yet — routing to Neo for approval before Phileke/Stephanie are looped in |
@@ -87,7 +87,7 @@ CORRECTED: the original deliverable list included a "post-show talkback with Are
 | Contingency (printing, incidentals) | | $450 | — |
 | TOTAL | | $5,500 | — |
 
-CORRECTED: the ticket line previously assumed the $4/ticket D.C. Ticket Partnership rate. That program is confirmed restricted to D.C. public/charter schools applying directly, is not open to nonprofit afterschool programs, and its FY27 application window is not yet open. The $30/ticket figure above is a mid-range estimate (list price $49, with Arena Stage advertising group discounts of up to 40-50%) — get a formal written quote from Arena Stage Group Sales (202-488-4380 / groups@arenastage.org) before finalizing this figure. Confirmed cap: CAH's FY 2027 Guide to Grants lists the FTE maximum award as $50,000, no match required — this $5,500 ask has significant headroom under that cap and is not constrained by it.
+CORRECTED: the ticket line previously assumed the $4/ticket D.C. Ticket Partnership rate. That program is confirmed restricted to D.C. public/charter schools applying directly, is not open to nonprofit afterschool programs, and its FY27 application window is not yet open. The $30/ticket figure above is a mid-range estimate (list price $49, with Arena Stage advertising group discounts of up to 40-50%) — get a formal written quote from Arena Stage Group Sales (202-488-4380 / groups@arenastage.org) before finalizing this figure. Confirmed cap: the live FY27 FTE program page (dcarts.dc.gov/grants/field-trip-experiences) lists the maximum organization award as up to $30,000 — this $5,500 ask has significant headroom under that cap and is not constrained by it.
 
 ## REQUIRED ATTACHMENTS CHECKLIST
 
@@ -102,7 +102,7 @@ CORRECTED: the ticket line previously assumed the $4/ticket D.C. Ticket Partners
 ## PRE-SUBMISSION QA GATE
 
 01 [x] All placeholders filled with real, verified figures
-02 [x] Funder ask is within the stated cap — CAH FY 2027 Guide to Grants confirms $50,000 maximum award, no match required; our $5,500 ask has significant headroom
+02 [x] Funder ask is within the stated cap — live FY27 FTE program page confirms up to $30,000 maximum organization award; our $5,500 ask has significant headroom
 03 [x] Budget total matches the headline ask
 04 [ ] Field trip logistics not yet confirmed with Stephanie Page-Baxter or Phileke Holland — routing to Neo for concept/budget approval first, then to them for logistics confirmation
 04a [ ] Grade-grouping requirement (single band vs. our 5-14 span) not yet resolved with Neo — see Target Population note
@@ -113,7 +113,7 @@ CORRECTED: the ticket line previously assumed the $4/ticket D.C. Ticket Partners
 07 [x] Geography confirmed: Ward 6 origin, DC-based destination (Arena Stage, Southwest DC)
 08 [x] Executive summary tailored to CAH's Field Trip Experiences priority
 09 [x] Proof metrics chosen match the funder's domain
-10 [ ] Exact deadline date needs confirming (July 24 vs. July 27 discrepancy between sources)
+10 [x] Deadline confirmed: 5:00 PM ET, Thursday, July 24, 2026 (live FY27 FTE program page)
 11 [ ] Attachments not yet assembled
 12 [ ] Darius Baxter has not yet signed; route through Neo first
 13 [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
@@ -172,8 +172,10 @@ checked against the actual FY27 RFA text yet.
 ## MONEY
 
 **Ask: $5,500** (revised up from an earlier $4,500 draft — see correction below)
-**Confirmed funder cap: $50,000, no match required** (CAH FY 2027 Guide to Grants,
-dcarts.dc.gov, published April 2026). We are nowhere near the cap; it was never the constraint.
+**Confirmed funder cap: up to $30,000** (live FY27 FTE program page,
+dcarts.dc.gov/grants/field-trip-experiences, verified July 14, 2026). We are nowhere near the
+cap; it was never the constraint. Deadline confirmed from the same page: 5:00 PM ET, Thursday,
+July 24, 2026.
 
 | Line Item | $ |
 |---|---|
@@ -198,7 +200,7 @@ formal quote, not a confirmed rate.
 **Confirmed (cross-checked across two independent research passes):**
 - Show and DC eligibility
 - Session/calendar fit (Fall II)
-- $50,000 funder cap, no match required
+- Up to $30,000 funder cap and July 24, 2026 5PM ET deadline, confirmed from the live program page
 - D.C. Ticket Partnership is not accessible to us this cycle
 - Base ticket price ($49) and group discount range (40-50%)
 
