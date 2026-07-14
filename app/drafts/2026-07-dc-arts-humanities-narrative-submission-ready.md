@@ -140,11 +140,17 @@ stepping's history and meaning before attending, and are asked to reflect on and
 their own identity and community afterward: developmentally appropriate content for a 6th-8th
 grade audience navigating those same questions in their own lives.
 
-[TO ATTACH: not yet compiled: sample pre-trip workshop lesson plan; post-trip reflection
-activity outline; any photo/video documentation from GOODLearningHub's existing GOODSports dance
-programming as a comparable prior arts-engagement work sample; facilitator bios for Stephanie
-Page-Baxter and Phileke Holland. CAH panelists review only what is physically included in the
-application: none of this can be represented by a website link.]
+The pre-trip workshop ("Stepping Into Story") and post-trip reflection ("What Stepping Taught
+Us") are fully drafted, with objectives, sequencing, and curriculum alignment, in the companion
+document `2026-07-dc-arts-humanities-lesson-plans.md`, along with facilitator bios for Stephanie
+Page-Baxter and Phileke Holland. These are ready to attach as-is.
+
+STILL OUTSTANDING (cannot be completed without direct human input): photo or video documentation
+of GOODProjects' past arts programming (GOODSports dance, the Christmas Play, the Family Arts &
+Craft Festival) as a comparable prior work sample, and each facilitator's ward or state of
+residence. CAH panelists review only what is physically included in the application; none of this
+can be represented by a website link, so these need to be sourced and attached directly, not
+referenced.
 
 ## 7. Community Access and Engagement
 
@@ -211,6 +217,11 @@ isolation.
 | Youth attending the matinee and both workshops | 30 (100% of the enrolled cohort) |
 | Youth able to connect the production's themes to a personal or SEL discussion topic (post-trip survey) | 75% |
 | Youth Services Advocates completing the professional development session | 100% of assigned staff |
+
+These quantitative measures are paired with a qualitative component: the post-trip reflection
+session ("What Stepping Taught Us," detailed in the companion lesson plan document) produces
+actual written or verbal student reflections, collected as narrative evidence of how students
+connected the performance to their own identity and community, not just whether they did.
 
 GOODLearningHub already uses structured tracking tools (attendance records, session notes, and
 participant surveys) as part of its standard programming; this project uses the same

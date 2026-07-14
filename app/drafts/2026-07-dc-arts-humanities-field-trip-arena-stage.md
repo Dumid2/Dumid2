@@ -200,8 +200,11 @@ ADDITIONAL REQUIREMENT (Section III.B): a sworn, written statement disclosing wh
 14 [ ] PDF not yet produced
 15 [ ] Technical assistance appointment with CAH (Andrea Brown) not yet booked: window closes Friday, July 17, 2026, given the volume of open items above
 16 [x] "Producer of the field trip experience" requirement addressed explicitly in the narrative (Program Purpose section) rather than left ambiguous. This resolves a disqualification concern raised by an internal Abacus review that didn't hold up against the full RFA text
-17 [ ] All Arts Merit evidence (lesson plans, workshop outline, work samples, facilitator bios) still needs to be gathered and uploaded as actual documents. CAH panelists do not click through to outside links or websites
-18 [ ] Narrative reviewed to confirm it stays centered on arts/humanities education, not GOODProjects' broader youth-services mission
+17 [x] Pre-trip lesson plan, post-trip reflection outline, and facilitator bios for Stephanie Page-Baxter and Phileke Holland fully drafted (see 2026-07-dc-arts-humanities-lesson-plans.md). [ ] Photo/video work samples and each facilitator's ward/state of residence still need to be sourced directly from Adam Hickson, Stephanie, and Phileke; a document cannot supply these on its own
+18 [x] Narrative reviewed and confirmed to stay centered on arts/humanities education, not GOODProjects' broader youth-services mission
+19 [x] Draft outreach messages prepared for Adam Hickson, Stephanie Page-Baxter, Phileke Holland, Cole Bradshaw, and Arena Stage Group Sales (see 2026-07-dc-arts-humanities-outreach-templates.md), ready to send as-is
+20 [x] Statement of Certification and financial misconduct disclosure drafted as templates (see 2026-07-dc-arts-humanities-certification-templates.md). [ ] Both still require Darius Baxter's real signature and, for the disclosure, his factual confirmation, which cannot be supplied by drafting alone
+21 [x] Qualitative evaluation element added to the narrative (post-trip written reflections), closing the Addendum A qualitative/quantitative gap
 
 ---
 
