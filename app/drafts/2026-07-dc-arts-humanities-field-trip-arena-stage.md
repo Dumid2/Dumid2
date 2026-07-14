@@ -45,7 +45,11 @@ TECHNICAL ASSISTANCE STILL AVAILABLE: CAH offers 30-minute application review ap
 
 ### Program Purpose and Goals
 
-GOODProjects requests $5,500 to provide a GOODLearningHub arts and humanities field trip experience: a weekday matinee performance of Step Afrika!'s Magical Musical Holiday Step Show at Arena Stage, a professional theater in Southwest DC, for youth enrolled in GOODLearningHub. This production was chosen specifically for this age group and community: it is Arena Stage's annual family-friendly holiday production, built around the African American tradition of stepping, and runs December 4–23, 2026, inside GOODLearningHub's Fall II session (Nov 30 – Dec 17, 2026). This directly matches CAH's Field Trip Experiences goal of providing comprehensive arts and humanities field trip experiences that advance student achievement, paired with pre- and post-trip workshops and professional development for staff.
+GOODProjects requests $5,500 to produce a GOODLearningHub arts and humanities field trip experience for 6th-8th grade youth, centered on **dance as a discipline**: a weekday matinee performance of Step Afrika!'s Magical Musical Holiday Step Show at Arena Stage, a professional dance company performance in Southwest DC. GOODProjects is the producer of the field trip experience itself — the curriculum design, pre-trip workshop, chaperoning, on-site learning components, and post-trip reflection — while Arena Stage/Step Afrika produces the underlying performance, consistent with CAH's own eligibility framing of "arts or humanities presenting or producing organizations" and its explicit funding of field trip ticket costs.
+
+This experience is framed around stepping as a living Black American cultural and historical tradition rooted in HBCU life, community, and storytelling — not just an outing. Pre- and post-trip workshops connect the performance's themes to identity, community history, and creative voice, giving students a structured arts-education experience rather than a one-off entertainment trip. This directly matches CAH's Field Trip Experiences goal of providing comprehensive arts and humanities field trip experiences that advance student achievement, paired with pre- and post-trip workshops and professional development for staff. This production was chosen specifically for this age group and community: it is Arena Stage's annual family-friendly holiday production, built around the African American tradition of stepping, and runs December 4–23, 2026, inside GOODLearningHub's Fall II session (Nov 30 – Dec 17, 2026).
+
+GRADE GROUPING AND DISCIPLINE: this application targets the **6th-8th grade band under the Dance discipline** (one of three disciplines allowed for that band, alongside Film and Theatre). This band was chosen over K-2 or 3-5 (also Dance-eligible) because the stepping tradition's historical and identity-based content connects most authentically to middle-grade SEL and civics content, and because the RFA's community-impact criteria reward developmentally appropriate, curriculum-connected content over a younger audience. GOODLearningHub's exact 6-8 grade enrollment count within its 73 students still needs to be pulled to confirm 30 participants can be drawn from this band alone — this is a decision for Neo/Stephanie, not yet finalized.
 
 PROPOSED DATE: Thursday, December 10, 2026 (weekday matinee). Arena Stage's 2026/27 performance calendar with exact matinee times has not yet been published; this date is projected from the prior year's run, which held weekday matinees on Thursdays at 12PM (Dec 11 and Dec 18, 2025). Thursday, December 17, 2026 is a possible backup but falls on the last day of the Fall II session, leaving no scheduling buffer. Confirm the actual 2026/27 matinee calendar with Arena Stage Group Sales (202-488-4380 / groups@arenastage.org) once Neo approves moving forward.
 
@@ -69,7 +73,11 @@ RESOLVED (from the actual FY27 RFA text, Section I): organizations MUST target e
 | 6th – 8th Grade | Dance, Film, or Theatre |
 | 9th – 12th Grade | Film or Theatre |
 
-IMPORTANT DISCIPLINE FLAG: Theatre is only an eligible discipline for the 6-8 and 9-12 bands. If this application is filed under "Theatre," it is only eligible for grades 6-8 or 9-12 — not K-2 or 3-5. However, Step Afrika! is officially a dance company (its own materials describe it as an "internationally acclaimed Dance Company"), so this trip can reasonably be classified under **Dance** instead of Theatre — which is an eligible discipline for K-2, 3-5, AND 6-8. Recommend classifying this application under Dance and picking ONE band from K-2, 3-5, or 6-8 (not a 5-14 span). This is a decision for Neo: GOODLearningHub's exact grade breakdown (not just ages) within its 73 enrolled students needs to be pulled to pick the band with the most eligible students. Our current 30-youth, ages-5-14 framing must be narrowed before submission or the application risks disqualification for not targeting a single grade grouping.
+IMPORTANT DISCIPLINE FLAG: Theatre is only an eligible discipline for the 6-8 and 9-12 bands. If this application is filed under "Theatre," it is only eligible for grades 6-8 or 9-12 — not K-2 or 3-5. However, Step Afrika! is officially a dance company (its own materials describe it as an "internationally acclaimed Dance Company"), so this trip can reasonably be classified under **Dance** instead of Theatre — which is an eligible discipline for K-2, 3-5, AND 6-8.
+
+RECOMMENDATION (updated after cross-checking an internal GOODProjects Abacus review against the actual RFA text): classify this application as **Dance, 6th-8th grade**. GOODLearningHub's exact grade breakdown (not just ages) within its 73 enrolled students still needs to be pulled to confirm 30 participants can be drawn from that single band — this is a decision for Neo/Stephanie, not yet finalized. Our current 30-youth, ages-5-14 framing must be narrowed before submission or the application risks disqualification for not targeting a single grade grouping.
+
+ON THE "PRODUCER" REQUIREMENT: the RFA states "the applicant organization must be the producer of the arts or humanities field trip experience." An internal Abacus review flagged this as a possible disqualifier, reasoning that GOODProjects isn't itself a dance/theater company. That reading doesn't hold up against the full RFA text: Section I explicitly frames eligible applicants as "arts or humanities **presenting or producing** organizations," and the same section funds "the cost of field trip tickets" — which only makes sense if the intended model is an organization taking students to see a professional production it did not itself create. Read in full context, GOODProjects is the producer of the *field trip experience* (workshops, logistics, curriculum connections, chaperoning, reflection); Arena Stage/Step Afrika produces the underlying performance. This should be stated explicitly in the narrative rather than left ambiguous, since a reviewer could make the same overly literal read Abacus did.
 
 ### Activities and Deliverables
 
@@ -104,6 +112,26 @@ CORRECTED: the original deliverable list included a "post-show talkback with Are
 | Youth able to connect the production's themes to a personal or SEL discussion topic (post-trip survey) | 75% |
 | Youth Services Advocates completing the professional development session | 100% of assigned staff |
 | Reporting Frequency | Final Report only, due Friday, October 15, 2027 — confirmed from RFA; Interim Report only required for awards over $12,500, which does not apply to our $5,500 ask |
+
+### Scoring Strategy Notes (mapped to RFA Section V review criteria)
+
+The RFA scores applications across four weighted categories. Notes below incorporate a cross-checked internal Abacus review, applied only where it holds up against the RFA text itself.
+
+**Arts, Humanities, and Arts Education Merit — 40 points (the largest category).** CAH's own guidance says panelists review only what is physically in the application — reliance on hyperlinks or "the website has more info" will not help, since panelists are not expected to click through to outside content. Everything below needs to be uploaded as an actual document, not linked:
+- A sample lesson plan for the pre-trip SEL/identity workshop
+- A workshop outline for the post-trip reflection session
+- Educational materials/handouts used with students
+- Any comparable prior arts-enriched programming GOODProjects has run (photos, records, testimonials)
+- Short video/photo work samples, no more than 3 years old
+- Bios of the facilitators/teaching artists involved (GOODLearningHub staff and/or Arena Stage teaching artists via the Interactive add-on)
+
+**Capacity & Sustainability — 20 points.** GOODProjects' existing strengths apply directly here: a real DC office, an active board, grant management and audit experience from public funding, established program infrastructure. Include an org chart, current budget, financial statements, and staffing roles specific to this project.
+
+**Community Access & Engagement — 20 points.** Be explicit, not implicit, about: no-cost participation for all 30 families, transportation provided (not an out-of-pocket ask), ADA accessibility at Arena Stage, language access if needed for families, and culturally responsive content (the stepping tradition itself is part of this story, not incidental to it).
+
+**Community Impact — 20 points.** State plainly: exact number of students and staff served, the evaluation method already in the metrics table above, and that teaching artists/facilitators involved are DC-based (Arena Stage is a DC institution; GOODLearningHub staff are DC-based), which speaks directly to the RFA's "DC-based hiring" scoring point.
+
+**What to avoid:** this narrative should read as an arts/humanities education proposal with a field trip at its center — not a youth-services or violence-prevention proposal with "arts" added on. GOODProjects' broader mission (violence prevention, family stabilization, workforce development, food security) should not be foregrounded in this application; it is real and valuable work, but it is not what this specific grant funds or scores.
 
 ## BUDGET DETAIL
 
@@ -171,6 +199,9 @@ ADDITIONAL REQUIREMENT (Section III.B): a sworn, written statement disclosing wh
 13 [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
 14 [ ] PDF not yet produced
 15 [ ] Technical assistance appointment with CAH (Andrea Brown) not yet booked — window closes Friday, July 17, 2026, given the volume of open items above
+16 [x] "Producer of the field trip experience" requirement addressed explicitly in the narrative (Program Purpose section), rather than left ambiguous — resolves a disqualification concern raised by an internal Abacus review that didn't hold up against the full RFA text
+17 [ ] All Arts Merit evidence (lesson plans, workshop outline, work samples, facilitator bios) still needs to be gathered and uploaded as actual documents — CAH panelists do not click through to outside links or websites
+18 [ ] Narrative reviewed to confirm it stays centered on arts/humanities education, not GOODProjects' broader youth-services mission
 
 ---
 
@@ -219,9 +250,19 @@ Greenleaf public housing (Ward 6). Below 200% federal poverty line.
 exactly ONE grade grouping, each tied to specific disciplines — K-2 (Dance/Music/Visual Arts), 3-5
 (Music/Visual Arts), 6-8 (Dance/Film/Theatre), 9-12 (Film/Theatre). Theatre alone would restrict us
 to grades 6-12 only. Since Step Afrika! is officially a dance company, we can classify this trip
-under **Dance** instead, which opens up K-2, 3-5, or 6-8. We still need Neo's call on which single
-band to pick, and GOODLearningHub's actual grade breakdown (not just ages) to support that choice.
-Our current 30-youth, ages-5-14 framing needs to narrow to one band before submission.
+under **Dance** instead, which opens up K-2, 3-5, or 6-8.
+
+**Recommendation: 6th-8th grade, Dance.** This came out of cross-checking an internal GOODProjects
+Abacus review against the RFA — Abacus's specific suggestion to reclassify by discipline was
+sound, and 6-8 is the strongest fit because stepping's identity/community-history content connects
+more naturally to middle-grade SEL and civics content than to younger grades. Abacus separately
+raised a concern that GOODProjects might not qualify as the "producer" of the field trip since we
+aren't a dance company ourselves — I checked that against the full RFA text and it doesn't hold up:
+the RFA explicitly names "presenting or producing organizations" as eligible and funds "field trip
+tickets," which only makes sense under a presenting-org model. We've stated this explicitly in the
+narrative so a reviewer doesn't make the same overly literal read. Still need Neo's/Stephanie's call
+on GOODLearningHub's actual 6-8 grade enrollment count to confirm 30 participants can be drawn from
+that band alone.
 
 ## MONEY
 
@@ -275,12 +316,17 @@ Phileke/Stephanie:**
 8. 9 of the RFA's 14 required attachments are not yet compiled (see full checklist in the grant
    draft above) — this is a much bigger lift than originally scoped, and a few items (a liability
    insurance certificate, a Board-approved organizational budget) need real lead time before July 24
+9. Arts Merit evidence (lesson plans, workshop outline, work samples, facilitator bios) needs to be
+   pulled together and uploaded directly — CAH panelists don't click through to outside links, so
+   nothing here can lean on "more info is on our website"
 
-**One caution:** during this research, an AI search tool (Perplexity) also produced three named
-Arena Stage staff contacts (with titles and emails) that could not be independently verified
-anywhere on Arena Stage's own site. Those names are not used anywhere in this document —
-recommend getting any named contact by calling Arena Stage directly rather than trusting either
-AI tool's output on that point.
+**Two cautions on AI tool output in this process, for the same reason Neo flagged earlier this
+week:** (1) an AI search tool (Perplexity) produced three named Arena Stage staff contacts that
+could not be independently verified anywhere on Arena Stage's own site — not used anywhere in this
+document. (2) A GOODProjects internal Abacus review raised a "producer of the experience" concern
+that, read against the full RFA text rather than one isolated sentence, does not actually hold up —
+addressed directly in the narrative rather than silently accepted. Both are a reminder to verify
+against source text before treating any AI tool's read as final, on this application or any other.
 
 ## THE ASK OF NEO
 
