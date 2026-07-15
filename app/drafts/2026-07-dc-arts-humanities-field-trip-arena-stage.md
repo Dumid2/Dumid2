@@ -1,8 +1,15 @@
 GOODProjects
 DC Government Grant Draft
-DC Commission on the Arts & Humanities — FY27 Field Trip Experiences (FTE) Grant
+DC Commission on the Arts & Humanities, FY27 Field Trip Experiences (FTE) Grant
 
-STATUS: Draft for Neo's go/no-go review. Not yet submitted. This proposes a NEW field trip GOODProjects has not yet run — Stephanie Page-Baxter or Phileke Holland should confirm this is deliverable before it goes out.
+SUPERSEDED: this early draft (generic Arena Stage matinee, $4,500 ask) has been
+overtaken by real events. The single-trip application was finalized separately
+at $5,500 around Step Afrika's Magical Musical Holiday Step Show, and a
+multi-trip expansion is now in progress. See
+`2026-07-cah-fte-multi-trip-portal-response-key.md` in this same folder for the
+current, live draft. Kept here for history only; do not draft from this file.
+
+STATUS (historical): Draft for Neo's go/no-go review. Not yet submitted. This proposes a NEW field trip GOODProjects has not yet run — Stephanie Page-Baxter or Phileke Holland should confirm this is deliverable before it goes out.
 
 ## SOLICITATION DETAILS
 
