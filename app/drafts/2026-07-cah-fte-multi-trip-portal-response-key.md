@@ -2,7 +2,14 @@ GOODProjects
 CAH FY27 Field Trip Experiences (FTE) Grant, Multi-Trip Expansion
 Portal Response Key, mapped field by field to the live Submittable form
 
-STATUS: Draft for Neo Mangope's go/no-go review. Not yet submitted. Builds on the
+SUPERSEDED: this two-trip version has been overtaken by a full rebuild into a
+four-trip themed series. See `2026-07-cah-fte-series-master-narrative.md` in
+this same folder for the current, live draft. Kept here for history only; do
+not draft from this file. Most organization-identity fields, compliance
+statuses, and open items in this file still apply and are not repeated in the
+new file, so keep both open side by side.
+
+STATUS (historical): Draft for Neo Mangope's go/no-go review. Not yet submitted. Builds on the
 already-finalized single-trip application (Step Afrika's Magical Musical Holiday
 Step Show, $5,500) by adding a second confirmed trip (Step Afrika's The Fruits of
 Our Labor) under the multi-trip expansion Neo already approved. This file was
