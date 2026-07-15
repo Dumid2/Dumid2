@@ -4,6 +4,43 @@ DC Commission on the Arts & Humanities: FY27 Field Trip Experiences (FTE) Grant
 
 STATUS: Draft for Neo's go/no-go review. Not yet submitted. This proposes a NEW field trip GOODProjects has not yet run. Stephanie Page-Baxter or Phileke Holland should confirm this is deliverable before it goes out.
 
+## OVERVIEW OF THIS GRANT
+
+The DC Commission on the Arts and Humanities (CAH) runs an annual Field Trip Experiences (FTE)
+grant program that funds DC nonprofits to take students to real arts and humanities experiences,
+covering ticket costs, pre/post-trip workshops, educator professional development, and the staff
+time to plan and run it. Applicants must target one grade grouping tied to a specific discipline,
+and all programming must take place inside DC.
+
+GOODProjects is requesting $5,500 (well under CAH's $30,000 cap) to take 30 6th-8th grade
+GOODLearningHub students to a weekday matinee of Step Afrika!'s Magical Musical Holiday Step
+Show at Arena Stage in Southwest DC this December, paired with a pre-trip workshop, an on-site
+session with Arena Stage teaching artists, and a post-trip reflection activity. The application
+is filed under the Dance discipline. The deadline is 5:00 PM ET, Thursday, July 24, 2026.
+
+## THE NEED, FROM GOODPROJECTS' POINT OF VIEW
+
+GOODLearningHub already provides 73 enrolled youth with tutoring, Social-Emotional Learning,
+mental health support, and daily meals, but it has no dedicated funding line for arts and
+humanities enrichment specifically. GOODSports touches dance as a life-skills vehicle and STREAM
+touches the arts, but neither is funded or structured as real arts education, and GOODProjects
+has never run a field trip to a professional DC arts institution.
+
+That gap matters for a specific reason: GOODLearningHub's students live minutes from Arena Stage,
+one of DC's leading professional theaters, but a family below 200% of the federal poverty line in
+James Creek, Syphax Gardens, or Greenleaf has no realistic path to attending a show there without
+outside support. Proximity without access is exactly the kind of gap GOODProjects exists to close
+in every other part of its work (housing, food, safety); this grant lets it close that same kind
+of gap for arts access specifically.
+
+This grant also serves GOODProjects organizationally, not just its students. It is the
+organization's first CAH award attempt built specifically around arts and humanities programming,
+distinct from the violence-prevention, family-stabilization, and workforce funding that makes up
+most of its portfolio. A successful award establishes a track record with CAH, strengthens the
+existing Jefferson Middle School partnership by grounding it in a real shared activity, and gives
+Stephanie Page-Baxter and Phileke Holland a funded, structured way to build out the arts
+component of GOODLearningHub's SEL work rather than leaving it informal and unfunded.
+
 ## SOLICITATION DETAILS
 
 | Agency | DC Commission on the Arts and Humanities (CAH) |
