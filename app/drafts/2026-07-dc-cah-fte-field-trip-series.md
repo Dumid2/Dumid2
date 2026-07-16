@@ -1,8 +1,20 @@
+> **SUPERSEDED DRAFT, kept for provenance only, not the version to submit.**
+> Neo reviewed and approved a different direction: a 6th-8th grade
+> Dance/Humanities project built around Arena Stage's Step Afrika!
+> production ("Step Into Heritage"), evidenced by an already-drafted CAH
+> portal response key and full submission narrative built around it. That
+> project has real, confirmed logistics (specific show, specific dates,
+> named staff qualifications) that this 3rd-5th Visual Arts concept does
+> not. The canonical current version is
+> `2026-07-dc-cah-fte-step-into-heritage-series.md`, which extends Step
+> Into Heritage into a two-trip series (Arena Stage + Ford's Theatre)
+> rather than replacing it. Do not submit this version.
+
 GOODProjects
 DC Government Grant Draft
 DC Commission on the Arts & Humanities: FY27 Field Trip Experiences (FTE) Grant
 
-STATUS: Draft for Neo's go/no-go review. Not yet submitted. Replaces the earlier single-trip Arena Stage concept (`2026-07-dc-arts-humanities-field-trip-arena-stage.md`, now marked superseded) with a three-trip series built to match the FTE grade-grouping and discipline requirements confirmed directly from dcarts.dc.gov.
+STATUS: Superseded, see note above.
 
 ## WHY THIS VERSION IS DIFFERENT
 
