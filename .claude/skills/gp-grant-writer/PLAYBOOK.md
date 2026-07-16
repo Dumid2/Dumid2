@@ -203,6 +203,8 @@ Score each opportunity on:
 
 If an opportunity fails 1, 2, or 3, flag it to Neo as a no-go with the reason — do not sink drafting time into it. Selective qualification is the main lever behind a higher award rate.
 
+**Every disqualifying fact needs a live, sourced check before it goes in a no-go note.** `WebFetch` does not reliably reach external funder sites in this environment — use `WebSearch` and `Exa` instead, and cross-check against at least two independent sources (see CLAUDE.md). A no-go is a real, sourced fact, not an assumption carried over from memory and not the absence of a successful fetch. If a criterion cannot be verified, route it to Neo as an open item, not a no-go.
+
 ---
 
 ## Part 8 — Humanize Before Export (strip AI-writing tells)
