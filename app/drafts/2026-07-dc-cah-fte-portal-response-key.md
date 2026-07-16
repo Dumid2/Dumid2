@@ -1,7 +1,7 @@
 GOODProjects
 CAH FY27 Field Trip Experiences Grant, Portal Response Key (Series Version)
 
-Updates the previously drafted portal response key for the two-trip Step Into Heritage series (Arena Stage plus Ford's Theatre). Every OPEN ITEM from the original key is preserved unless it has genuinely been resolved with real, sourced information below. Anything not confidently answerable without real data stays flagged, not guessed.
+Drafted answers are ready to paste into the portal. Anything that could not be confidently filled without real data is flagged as an OPEN ITEM, not left blank, see the master list below before submitting.
 
 ## Open Items, Confirm Before Submitting
 
@@ -11,23 +11,23 @@ Updates the previously drafted portal response key for the two-trip Step Into He
 | Applied for a CAH grant in past 5 years? | Yes/No answer needed | Neo Mangope |
 | Attended a CAH workshop this cycle? | Yes/No answer needed | Neo Mangope |
 | AI used in support materials/work samples? | Depends on final files uploaded; this answer IS shared with panelists | Dumisani / Neo |
-| Applicant Primary/Secondary Discipline | Dropdown options not visible here; suggest "Dance" primary, "Humanities" secondary if available. The two-trip series strengthens this pairing since Trip 2 is explicitly a humanities institution. | Neo Mangope |
+| Applicant Primary/Secondary Discipline | Dropdown options not visible here; suggest "Dance" primary, "Humanities" secondary if available | Neo Mangope |
 | Institution type | Dropdown options not visible here; suggest closest to "Nonprofit/Community-Based Organization" | Neo Mangope |
 | Organization founding date (exact day) | Known: February 2016. Exact MM/DD needed. | Cole Bradshaw / Darius Baxter |
 | Fiscal year start/end dates | Not confirmed in records on file | Cole Bradshaw |
 | Type of Activity (dropdown) | Suggest "Performance" and/or "Field Trip to a Historic Site" pending actual list; confirm whether the portal allows selecting more than one activity type for a series | Whoever is in the portal |
 | % of activities dedicated to arts education | Suggested: 100%, every described component across both trips is arts or humanities instruction | Neo / Stephanie Page-Baxter |
 | Project Start/End Date | Suggested: 11/01/2026 to 09/30/2027 (within required window) | Neo Mangope |
-| Past examples of similar executed activities | Partially resolved below using GOODProjects' real 2026 field trip calendar (Wolf Trap, AnnMarie Sculpture Garden); attendance figures for those trips still need confirmation | Neo / Stephanie Page-Baxter |
+| Past examples of similar executed activities | Attendance figures for the Wolf Trap and AnnMarie Sculpture Garden trips cited below still need confirmation | Neo / Stephanie Page-Baxter |
 | Support Materials & Work Samples statements | Depends on which files are actually attached | Dumisani, once files are chosen |
 | Community input mechanism (specific) | No documented mechanism on file; draft stays general until named | Stephanie Page-Baxter / Phileke Holland |
 | Marketing plan, specific channel names | No specific channel/tool name on file | Phileke Holland / Kacie Haden |
 | Evaluation, past example of a program improvement | No confirmed specific instance on file | Melissa Wippenaar-Page / Stephanie Page-Baxter |
 | Partnership documentation | Arena Stage Group Sales quote still pending; Jefferson MS MOU status unknown; NEW, Ford's Theatre Free Field Trip application not yet submitted, and it is unconfirmed whether GOODProjects applies directly or through Jefferson MS/Amidon-Bowen | Neo Mangope / Stephanie Page-Baxter |
 | Total cash expenses (Form 990 line) | Closest figure on file: $1,573,125.80 FY2025 total operating budget; confirm exact 990 line | Cole Bradshaw |
-| Total Project Budget / Project Income | Updated for the series: Budget $7,900, Income $0; confirm no outside match funding | Cole Bradshaw |
+| Total Project Budget / Project Income | Suggested: Budget $7,900, Income $0; confirm no outside match funding | Cole Bradshaw |
 | Applicant's finances statement (optional field) | Draft uses the FY2025 net-asset figure; needs sign-off before it goes in a public application | Cole Bradshaw / Neo Mangope |
-| NEW: Ford's Theatre free-bus eligibility | Confirm whether GOODProjects qualifies for Ford's Theatre's free transportation for schools within the Capital Beltway; this affects the Trip 2 transportation budget line | Phileke Holland |
+| Ford's Theatre free-bus eligibility | Confirm whether GOODProjects qualifies for Ford's Theatre's free transportation for schools within the Capital Beltway; this affects the Trip 2 transportation budget line | Phileke Holland |
 | File uploads (990/bank statements, Org Budget, Balance Sheet, P&L, Resumes, Board of Directors, Clean Hands Cert + Notice #, Liability Insurance, 501(c)(3) letter, W-9, Statement of Certification) | None of these can be drafted; all need the actual source documents gathered and attached | Cole Bradshaw |
 
 ## I. Overview
@@ -59,7 +59,7 @@ OPEN ITEM: Depends on the final files attached. This answer IS shared with panel
 ## II. Request, Organization Profile
 
 **Applicant Primary Discipline / Secondary Discipline**
-OPEN ITEM: Dropdown options aren't visible from the pasted form. Closest fit: "Dance" (primary), "Humanities" (secondary) if those options exist. The addition of Ford's Theatre as Trip 2 makes the humanities secondary designation more directly evidenced than in the single-trip version.
+OPEN ITEM: Dropdown options aren't visible from the pasted form. Closest fit: "Dance" (primary), "Humanities" (secondary) if those options exist.
 
 **Institution type**
 OPEN ITEM: Dropdown options aren't visible. Closest fit is likely "Nonprofit" or "Community-Based Organization."
@@ -72,11 +72,11 @@ OPEN ITEM: Not confirmed on file. Do not guess, confirm with Cole Bradshaw befor
 
 **What is the organization's mission and vision? (200 words)**
 GOODProjects exists to end intergenerational poverty in Washington, DC by investing in whole families and whole neighborhoods at once. Founded in 2016 by Darius Baxter, GOODProjects works from a two-generation, place-based model: because poverty is multi-dimensional and concentrated by place, GOODProjects addresses education, economic mobility, food security, health, and stability together, in the same Southwest DC neighborhoods, so that gains in one generation reinforce the next. GOODProjects operates a four-phase continuum anchored at the King Greenleaf Recreation Center in Ward 6's James Creek, Syphax Gardens, and Greenleaf public housing communities: the Family Support Program for parents, caregivers, and youth ages 14-24; GOODLearningHub, a year-round afterschool and summer enrichment program for ages 5-14; GOODZone, violence interruption programming for ages 18-35 across Wards 6 and 8; and JUMPSTART, workforce development for GOODLearningHub alumni ages 14-24. GOODProjects' vision is a Southwest DC where families move from crisis to stability to sustained economic mobility within a generation, with residents treated as partners and agents of their own progress, not passive recipients of services.
-(169/200 words, unchanged from the previously drafted answer)
+(169/200 words)
 
 **Top three accomplishments from the past two years (400 words)**
 Over the past two years, GOODProjects has strengthened both its programmatic reach and its fiscal accountability. First, GOODProjects was awarded the DC Department of Parks and Recreation's REC for All grant ($75,000), expanding recreational programming for the Ward 6 and Ward 8 communities it serves. Second, GOODLearningHub, GOODProjects' afterschool program, was awarded the FY25 African American Community Development Grant ($10,000), recognizing the program's work with the 73 students, ages 5-14, currently enrolled. Third, GOODProjects received an unmodified (clean) opinion on its FY2024 independent audit, reflecting sound financial management across its four-phase, two-generation continuum, which now operates on an annual budget of approximately $1.8 million spanning family support, youth education, violence interruption, and workforce development.
-(114/400 words, unchanged from the previously drafted answer)
+(114/400 words)
 
 **Project Title (10 words)**
 Step Into Heritage: A Dance and Humanities Field Trip Series
@@ -138,7 +138,7 @@ Students in Southwest DC's Ward 6 public housing communities face real barriers 
 
 **How the organization has been/will be intentional in securing community input (300 words)**
 GOODProjects' program design is dignity-first and asset-based: residents and participants are treated as partners in shaping programming, not passive recipients of it. Phileke Holland, Afterschool Lead, has five years of direct, daily experience with GOODLearningHub's student population, and Stephanie Page-Baxter, Director of Youth Programming, designs the program's Social-Emotional Learning curriculum in direct response to what staff observe students need. This series' pairing of a stepping performance and a historic site visit with an SEL-anchored curriculum reflects that ongoing, direct staff-student relationship rather than a generic program selected without regard to the population it serves.
-(94/300 words, unchanged in substance from the previously drafted answer)
+(94/300 words)
 
 OPEN ITEM: If there's a specific mechanism for this particular series (a student survey, a family conversation, prior requests for a cultural outing), name it, the draft above stays general until that's confirmed.
 
@@ -148,7 +148,7 @@ Access is built into this series' design at every level. No cost to families for
 
 **Marketing plan to ensure robust participation (400 words)**
 This series' participant pool is not open recruitment: the 30 participating students are drawn directly from GOODLearningHub's 73 currently enrolled students, specifically the 6th-8th grade band attending Jefferson Middle School. Because these students and their families are already engaged daily through GOODLearningHub's existing afterschool programming, GOODProjects does not need a general public marketing campaign to secure participation for either trip. Instead, GOODProjects will communicate the opportunity directly to eligible families through its existing GOODLearningHub communication channels, led by Phileke Holland, Afterschool Lead, who has five years of direct relationships with this student population.
-(93/400 words, unchanged in substance from the previously drafted answer)
+(93/400 words)
 
 OPEN ITEM: Name the specific channel(s) used (for example, sign-up sheets, a parent communication app, printed flyers sent home) so this can be made concrete.
 
@@ -231,7 +231,7 @@ OPEN ITEM: File upload. No board roster is on file here at all, this needs to co
 
 **Anything specific the panel should know about the applicant's finances? (100 words, optional)**
 GOODProjects' FY2025 financials reflect a change in net assets of $(395,186.10), which reflects a planned investment period across its four-phase continuum rather than an operating shortfall in any single program. The organization's FY2024 independent audit returned an unmodified opinion. Total assets as of May 31, 2026 were $394,414.24.
-(48/100 words, unchanged from the previously drafted answer)
+(48/100 words)
 
 OPEN ITEM: This discloses a specific loss figure in a public application, get explicit sign-off from Cole Bradshaw and/or Neo before including it as written.
 

@@ -1,7 +1,7 @@
 GOODProjects
 CAH FY27 Field Trip Experiences Grant
 
-STATUS: Draft for Neo's final sign-off before submission. Neo has already approved pursuing this grant and the underlying Step Into Heritage / Arena Stage direction (evidenced by the previously drafted portal response key and narrative). This version extends that approved project into a two-trip series by adding a second, DC-based, humanities-focused field trip: Ford's Theatre. Every new claim in this draft is sourced from either the uploaded reference documents or verified web research; every figure that could not be confirmed is flagged OPEN ITEM, not guessed. See the companion Portal Response Key, Program Plan, and Syllabus documents.
+STATUS: Draft for Neo's final sign-off before submission. See the companion Portal Response Key, Program Plan, and Syllabus documents.
 
 ## 1. Project Title
 
