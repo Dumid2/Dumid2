@@ -1,0 +1,18 @@
+{
+  "min_session_length": 10,
+  "extraction_threshold": "medium",
+  "auto_approve": false,
+  "learned_skills_path": ".claude/skills/learned/",
+  "patterns_to_detect": [
+    "funder_preferences",
+    "voice_corrections",
+    "successful_framing",
+    "reviewer_feedback_patterns",
+    "process_workarounds"
+  ],
+  "ignore_patterns": [
+    "simple_typos",
+    "one_time_fixes",
+    "external_api_issues"
+  ]
+}
