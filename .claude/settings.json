@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/skills/continuous-learning/evaluate-session.sh"
+          }
+        ],
+        "description": "Nudge continuous-learning pattern extraction once per qualifying session before stopping"
+      }
+    ]
+  }
+}

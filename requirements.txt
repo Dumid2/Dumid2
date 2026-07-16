@@ -4,3 +4,4 @@ anthropic>=0.40
 pydantic>=2.7
 python-dotenv>=1.0
 python-multipart>=0.0.9
+slowapi>=0.1.9

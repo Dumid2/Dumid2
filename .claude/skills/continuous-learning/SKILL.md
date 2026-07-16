@@ -13,8 +13,8 @@ Evaluates a session for extractable, reusable patterns about how GOODProjects gr
 
 1. **Session Evaluation**: At the end of a substantial drafting session (10+ user messages), or on manual `/learn`, review what happened.
 2. **Pattern Detection**: Look for the pattern types below.
-3. **Confirm with the user** — never save a learned pattern silently. Show the draft skill file and ask before writing it.
-4. **Skill Extraction**: Save confirmed patterns to `.claude/skills/learned/`.
+3. **Skill Extraction**: Save patterns to `.claude/skills/learned/` (`auto_approve` is on — see below).
+4. **Report what was saved** — even with auto-save on, always summarize what got written after the fact, so nothing is silent.
 
 ## Pattern Types
 
@@ -57,14 +57,13 @@ description: [When this should trigger — be specific about the funder/situatio
 
 1. Review the session (or the specific thing the user just told you to remember).
 2. Check it isn't redundant with `gp-grant-writer`, `grants`, or an existing `learned/` skill — if it's a funder-specific fact, prefer updating that funder's section in `gp-grant-writer`'s canon over creating a new tiny skill.
-3. Draft the skill file.
-4. **Show the user the draft and ask before saving.** `auto_approve` is off by default — see `config.json`.
-5. Save to `.claude/skills/learned/[pattern-name]/SKILL.md`.
+3. Draft the skill file and save it directly to `.claude/skills/learned/[pattern-name]/SKILL.md` (`auto_approve: true` in `config.json` — no confirmation gate).
+4. Tell the user what was saved, briefly, so it's never silent even though it wasn't asked for first.
 
 ## Manual Trigger
 
 Run `/learn` at any point in a session — see `.claude/commands/learn.md`.
 
-## Automatic Trigger (opt-in, not enabled by default)
+## Automatic Trigger (enabled)
 
-The original repo wires this to a Stop hook so it fires automatically at session end. That's **not enabled here** — it would mean every session silently runs a script and nudges pattern-extraction on close, which is a standing behavior change worth an explicit yes. `evaluate-session.sh` is included for reference; to enable it, add it to a `Stop` hook in `.claude/settings.json` and confirm with the team first, since it affects every session in this shared repo.
+Wired as a `Stop` hook in `.claude/settings.json`, running `evaluate-session.sh`. On the first stop attempt of a session with 10+ user messages, the hook blocks the stop once and signals this skill to evaluate the session and save anything worth keeping; a per-session marker file (in `$TMPDIR/claude-continuous-learning/`) stops it from blocking on every subsequent stop attempt in the same session. Short sessions and sessions with no new patterns pass through untouched.
