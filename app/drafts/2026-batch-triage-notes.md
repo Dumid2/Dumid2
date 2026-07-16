@@ -96,6 +96,8 @@ suggests meals are already happening, possibly already through CACFP).
 
 ## Row 217 — DC Commission on the Arts & Humanities, Field Trip Experiences: real field trips exist, but none satisfy the DC-location rule
 
+**RESOLVED (July 2026):** drafted as a three-trip Visual Arts series (Smithsonian American Art Museum/Renwick Gallery, National Gallery of Art, Anacostia Community Museum), targeting the 3rd–5th grade grouping, GOODLearningHub's largest enrolled cohort. See `2026-07-dc-cah-fte-field-trip-series.md`. The FTE RFA's grade-grouping/discipline compliance matrix (K–2: Dance/Music/Visual Arts; 3–5: Music/Visual Arts; 6–8: Dance/Film/Theatre; 9–12: Film/Theatre) was confirmed directly from dcarts.dc.gov and drove the venue choice: free-admission DC museums fit Visual Arts for the largest cohort better than a single theatre trip would have. Still routing to Neo for go/no-go.
+
 FY26 cycle already closed (June 26, 2025); the FY27 cycle deadline is
 July 24, 2026, matching the dev bible's date. Eligibility requires the
 applicant to be "the producer of the arts or humanities field trip

@@ -1,8 +1,19 @@
+> **SUPERSEDED DRAFT — kept for provenance only, not the version to submit.**
+> The canonical current version is `2026-07-dc-cah-fte-field-trip-series.md`.
+> This draft proposed a single Arena Stage matinee without checking the
+> FTE grant's grade-grouping / discipline compliance matrix (confirmed
+> from dcarts.dc.gov after this draft was written). Theatre, the
+> discipline Arena Stage falls under, is only eligible for the 6th–8th or
+> 9th–12th grade groupings, which cover 17 of GOODLearningHub's 73
+> enrolled students. The current draft instead targets the 3rd–5th
+> grouping (35 students, GOODLearningHub's largest cohort) with a
+> three-trip Visual Arts series. Do not submit this version.
+
 GOODProjects
 DC Government Grant Draft
 DC Commission on the Arts & Humanities — FY27 Field Trip Experiences (FTE) Grant
 
-STATUS: Draft for Neo's go/no-go review. Not yet submitted. This proposes a NEW field trip GOODProjects has not yet run — Stephanie Page-Baxter or Phileke Holland should confirm this is deliverable before it goes out.
+STATUS: Superseded, see note above. This proposes a NEW field trip GOODProjects has not yet run — Stephanie Page-Baxter or Phileke Holland should confirm this is deliverable before it goes out.
 
 ## SOLICITATION DETAILS
 
