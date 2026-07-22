@@ -49,17 +49,19 @@ runs through every program we operate. *(488/500 characters)*
 **Primary programs and services (1000 char max):** GOODProjects runs a
 four-phase continuum in Southwest DC's Ward 6 public housing
 communities. Family Success Planning pairs every enrolled family with a
-dedicated coach for financial stability and workforce readiness.
-GOODLearningHub provides tutoring, after-school programming, summer
-camp, and, since August 2025, a dedicated expansion of mental health
-services for youth ages 14 to 18, anchored by a licensed clinical social
-worker and funded in part by the Aim High/NY Life Foundation. GOODZone
-is our violence interruption program: Credible Messengers and Crisis
-Intervention Specialists provide daily street-level presence and 48-hour
-crisis response. JUMPSTART is our workforce development program for
-older youth and adults. The SW Peace Garden, launched in 2021, is a
-trauma-informed therapeutic horticulture space that complements this
-continuum. *(853/1000 characters)*
+dedicated coach for financial stability, benefits navigation, and
+workforce readiness, serving 130 individuals in FY25. GOODLearningHub
+provides high-dosage tutoring, daily meals, and social-emotional
+learning to more than 400 youth ages 5 to 14 daily, and since August
+2025 has expanded mental health services, anchored by a licensed
+clinical social worker, up through age 18. GOODZone is our violence
+interruption program: Credible Messengers and Crisis Intervention
+Specialists deliver daily street-level presence and crisis response
+within 48 hours of any shooting, driving a 45% reduction in violent
+crime against a 12% citywide increase. JUMPSTART is our workforce
+development program for older youth and adults. The SW Peace Garden,
+launched in 2021, is a trauma-informed therapeutic horticulture space
+that complements this continuum. *(995/1000 characters)*
 
 **Primary population served (500 char max):** We serve residents of
 James Creek, Syphax Gardens, and Greenleaf, three public housing
