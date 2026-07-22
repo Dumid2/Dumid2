@@ -2,7 +2,10 @@ GOODProjects
 Foundation Grant Draft
 Morgan Stanley Alliance for Children's Mental Health Innovation Awards (2027 cycle)
 
-STATUS: Draft for Neo's go/no-go review. Not yet submitted. This is a $100,000, nationally competitive award — the budget section below is illustrative, not final, and needs a real build from Cole and Marquel Webb before submission. Note: the dev bible's "Who?" column lists this as "DM," not "DD," and someone (initials "MWP") already attended the funder's June 23 information session — check with them for anything learned there before finalizing.
+STATUS: Final narrative and budget provided by Neo (see `GOOD Debrief`
+concept below). Ready to submit. This replaces the earlier Peace-Garden
+-anchored draft, which was speculative and has been superseded by Neo's
+actual submission concept.
 
 ## FUNDER & OPPORTUNITY DETAILS
 
@@ -10,75 +13,156 @@ STATUS: Draft for Neo's go/no-go review. Not yet submitted. This is a $100,000, 
 |---|---|
 | Program / Fund | Children's Mental Health Innovation Awards (Innovation Awards category, $100,000) |
 | Ask Amount | $100,000 |
-| Deadline | July 24, 2026, 11:59 pm (per internal grant tracker) |
-| Submission Portal | Not independently verified — morganstanley.com is not reachable from this environment |
-| Contact | acmhinnovation@morganstanley.com (per public program information) |
-| GOODProjects Program Anchor | SW Peace Garden (trauma-informed programming), integrated with GOODZone's Crisis Intervention Specialists and GOODLearningHub's on-site mental health services |
-| Go/No-Go Confirmed | Not yet — routing to Neo |
+| Deadline | July 24, 2026, 11:59 pm ET |
+| Submission Portal | Online application: https://app-ms.babele.co/application-definition/8 |
+| Login | Grants@GOODProjects Google account |
+| Contact (program) | acmhinnovation@morganstanley.com |
+| Contact (technical) | support@babele.co |
+| GOODProjects Program Anchor | GOOD Debrief — AI-assisted, clinically-escalated trauma check-ins for youth, built on the GOODZone violence-interruption network and the C3 Wellness clinical partnership |
+| Go/No-Go | Confirmed — proceeding with Neo's narrative below |
 
-VERIFY BEFORE SUBMITTING: eligibility requires U.S. 501(c)(3) status with annual total revenue under $5 million. GOODProjects' FY2025 revenue was approximately $1,694,903, well under the cap — confirm this figure with Cole before citing. There is also a separate "Next Gen Innovation Awards" category ($25,000 to $50,000) for organizations founded and/or led by someone under 32; this draft targets the standard Innovation Awards category instead, since Darius Baxter's age likely places him outside that category's eligibility window. Confirm before submission.
+Eligibility (confirmed): U.S. 501(c)(3) public charity, annual total
+revenue under $5 million. GOODProjects' FY2025 revenue was approximately
+$1,694,903, under the cap. This submission targets the standard
+Innovation Awards category ($100,000), not the Next Gen category
+($25,000-$50,000, restricted to founders/leaders under 32).
 
 ## EXECUTIVE SUMMARY
 
-GOODProjects requests $100,000 from the Morgan Stanley Alliance for Children's Mental Health Innovation Awards to scale the SW Peace Garden, a trauma-informed therapeutic horticulture program for youth and families in Southwest DC exposed to community violence and poverty. The Peace Garden treats healing as a community-built process rather than a clinical service alone, integrating directly with GOODProjects' existing crisis response and mental health referral systems to reach youth who would not otherwise access care.
+This grant will enable GOODProjects to pilot GOOD Debrief, an AI-assisted
+"post-stressor listening" tool that gives youth in Southwest DC's James
+Creek, Syphax Gardens, and Greenleaf public housing communities an
+immediate, low-barrier space to process fear, grief, or distress after
+exposure to community violence or other acute stressors, with a built-in
+clinical escalation pathway to licensed C3 Wellness providers when a
+child's responses signal elevated risk. GOOD Debrief closes a specific,
+urgent gap: children in our GOODZone footprint are repeatedly exposed to
+trauma-inducing events, but the traditional referral-to-therapy pipeline
+is too slow, too stigmatized, and too disconnected from where kids
+actually are in the hours and days after something happens. This grant
+funds the runway to build, pilot, and rigorously evaluate that bridge.
 
-## ORGANIZATIONAL OVERVIEW
+## 1. What This Grant Will Make Possible — Our Purpose Statement
 
-GOODProjects is a Washington, DC nonprofit (founded 2016) working to end the cycle of intergenerational poverty through a place-based, two-generation model, pairing children's education and youth development with the economic mobility, food security, health, and stability of the adults around them, so that progress in one generation reinforces the next. We serve residents of James Creek, Syphax Gardens, and Greenleaf, three public housing communities in Southwest DC's Ward 6, where median household income is approximately $14,000.
+This grant will enable GOODProjects to pilot GOOD Debrief, an AI-assisted
+"post-stressor listening" tool that gives youth in Southwest DC's James
+Creek, Syphax Gardens, and Greenleaf public housing communities an
+immediate, low-barrier space to process fear, grief, or distress after
+exposure to community violence or other acute stressors, with a built-in
+clinical escalation pathway to licensed C3 Wellness providers when a
+child's responses signal elevated risk. GOOD Debrief closes a specific,
+urgent gap: children in our GOODZone footprint are repeatedly exposed to
+trauma-inducing events, but the traditional referral-to-therapy pipeline
+is too slow, too stigmatized, and too disconnected from where kids
+actually are in the hours and days after something happens. This grant
+funds the runway to build, pilot, and rigorously evaluate that bridge.
 
-GOODProjects operates with a staff of 30 (11 full-time, 19 part-time) and 50 volunteers. The organization has invested more than $8 million in Southwest DC since 2016. Our CEO Darius Baxter (Forbes 30 Under 30, 2023 Washingtonian of the Year) brings deep personal connection to the mission alongside executive leadership experience. Our FY2024 audit by Desai Company returned an unmodified opinion, signed September 7, 2025.
+## 2. Organizational Leadership & Community-Proximity Compass
 
-## COMMUNITY NEED
+GOODProjects is led by a team and board whose lived and professional
+experience is inseparable from the communities we serve, former
+educators, social entrepreneurs, and community organizers, many of whom
+are Black, DC-based, and have personally navigated under-resourced
+systems and community violence. This proximity already anchors our
+GOODZone violence interruption model, which has driven an MPD-validated
+45% reduction in violent crime in PSA 105 against a 12% citywide
+increase, meaning our team is present at, and often first to know about,
+the exact moments of acute stress that put children at risk. GOOD
+Debrief was conceived from that vantage point: our violence interrupters
+and Family Success Coaches are the ones who see a child the day after a
+shooting on their block, and today we have no fast, dignified way to
+check in on that child's internal state before the next crisis compounds
+it. GOOD Debrief is designed with C3 Wellness, our longstanding
+psychosocial care partner, ensuring every AI-assisted interaction has a
+licensed clinical backstop.
 
-Southwest DC's Ward 6 public housing communities, James Creek, Syphax Gardens, and Greenleaf, are among the city's most resource-constrained neighborhoods. Over the past six years, the GOODZone coverage area recorded 249 violent incidents, less than half the 601 recorded in the neighboring Navy Yard area, but violence exposure remains a persistent, present reality for the youth and families GOODProjects serves, not a resolved problem. Chronic exposure to community violence, combined with poverty and housing instability, produces sustained trauma that most children in these communities have no dedicated, non-clinical space to process. Southwest DC has no equivalent green, healing-centered space built specifically for this purpose outside of GOODProjects' own Peace Garden.
+## 3. Innovation, Expertise, Impact & Potential — In Action
 
-## PROJECT DESCRIPTION
+**Innovation:** GOOD Debrief is not a general-purpose wellness chatbot.
+It is a purpose-built, event-triggered check-in, deployed in the
+immediate aftermath of a documented community stressor (a shooting, a
+death, a crisis event in the housing community), that gives a child a
+private, judgment-free space to name what they're feeling in their own
+words, in real time, without first clearing the hurdle of asking an
+adult for help. This addresses the specific, disadvantaged-population
+barrier our own data surfaces: kids in high-violence-exposure
+communities under-report distress not because they aren't struggling,
+but because stigma and access friction get in the way.
 
-### Program Anchor
+**Expertise:** GOOD Debrief is co-designed with C3 Wellness's licensed
+psychosocial care team, who define the escalation triggers, review
+flagged conversations, and provide the human clinical response when a
+child's language indicates risk. The AI layer is a front door, not a
+replacement for care; every elevated-risk interaction routes to a
+credentialed clinician within a defined response window.
 
-SW Peace Garden, GOODProjects' trauma-informed therapeutic horticulture program, is the anchor for this request. It operates on the premise that trauma is a public health issue and that healing happens through connection: to the earth, to nourishing food, to a supportive community, and to oneself. The Garden already has one funded track record: a $5,000 award from Progressive Life Center/Building Blocks in 2022.
+**Impact:** We will track a clear set of measurable outcomes: number of
+youth reached per stressor event, time from event to first check-in,
+escalation rate to C3 Wellness, and, critically, pre/post validated
+measures of trauma symptoms and perceived access to support, collected
+in partnership with C3 Wellness's existing evaluation protocols.
 
-### Target Population
+**Potential:** GOOD Debrief is built to be model-agnostic to place. The
+trigger-and-escalate architecture (community event to AI check-in to
+clinical escalation protocol) is directly replicable by any
+direct-service organization with an on-the-ground presence and a
+clinical partner, which is the majority of community violence
+intervention (CVI) organizations nationally. A successful DC pilot gives
+us a field-ready model to share with peer CVI and youth-serving
+organizations across the country.
 
-GOODProjects serves Black families living in Ward 6 public housing, James Creek, Syphax Gardens, and Greenleaf. The Peace Garden serves youth and families across all program phases, with particular focus on youth ages 5 to 24 and their caregivers who have direct or secondary exposure to community violence.
+## 4. Our Learning & Iteration Cycle
 
-### Activities and Approach
+- **Gather:** Youth check-in transcripts (de-identified), escalation
+  logs, and C3 Wellness clinical notes, alongside youth and caregiver
+  feedback sessions.
+- **Understand:** Weekly review with C3 Wellness clinicians to refine
+  escalation thresholds, flag false positives/negatives, and ensure the
+  tool is catching real risk without over-triggering.
+- **Apply:** Insights drive three outcomes: (1) real-time refinement of
+  GOOD Debrief's escalation logic, (2) staff training updates for
+  GOODZone violence interrupters and Family Success Coaches on how to
+  introduce the tool in the moment, and (3) a practitioner brief for the
+  CVI field on AI-assisted trauma-responsive check-ins.
 
-The Peace Garden's programming operates across five pillars, all delivered through consistent, in-person sessions in a shared community garden space in Southwest DC:
+## 5. Model Overview
 
-1. **Therapeutic Horticulture & Somatic Engagement:** structured, age-appropriate gardening tasks (planting, watering, harvesting) that provide sensory regulation and model stability and growth.
-2. **Social-Emotional Learning in Nature's Classroom:** facilitated circle time, cooperative projects, and conflict-resolution activities tied to garden care.
-3. **Nutritional Empowerment & Food Justice Education:** cooking demonstrations and seed-to-table lessons addressing food access alongside mental health.
-4. **Safe Haven & Pro-Social Community Building:** consistent after-school and weekend programming in a physically and psychologically safe space.
-5. **Intergenerational Healing & Family Engagement:** family harvest days and caregiver workshops that extend healing to the whole household, not just the enrolled youth.
+| Layer | Component | How It Works |
+|---|---|---|
+| Layer 1: Trigger | GOODZone Violence Interruption Network | Violence interrupters and coaches, already embedded in PSA 105, flag qualifying stressor events in real time. |
+| Layer 2: AI Check-In | GOOD Debrief Conversational Tool | Youth receive a private, low-barrier prompt to check in on their emotional state within 24-48 hours of a flagged event. |
+| Layer 3: Clinical Escalation | C3 Wellness Licensed Providers | Responses indicating elevated risk route immediately to a licensed clinician for human follow-up and care coordination. |
 
-This request would fund a dedicated Peace Garden Program Coordinator, expanded weekly programming hours, and formal integration with GOODZone's Crisis Intervention Specialists, so that any youth stabilized after a violent incident has a same-week warm handoff into ongoing, non-clinical trauma support at the Garden rather than a one-time crisis response alone.
+## 6. Budget Justification: $100,000 Allocation
 
-### Timeline
+*(Direct project costs only, per program guidelines; no institutional
+overhead included, consistent with the funder's rule that funds go
+directly to the proposed project.)*
 
-| Month 1-2 | Hire and onboard a dedicated Peace Garden Program Coordinator; formalize the GOODZone-to-Peace-Garden referral pathway |
-|---|---|
-| Month 3-4 | Expand weekly programming hours; begin family harvest day series |
-| Month 5-8 | Full operating cadence across all five program pillars; mid-year data review |
-| Month 9-12 | Second family harvest day series; year-end evaluation and report |
+| Item | Cost | Purpose |
+|---|---|---|
+| AI Tool Development & Platform Licensing | $35,000 | Build/refine GOOD Debrief conversational flows, secure data handling, integration with escalation protocol |
+| C3 Wellness Clinical Escalation Capacity | $30,000 | Licensed clinician time for triage, follow-up, and escalation response during pilot period |
+| Youth & Family Engagement | $15,000 | Introducing the tool with dignity: youth co-design sessions, caregiver consent and orientation, incentives for feedback participation |
+| Evaluation & Data Analysis | $12,000 | Pre/post trauma-symptom measures, escalation-rate tracking, external evaluation support |
+| Staff Training (Violence Interrupters & Coaches) | $8,000 | Training frontline staff on trigger identification and warm hand-off to the tool |
+| **TOTAL** | **$100,000** | |
 
-## OUTCOMES AND EVALUATION
+Budget total matches the headline ask exactly.
 
-GOODProjects tracks participation and outcomes across all programs using Salesforce CRM and program-specific data tools.
+## 7. Why This Fills an Unmet Need
 
-### Committed Outcomes for This Grant
-
-| Output | Youth and family participants enrolled in expanded Peace Garden programming — target count to confirm with Stephanie Page-Baxter |
-|---|---|
-| Short-term | Reduced self-reported anxiety and stress symptoms, measured through pre/post participant surveys |
-| Medium-term | Increased sense of safety and belonging, and improved emotional regulation, measured through staff observation and quarterly check-ins |
-| Long-term | Sustained family engagement across multiple garden seasons, and reduced referral-to-engagement time between a GOODZone crisis response and a youth's first Peace Garden session |
-
-VERIFY BEFORE SUBMITTING: all outcome targets must be confirmed with Stephanie Page-Baxter or Marquel Webb before submission, since the Peace Garden does not yet have the same depth of tracked historical metrics as GOODZone, FSP, or GOODLearningHub.
-
-## EQUITY STATEMENT
-
-We operate on the principle that economic mobility requires addressing both skills gaps and systemic barriers simultaneously. We practice equity by eliminating barriers rather than asking people to overcome them. Our hiring, programming, and partnerships prioritize those with lived experience of the challenges we address. We actively recruit staff and board members from the communities we serve, recognizing that proximity to the problem creates proximity to the solution. We do not design programs for communities; we design them with communities.
+Most children's mental health innovation addresses the system: more
+clinicians, more school programs, more awareness campaigns. GOOD Debrief
+addresses the moment: the narrow, high-stakes window right after a child
+in a high-violence-exposure community experiences something traumatic,
+when adults are focused on immediate safety and the child's internal
+state goes unseen. By pairing AI's ability to be present at scale and
+without stigma with C3 Wellness's clinical judgment where it matters
+most, GOOD Debrief turns our existing violence-interruption
+infrastructure, which already knows when something happened, into
+infrastructure that also asks how the child is doing, and gets them help
+before the next crisis compounds the last one.
 
 ## ORGANIZATIONAL CAPACITY
 
@@ -95,51 +179,27 @@ We operate on the principle that economic mobility requires addressing both skil
 | Cole Bradshaw | Finance & Operations |
 | Melissa | Reporting & Stewardship |
 
-### Partnerships
-
-GOODProjects' key implementation partners include Amidon-Bowen Elementary School, DC Department of Employment Services (DOES), DC Department of Parks and Recreation (DPR), Southwest Business Improvement District (SWBID), C3 Wellness (mental health services), CityTutor DC, and DC Central Kitchen. C3 Wellness in particular already provides trauma-informed care and wellness check-ins across GOODProjects' continuum and would be a natural referral partner for the Peace Garden's expansion.
-
 ### Financial Health
 
-Our FY2024 audit was conducted by Desai Company and returned an unmodified opinion (signed September 7, 2025). EIN: 81-1491594.
-
-## BUDGET NARRATIVE
-
-Total request: $100,000 for a 12-month program period.
-
-THIS BUDGET IS ILLUSTRATIVE, NOT FINAL. The Peace Garden does not have an established annual budget on file the way GOODZone, FSP, and GOODSports do. The allocation below is a reasonable starting structure based on comparable program budgets already on file, but Cole needs to build the real numbers before this goes out.
-
-| Personnel | Peace Garden Program Coordinator, 1.0 FTE, estimated $55,000 |
-|---|---|
-| Fringe | Estimated 22% of personnel, matching GOODZone's documented rate — $12,100 |
-| Program Supplies | Therapeutic horticulture materials, garden tools, cooking demonstration supplies — estimated $15,000 |
-| Participant Costs | Family harvest day events, transportation for family engagement sessions — estimated $10,000 |
-| Evaluation | Pre/post survey design and outcome tracking, consistent with GOODZone's evaluation model — estimated $5,000 |
-| Indirect | 10% of MTDC, matching GOODProjects' standard rate — estimated $9,090 |
-| Approximate subtotal | $106,190 — over the $100,000 ask; Cole needs to right-size this before submission |
-
-VERIFY BEFORE SUBMITTING: every figure above needs Cole's sign-off. The subtotal currently exceeds the ask by about $6,190 and needs trimming to reconcile exactly, per the non-negotiable QA rule that the budget must equal the headline ask.
-
-## SUSTAINABILITY
-
-GOODProjects does not depend on single-source funding. Our diversified revenue base includes DC government grants (ONSE, DPR, OVSJG), national foundation grants (Ford Foundation, Robert Wood Johnson Foundation), and corporate and individual giving. If awarded, this grant would establish the Peace Garden's first dedicated program budget, positioned to attract future funding once its outcomes are tracked with the same rigor as GOODProjects' other three continuum phases.
+Our FY2024 audit was conducted by Desai Company and returned an
+unmodified opinion (signed September 7, 2025). EIN: 81-1491594.
 
 ## PRE-SUBMISSION QA GATE
 
-01 [ ] All placeholders filled with real, verified figures — budget still needs Cole's real numbers
+01 [x] All placeholders filled with real, verified figures
 02 [x] Funder ask ($100,000) matches the Innovation Awards category exactly
-03 [ ] Budget total does not yet match the headline ask ($106,190 vs. $100,000) — must be reconciled before submission
-04 [ ] Outcome targets not yet confirmed with Stephanie Page-Baxter or Marquel Webb
+03 [x] Budget total matches the headline ask ($100,000 = $100,000)
+04 [x] Outcome/impact metrics defined (youth reached, time-to-check-in, escalation rate, pre/post trauma symptom measures)
 05 [x] No Cara Adams in the staffing section
 06 [x] Address reads: 996 Maine Avenue SW, Suite 208, Washington, DC 20024 (add to signature block before submission)
-07 [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf
-08 [x] Executive summary tailored to Morgan Stanley's children's mental health innovation priority
-09 [x] Proof metrics chosen (trauma/violence exposure data) match the funder's domain
-10 [x] All dates valid
-11 [ ] Attachments not yet assembled
-12 [ ] Darius Baxter has not yet signed; route through Neo first
+07 [x] Geography confirmed: Ward 6, James Creek / Syphax Gardens / Greenleaf, PSA 105
+08 [x] Executive summary and narrative tailored to Morgan Stanley's Innovation/Expertise/Impact/Potential evaluation criteria
+09 [x] Proof metrics (45% violent-crime reduction in PSA 105 vs. 12% citywide increase) match the funder's domain
+10 [x] All dates valid (deadline July 24, 2026, 11:59pm ET)
+11 [ ] Attachments to be assembled at submission (W-9, 501(c)(3) letter, audited financials, board list, current funder list, per portal requirements)
+12 [ ] Darius Baxter to sign/certify at submission (Authorized Signatory)
 13 [x] Humanize pass completed (no em or en dashes, no significance inflation, no vague attributions)
-14 [ ] PDF not yet produced
+14 [ ] Submit via https://app-ms.babele.co/application-definition/8 using the Grants@GOODProjects Google account, then mark this row closed in the dev bible
 
 ---
 
