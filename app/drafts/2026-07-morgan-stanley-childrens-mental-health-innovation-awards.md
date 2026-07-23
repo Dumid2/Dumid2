@@ -46,22 +46,22 @@ in one generation reinforces the next. Poverty and violence in our
 community are inseparable from mental health, so trauma-informed care
 runs through every program we operate. *(488/500 characters)*
 
-**Primary programs and services (1000 char max):** GOODProjects runs a
-four-phase continuum in Southwest DC's Ward 6 public housing
-communities. Family Success Planning pairs every enrolled family with a
-dedicated coach for financial stability, benefits navigation, and
-workforce readiness, serving 130 individuals in FY25. GOODLearningHub
-provides high-dosage tutoring, daily meals, and social-emotional
-learning to more than 400 youth ages 5 to 14 daily, and since August
-2025 has expanded mental health services, anchored by a licensed
-clinical social worker, up through age 18. GOODZone is our violence
-interruption program: Credible Messengers and Crisis Intervention
-Specialists deliver daily street-level presence and crisis response
-within 48 hours of any shooting, driving a 45% reduction in violent
-crime against a 12% citywide increase. JUMPSTART is our workforce
-development program for older youth and adults. The SW Peace Garden,
-launched in 2021, is a trauma-informed therapeutic horticulture space
-that complements this continuum. *(995/1000 characters)*
+**Primary programs and services (1000 char max):** GOODProjects operates
+a four-phase continuum in Southwest DC's Ward 6 public housing
+communities. Family Success Planning stabilizes families: each gets a
+dedicated coach for financial coaching, benefits navigation, and
+workforce readiness, serving 130 individuals and distributing $100,000+
+in FY25. GOODLearningHub protects and develops youth ages 5 to 18
+through high-dosage tutoring, daily meals, and social-emotional
+learning, plus, since August 2025, licensed clinical mental health
+services, reaching 400+ youth daily and delivering 1,313+ tutoring hours
+in FY25. GOODZone intervenes through Credible Messengers' daily
+street-level outreach and crisis response within 48 hours of any
+shooting, driving a 45% drop in violent crime against a 12% citywide
+rise. JUMPSTART employs GOODLearningHub alumni ages 14 to 24 through
+career training, paid internships, and 90-day retention support. The SW
+Peace Garden, launched 2021, extends healing through trauma-informed
+therapeutic horticulture. *(995/1000 characters)*
 
 **Primary population served (1000 char max):** We serve residents of
 James Creek, Syphax Gardens, and Greenleaf, three public housing
