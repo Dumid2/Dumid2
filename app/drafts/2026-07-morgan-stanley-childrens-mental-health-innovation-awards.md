@@ -63,15 +63,19 @@ development program for older youth and adults. The SW Peace Garden,
 launched in 2021, is a trauma-informed therapeutic horticulture space
 that complements this continuum. *(995/1000 characters)*
 
-**Primary population served (500 char max):** We serve residents of
+**Primary population served (1000 char max):** We serve residents of
 James Creek, Syphax Gardens, and Greenleaf, three public housing
-communities in Southwest DC's Ward 6. Approximately 95% of participants
-are Black or African American, and median household income is
-approximately $14,000 a year, well below the poverty line. Families here
-face chronic exposure to community violence alongside poverty and
-housing instability. This request targets youth ages 14 to 18 and
-caregivers navigating the transition to adulthood under those
-conditions. *(499/500 characters)*
+communities in Southwest DC's Ward 6, where GOODProjects has worked for
+10 years. Approximately 95% of participants are Black or African
+American, and median household income is approximately $14,000 a year,
+a fraction of the $80,000 threshold GOODProjects works to help families
+reach. Ward 6 saw a 25% increase in gun-related incidents in 2024 (MPD),
+and families here face compounding challenges: generational poverty,
+housing insecurity, unemployment, and chronic exposure to violence and
+trauma. This request targets youth ages 14 to 18 and their caregivers,
+navigating the transition to adulthood under those conditions, at the
+exact ages when our continuum's mental health support has historically
+dropped off. *(804/1000 characters)*
 
 ## PROPOSED PROGRAM INFORMATION
 
