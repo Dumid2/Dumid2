@@ -63,19 +63,40 @@ career training, paid internships, and 90-day retention support. The SW
 Peace Garden, launched 2021, extends healing through trauma-informed
 therapeutic horticulture. *(995/1000 characters)*
 
-**Primary population served (1000 char max):** We serve residents of
+**Primary population served (2500 char max):** We serve residents of
 James Creek, Syphax Gardens, and Greenleaf, three public housing
-communities in Southwest DC's Ward 6, where GOODProjects has worked for
-10 years. Approximately 95% of participants are Black or African
-American, and median household income is approximately $14,000 a year,
-a fraction of the $80,000 threshold GOODProjects works to help families
-reach. Ward 6 saw a 25% increase in gun-related incidents in 2024 (MPD),
-and families here face compounding challenges: generational poverty,
-housing insecurity, unemployment, and chronic exposure to violence and
-trauma. This request targets youth ages 14 to 18 and their caregivers,
-navigating the transition to adulthood under those conditions, at the
-exact ages when our continuum's mental health support has historically
-dropped off. *(804/1000 characters)*
+communities in Southwest DC's Ward 6, where GOODProjects has operated
+continuously for 10 years. Approximately 95% of participants are Black
+or African American, and median household income across our community
+is approximately $14,000 a year, a fraction of the $80,000 threshold
+GOODProjects works to help families reach and well below DC's citywide
+median.
+
+Ward 6 saw a 25% year-over-year increase in gun-related incidents in
+2024 (MPD), even as GOODProjects' own GOODZone footprint (PSA 105)
+recorded a 45% reduction in violent crime against a 12% citywide
+increase over the same period, a gap that reflects the effect of
+sustained, place-based intervention rather than an absence of risk.
+Families here face compounding challenges: generational poverty,
+housing insecurity, unemployment, and chronic exposure to community
+violence and trauma, layered on top of the systemic disinvestment that
+has historically left Southwest DC's public housing communities
+under-resourced relative to wealthier DC neighborhoods.
+
+This request specifically targets youth ages 14 to 18 and their
+caregivers. GOODLearningHub has served children ages 5 to 14 with
+tutoring, meals, and social-emotional learning for years, and Family
+Success Planning has stabilized 130 individuals and their households in
+FY25 alone, but licensed clinical mental health support only extended up
+through age 18 for the first time in August 2025. Teens in this age band
+face the same trauma exposure as younger children, plus the added
+pressures of the transition to adulthood: school transitions, early
+workforce entry, and, for many, direct or secondary exposure to the
+violence GOODZone works daily to interrupt. Their caregivers, already
+engaged through Family Success Planning's weekly coaching model, are the
+second half of this population: adults who need to understand and
+reinforce what their teens are learning in structured mental health
+support, not be left outside of it. *(2038/2500 characters)*
 
 ## PROPOSED PROGRAM INFORMATION
 
